@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13ba180
+size = 0x19
+name = "?sq_addref@@YIXUHSQUIRRELVM@@PEAUHSQOBJECT@@@Z"
+type = "void"
+
+[header]
+name = "?sq_addref@@YIXUHSQUIRRELVM@@PEAUHSQOBJECT@@@Z"
+addr = 0x13ba180
+type = "void"
+
+[header.args]

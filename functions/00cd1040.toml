@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xcd1040
+size = 0xf
+name = "??1SpriteStudioPaneAlwaysUpdate@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1SpriteStudioPaneAlwaysUpdate@ui@app@@QEAI@XZ"
+addr = 0xcd1040
+type = "void"
+
+[header.args]

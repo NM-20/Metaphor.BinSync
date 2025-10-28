@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x14753e0
+size = 0x5
+name = "j_?sq_base_register@@YIXUHSQUIRRELVM@@@Z"
+
+[header]
+name = "j_?sq_base_register@@YIXUHSQUIRRELVM@@@Z"
+addr = 0x14753e0
+
+[header.args]

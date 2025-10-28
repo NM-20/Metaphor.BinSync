@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273641Z
+addr = 0x693570
+size = 0x5e
+name = "??0fldGmcLadder@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldGmcLadder@fld@app@@QEAI@XZ"
+addr = 0x693570
+type = "void *"
+
+[header.args]

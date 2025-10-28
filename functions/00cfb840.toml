@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xcfb840
+size = 0xea
+name = "??0MainLayout@GreetingMessageWindowLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0MainLayout@GreetingMessageWindowLayout@ui@app@@QEAI@XZ"
+addr = 0xcfb840
+type = "void *"
+
+[header.args]

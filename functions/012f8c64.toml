@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f8c64
+size = 0xa
+name = "?criFsLoader_CreateInternal@@SIW5CriError@@PEAUCriFsLoaderHn@@@Z"
+type = "CriError"
+
+[header]
+name = "?criFsLoader_CreateInternal@@SIW5CriError@@PEAUCriFsLoaderHn@@@Z"
+addr = 0x12f8c64
+type = "CriError"
+
+[header.args]

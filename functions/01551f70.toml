@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281647Z
+addr = 0x1551f70
+size = 0x7
+name = "j_j_malloc_0"
+type = "void *"
+
+[header]
+name = "j_j_malloc_0"
+addr = 0x1551f70
+type = "void *"
+
+[header.args]

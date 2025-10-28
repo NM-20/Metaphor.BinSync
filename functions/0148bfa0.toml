@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x148bfa0
+size = 0xd6
+name = "?InternalGetTextureDataFromEntryIndex@Resource@TPL@@SIPEBUu8@@UDataHandle@12@Us32@@AEAUu32@@@Z"
+type = "const u8 *"
+
+[header]
+name = "?InternalGetTextureDataFromEntryIndex@Resource@TPL@@SIPEBUu8@@UDataHandle@12@Us32@@AEAUu32@@@Z"
+addr = 0x148bfa0
+type = "const u8 *"
+
+[header.args]

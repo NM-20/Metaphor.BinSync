@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe2cc70
+size = 0x69
+name = "??0?$StaticArray@VCursorItemInfo@CursorManagerBase@ope@ui@app@@$0ME@@fw@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0?$StaticArray@VCursorItemInfo@CursorManagerBase@ope@ui@app@@$0ME@@fw@@QEAI@XZ"
+addr = 0xe2cc70
+type = "void *"
+
+[header.args]

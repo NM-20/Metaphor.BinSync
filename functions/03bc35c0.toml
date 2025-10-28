@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281647Z
+addr = 0x3bc35c0
+size = 0x1c8
+name = "?RemoveExtension@resrc@app@@YIUStlString@TPL@@AEBV34@@Z"
+type = "TPL::StlString *"
+
+[header]
+name = "?RemoveExtension@resrc@app@@YIUStlString@TPL@@AEBV34@@Z"
+addr = 0x3bc35c0
+type = "TPL::StlString *"
+
+[header.args]

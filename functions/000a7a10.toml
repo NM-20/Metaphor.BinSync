@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.271139Z
+addr = 0xa7a10
+size = 0x59
+name = "??$_Allocate_for_capacity@U_Exactly@_Allocation_policy@string@std@@@string@std@@AAIUpointer@string@std@@AEAV?$allocator@D@std@@Usize_t@@@Z"
+type = "char *"
+
+[header]
+name = "??$_Allocate_for_capacity@U_Exactly@_Allocation_policy@string@std@@@string@std@@AAIUpointer@string@std@@AEAV?$allocator@D@std@@Usize_t@@@Z"
+addr = 0xa7a10
+type = "char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe63660
+size = 0x150
+name = "??0ItemShopAppraisalChoice@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0ItemShopAppraisalChoice@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xe63660
+type = "void *"
+
+[header.args]

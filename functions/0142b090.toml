@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x142b090
+size = 0x1a4
+name = "??1Player@ss@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1Player@ss@@QEAI@XZ"
+addr = 0x142b090
+type = "void"
+
+[header.args]

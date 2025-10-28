@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe95180
+size = 0x5
+name = "j_??0UploadTravelersParty@tr_voice@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0UploadTravelersParty@tr_voice@ui@app@@QAI@XZ"
+addr = 0xe95180
+type = "void *"
+
+[header.args]

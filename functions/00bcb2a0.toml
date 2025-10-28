@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbcb2a0
+size = 0x93
+name = "??0MetaballAnime@MetaballFocusLayout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0MetaballAnime@MetaballFocusLayout@ui@app@@QAI@XZ"
+addr = 0xbcb2a0
+type = "void *"
+
+[header.args]

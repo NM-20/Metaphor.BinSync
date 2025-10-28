@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13ad7df
+size = 0x6
+name = "j_?setBlocking@Socket@shdfnd@physx@@QEAAX_N@Z"
+type = "void"
+
+[header]
+name = "j_?setBlocking@Socket@shdfnd@physx@@QEAAX_N@Z"
+addr = 0x13ad7df
+type = "void"
+
+[header.args]

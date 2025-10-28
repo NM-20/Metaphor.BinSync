@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x20556bd0
+size = 0x43
+name = "??1TextPaneBase@ui@fw@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1TextPaneBase@ui@fw@@QAI@XZ"
+addr = 0x20556bd0
+type = "void"
+
+[header.args]

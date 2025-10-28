@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb3e030
+size = 0xbd
+name = "??0CampCharaArmLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CampCharaArmLayout@ui@app@@QEAI@XZ"
+addr = 0xb3e030
+type = "void *"
+
+[header.args]

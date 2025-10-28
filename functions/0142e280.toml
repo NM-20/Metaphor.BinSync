@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x142e280
+size = 0x68c
+name = "?allocParts@Player@ss@@IEAIXH@Z"
+type = "void"
+
+[header]
+name = "?allocParts@Player@ss@@IEAIXH@Z"
+addr = 0x142e280
+type = "void"
+
+[header.args]

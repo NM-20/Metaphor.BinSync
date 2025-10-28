@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x6b47b0
+size = 0xb
+name = "??1?$SingletonBase@VfldGallicaTalk@fld@app@@@fw@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1?$SingletonBase@VfldGallicaTalk@fld@app@@@fw@@QAI@XZ"
+addr = 0x6b47b0
+type = "void"
+
+[header.args]

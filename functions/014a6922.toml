@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6922
+size = 0x6
+name = "j_pow"
+type = "double"
+
+[header]
+name = "j_pow"
+addr = 0x14a6922
+type = "double"
+
+[header.args]

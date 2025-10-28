@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7f7960
+size = 0x5
+name = "?GetDeformer@RenderPaneBase@ui@fw@@QEAIPEAVDeformerBase@23@XZ"
+type = "fw::ui::DeformerBase *"
+
+[header]
+name = "?GetDeformer@RenderPaneBase@ui@fw@@QEAIPEAVDeformerBase@23@XZ"
+addr = 0x7f7960
+type = "fw::ui::DeformerBase *"
+
+[header.args]

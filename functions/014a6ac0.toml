@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6ac0
+size = 0x6
+name = "j__configure_narrow_argv"
+type = "errno_t"
+
+[header]
+name = "j__configure_narrow_argv"
+addr = 0x14a6ac0
+type = "errno_t"
+
+[header.args]

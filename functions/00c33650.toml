@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc33650
+size = 0x194
+name = "??0DispelItemInfomation@simple@shop@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0DispelItemInfomation@simple@shop@layout@ui@app@@QEAI@XZ"
+addr = 0xc33650
+type = "void *"
+
+[header.args]

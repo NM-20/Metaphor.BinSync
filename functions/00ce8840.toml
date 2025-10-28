@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xce8840
+size = 0x4f
+name = "??0SaveLoadLayoutBase@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0SaveLoadLayoutBase@ui@app@@QEAI@XZ"
+addr = 0xce8840
+type = "void *"
+
+[header.args]

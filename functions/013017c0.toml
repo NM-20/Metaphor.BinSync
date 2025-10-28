@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13017c0
+size = 0x25
+name = "?criFsIo_GetFileSize@@SIW5CriError@@PEBXPEAXAEAUCriSint64@@@Z"
+type = "CriError"
+
+[header]
+name = "?criFsIo_GetFileSize@@SIW5CriError@@PEBXPEAXAEAUCriSint64@@@Z"
+addr = 0x13017c0
+type = "CriError"
+
+[header.args]

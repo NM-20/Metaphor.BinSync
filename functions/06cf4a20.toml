@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x6cf4a20
+size = 0x13f
+name = "??0fclSystemTutorialMenu@fcl@app@@QEAI@PEAX0@Z"
+type = "void *"
+
+[header]
+name = "??0fclSystemTutorialMenu@fcl@app@@QEAI@PEAX0@Z"
+addr = 0x6cf4a20
+type = "void *"
+
+[header.args]

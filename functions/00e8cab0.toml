@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe8cab0
+size = 0x5
+name = "j_??0CursorManager@ope@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0CursorManager@ope@ui@app@@QEAI@XZ"
+addr = 0xe8cab0
+type = "void *"
+
+[header.args]

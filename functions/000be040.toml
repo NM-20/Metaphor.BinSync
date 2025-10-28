@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.271139Z
+addr = 0xbe040
+size = 0x5
+name = "j_??$_Find_last@Vtype_index@std@@@?$StlUnorderedMap@Vtype_index@std@@PEAVUUIC_Parts_Base@ui@app@@@TPL@@AEAIXAEBUtype_index@std@@Usize_t@@@Z"
+type = "std::_Hash_find_last_result<std::_List_node<std::pair<const std::type_index, app::ui::UUIC_Parts_Base *>, void *> *> *"
+
+[header]
+name = "j_??$_Find_last@Vtype_index@std@@@?$StlUnorderedMap@Vtype_index@std@@PEAVUUIC_Parts_Base@ui@app@@@TPL@@AEAIXAEBUtype_index@std@@Usize_t@@@Z"
+addr = 0xbe040
+type = "std::_Hash_find_last_result<std::_List_node<std::pair<const std::type_index, app::ui::UUIC_Parts_Base *>, void *> *> *"
+
+[header.args]

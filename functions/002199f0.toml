@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x2199f0
+size = 0x70
+name = "??R?$less@UStlString@TPL@@@std@@SI_NAEBUStlString@TPL@@0@Z"
+type = "bool"
+
+[header]
+name = "??R?$less@UStlString@TPL@@@std@@SI_NAEBUStlString@TPL@@0@Z"
+addr = 0x2199f0
+type = "bool"
+
+[header.args]

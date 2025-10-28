@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd16b80
+size = 0xf1
+name = "??0RankupNoticeLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0RankupNoticeLayout@ui@app@@QEAI@XZ"
+addr = 0xd16b80
+type = "void *"
+
+[header.args]

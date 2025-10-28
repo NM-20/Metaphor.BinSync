@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a3f70
+size = 0x4e
+name = "__alloca_probe"
+
+[header]
+name = "__alloca_probe"
+addr = 0x14a3f70
+
+[header.args]

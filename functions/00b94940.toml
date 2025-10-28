@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb94940
+size = 0x10b
+name = "??0CampArchetypeDetailLayout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CampArchetypeDetailLayout@ui@app@@QAI@XZ"
+addr = 0xb94940
+type = "void *"
+
+[header.args]

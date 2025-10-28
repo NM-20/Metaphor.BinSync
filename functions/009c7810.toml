@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9c7810
+size = 0x5
+name = "j_??0?$_Matcher@Uconst_iterator@string@std@@DV?$regex_traits@D@std@@D@std@@QAIV?$_Matcher@Uconst_iterator@string@std@@DV?$regex_traits@D@std@@D@std@@PEADPEADV?$regex_traits@D@std@@V_Root_node@std@@IW4syntax_option_type@regex_constants@std@@W4match_flag_type@regex_constants@std@@@Z"
+type = "std::_Matcher<std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>, char, std::regex_traits<char>, char> *"
+
+[header]
+name = "j_??0?$_Matcher@Uconst_iterator@string@std@@DV?$regex_traits@D@std@@D@std@@QAIV?$_Matcher@Uconst_iterator@string@std@@DV?$regex_traits@D@std@@D@std@@PEADPEADV?$regex_traits@D@std@@V_Root_node@std@@IW4syntax_option_type@regex_constants@std@@W4match_flag_type@regex_constants@std@@@Z"
+addr = 0x9c7810
+type = "std::_Matcher<std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>>, char, std::regex_traits<char>, char> *"
+
+[header.args]

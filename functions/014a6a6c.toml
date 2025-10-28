@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6a6c
+size = 0x6
+name = "j_fopen_s"
+type = "errno_t"
+
+[header]
+name = "j_fopen_s"
+addr = 0x14a6a6c
+type = "errno_t"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xca0370
+size = 0x46
+name = "??0GameOverLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0GameOverLayout@ui@app@@QEAI@XZ"
+addr = 0xca0370
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x391e30
+size = 0x1f1
+name = "??0?$tree_ptr@UData@fldSaveData@fld@app@@@dataStructuresForFileIO@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$tree_ptr@UData@fldSaveData@fld@app@@@dataStructuresForFileIO@app@@QEAI@PEAX@Z"
+addr = 0x391e30
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283649Z
+addr = 0x199036f0
+size = 0x1a3
+name = "RegisterForLoad"
+type = "fw::ui::LayoutBase *"
+
+[header]
+name = "RegisterForLoad"
+addr = 0x199036f0
+type = "fw::ui::LayoutBase *"
+
+[header.args]

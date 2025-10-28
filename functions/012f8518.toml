@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f8518
+size = 0x6a
+name = "?crifsbinder_makeRealPath@@SIXUCriFsBinderFileInfo@@PEBUCriChar8@@PEAU2@UCriUint64@@@Z"
+type = "void"
+
+[header]
+name = "?crifsbinder_makeRealPath@@SIXUCriFsBinderFileInfo@@PEBUCriChar8@@PEAU2@UCriUint64@@@Z"
+addr = 0x12f8518
+type = "void"
+
+[header.args]

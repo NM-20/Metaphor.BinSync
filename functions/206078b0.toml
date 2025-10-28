@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x206078b0
+size = 0x16
+name = "?_Move@?$_Func_impl_no_alloc@V_lambda_19eda57672dfb4b0d6238033fcbb8523_@@W4APP_DRAW_TYPE@ui@fw@@PEBD@std@@AEAIPEAV?$_Func_base@W4APP_DRAW_TYPE@ui@fw@@PEBD@2@PEAX@Z"
+type = "void *"
+
+[header]
+name = "?_Move@?$_Func_impl_no_alloc@V_lambda_19eda57672dfb4b0d6238033fcbb8523_@@W4APP_DRAW_TYPE@ui@fw@@PEBD@std@@AEAIPEAV?$_Func_base@W4APP_DRAW_TYPE@ui@fw@@PEBD@2@PEAX@Z"
+addr = 0x206078b0
+type = "void *"
+
+[header.args]

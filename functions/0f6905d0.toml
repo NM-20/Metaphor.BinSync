@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf6905d0
+size = 0x4b
+name = "??1?$shared_ptr@VStringData@font@fw@@@std@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1?$shared_ptr@VStringData@font@fw@@@std@@QEAI@XZ"
+addr = 0xf6905d0
+type = "void"
+
+[header.args]

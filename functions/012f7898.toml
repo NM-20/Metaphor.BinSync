@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f7898
+size = 0x23d
+name = "?crifsbinder_findEntry@@SIW5CriError@@UCriFsBinderHn@@PEAUCriFsFindArg@@PEAU2@PEAUCriBool@@@Z"
+type = "CriError"
+
+[header]
+name = "?crifsbinder_findEntry@@SIW5CriError@@UCriFsBinderHn@@PEAUCriFsFindArg@@PEAU2@PEAUCriBool@@@Z"
+addr = 0x12f7898
+type = "CriError"
+
+[header.args]

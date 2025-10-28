@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1412120
+size = 0x20
+name = "?SetPosition@SpriteStudioPaneBase@ui@fw@@QEAIAEAV123@MM@Z"
+type = "fw::ui::SpriteStudioPaneBase *"
+
+[header]
+name = "?SetPosition@SpriteStudioPaneBase@ui@fw@@QEAIAEAV123@MM@Z"
+addr = 0x1412120
+type = "fw::ui::SpriteStudioPaneBase *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x148c740
+size = 0x8
+name = "SetFreeFunction"
+type = "void"
+
+[header]
+name = "SetFreeFunction"
+addr = 0x148c740
+type = "void"
+
+[header.args]

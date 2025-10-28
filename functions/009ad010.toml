@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274642Z
+addr = 0x9ad010
+size = 0x2e
+name = "??0Flag@takeuchi@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Flag@takeuchi@@QEAI@XZ"
+addr = 0x9ad010
+type = "void *"
+
+[header.args]

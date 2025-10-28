@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147a9b0
+size = 0x2f1
+name = "??$_Try_emplace@UStlString@TPL@@@?$StlUnorderedMap@UStlString@TPL@@UHandle@Resource@TPL@@@TPL@@AEAI@$$QEBUStlString@1@@Z"
+type = "std::pair<std::_List_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, unsigned int>, void *> *, bool> *"
+
+[header]
+name = "??$_Try_emplace@UStlString@TPL@@@?$StlUnorderedMap@UStlString@TPL@@UHandle@Resource@TPL@@@TPL@@AEAI@$$QEBUStlString@1@@Z"
+addr = 0x147a9b0
+type = "std::pair<std::_List_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, unsigned int>, void *> *, bool> *"
+
+[header.args]

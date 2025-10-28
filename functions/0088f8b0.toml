@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274642Z
+addr = 0x88f8b0
+size = 0x5
+name = "j_Get_FollowerTableBin"
+type = "const u8 *"
+
+[header]
+name = "j_Get_FollowerTableBin"
+addr = 0x88f8b0
+type = "const u8 *"
+
+[header.args]

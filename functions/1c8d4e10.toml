@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284149Z
+addr = 0x1c8d4e10
+size = 0x337
+name = "??0fldScene_LoadResource@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldScene_LoadResource@fld@app@@QEAI@XZ"
+addr = 0x1c8d4e10
+type = "void *"
+
+[header.args]

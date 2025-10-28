@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278144Z
+addr = 0xddc500
+size = 0x150
+name = "??0CampQuestDetailChoice@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0CampQuestDetailChoice@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xddc500
+type = "void *"
+
+[header.args]

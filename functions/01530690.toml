@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281647Z
+addr = 0x1530690
+size = 0x7
+name = "j_free"
+type = "void"
+
+[header]
+name = "j_free"
+addr = 0x1530690
+type = "void"
+
+[header.args]

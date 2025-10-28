@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f94a8
+size = 0x5
+name = "j_?criFsLoader_RegisterFile@@SIW5CriError@@UCriFsLoaderHn@@UCriFsBinderHn@@PEBUCriChar8@@@Z"
+type = "CriError"
+
+[header]
+name = "j_?criFsLoader_RegisterFile@@SIW5CriError@@UCriFsLoaderHn@@UCriFsBinderHn@@PEBUCriChar8@@@Z"
+addr = 0x12f94a8
+type = "CriError"
+
+[header.args]

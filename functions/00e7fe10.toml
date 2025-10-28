@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe7fe10
+size = 0x244
+name = "??0NameEntryKeyboard_GameUI@fcl@app@@QEAI@H@Z"
+type = "void *"
+
+[header]
+name = "??0NameEntryKeyboard_GameUI@fcl@app@@QEAI@H@Z"
+addr = 0xe7fe10
+type = "void *"
+
+[header.args]

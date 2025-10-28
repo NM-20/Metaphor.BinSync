@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a4860
+size = 0x1d
+name = "__GSHandlerCheck"
+
+[header]
+name = "__GSHandlerCheck"
+addr = 0x14a4860
+
+[header.args]

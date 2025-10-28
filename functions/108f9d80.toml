@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0x108f9d80
+size = 0x21
+name = "??0Animator@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Animator@ui@app@@QAI@XZ"
+addr = 0x108f9d80
+type = "void *"
+
+[header.args]

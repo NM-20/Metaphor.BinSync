@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0x10c3180
+size = 0x7
+name = "j__commit"
+type = "int"
+
+[header]
+name = "j__commit"
+addr = 0x10c3180
+type = "int"
+
+[header.args]

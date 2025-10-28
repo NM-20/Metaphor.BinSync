@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274642Z
+addr = 0x98e420
+size = 0x4c
+name = "??0ColTestObj@takeuchi@@QEAI@Uu32@@@Z"
+type = "void *"
+
+[header]
+name = "??0ColTestObj@takeuchi@@QEAI@Uu32@@@Z"
+addr = 0x98e420
+type = "void *"
+
+[header.args]

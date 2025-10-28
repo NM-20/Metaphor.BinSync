@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9cf2a0
+size = 0x2b6
+name = "RemovePrefixAndSplitByWhitespace"
+type = "std::vector<std::string> *"
+
+[header]
+name = "RemovePrefixAndSplitByWhitespace"
+addr = 0x9cf2a0
+type = "std::vector<std::string> *"
+
+[header.args]

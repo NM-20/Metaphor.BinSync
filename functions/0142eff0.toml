@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x142eff0
+size = 0x5
+name = "j_DeleteSsPlayer"
+type = "void"
+
+[header]
+name = "j_DeleteSsPlayer"
+addr = 0x142eff0
+type = "void"
+
+[header.args]

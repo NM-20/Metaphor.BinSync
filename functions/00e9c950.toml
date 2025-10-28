@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe9c950
+size = 0x363
+name = "??0?$tree_ptr@VMessageLogSaveDataInfo@ui@app@@@dataStructuresForFileIO@app@@QEAI@Us64@@Us32@@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$tree_ptr@VMessageLogSaveDataInfo@ui@app@@@dataStructuresForFileIO@app@@QEAI@Us64@@Us32@@PEAX@Z"
+addr = 0xe9c950
+type = "void *"
+
+[header.args]

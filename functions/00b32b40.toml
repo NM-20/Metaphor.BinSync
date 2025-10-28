@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb32b40
+size = 0x6f
+name = "??0?$StaticArray@UListInfoItem@CampCooperationMainLayout@ui@app@@$0BF@@fw@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0?$StaticArray@UListInfoItem@CampCooperationMainLayout@ui@app@@$0BF@@fw@@QEAI@XZ"
+addr = 0xb32b40
+type = "void *"
+
+[header.args]

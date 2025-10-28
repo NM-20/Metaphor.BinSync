@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf56a150
+size = 0x130
+name = "?ParseMessageData@Manager@msg@app@@CI@QEAu8@@Uu32@@@Z"
+type = "std::pair<std::vector<app::msg::Manager::MesHandle::Data, TPL::MyAllocator<app::msg::Manager::MesHandle::Data>>, bool> *"
+
+[header]
+name = "?ParseMessageData@Manager@msg@app@@CI@QEAu8@@Uu32@@@Z"
+addr = 0xf56a150
+type = "std::pair<std::vector<app::msg::Manager::MesHandle::Data, TPL::MyAllocator<app::msg::Manager::MesHandle::Data>>, bool> *"
+
+[header.args]

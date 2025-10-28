@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecab40
+size = 0x1e
+name = "??0?$function@A6I_NW4TEXTURE_PARTS_ID@ui@app@@@Z@std@@QAI@A6I_NW4TEXTURE_PARTS_ID@ui@app@@@Z@Z"
+type = "std::function<bool (app::ui::TEXTURE_PARTS_ID)> *"
+
+[header]
+name = "??0?$function@A6I_NW4TEXTURE_PARTS_ID@ui@app@@@Z@std@@QAI@A6I_NW4TEXTURE_PARTS_ID@ui@app@@@Z@Z"
+addr = 0xecab40
+type = "std::function<bool (app::ui::TEXTURE_PARTS_ID)> *"
+
+[header.args]

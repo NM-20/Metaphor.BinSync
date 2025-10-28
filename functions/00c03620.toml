@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc03620
+size = 0xb4
+name = "??0AudioSelect@config@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0AudioSelect@config@layout@ui@app@@QAI@XZ"
+addr = 0xc03620
+type = "void *"
+
+[header.args]

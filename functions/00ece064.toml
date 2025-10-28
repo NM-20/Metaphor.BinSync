@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xece064
+size = 0x9
+name = "??_G?$SingletonManager@VTextureManager@ui@app@@@fw@@YIXD@Z"
+type = "void"
+
+[header]
+name = "??_G?$SingletonManager@VTextureManager@ui@app@@@fw@@YIXD@Z"
+addr = 0xece064
+type = "void"
+
+[header.args]

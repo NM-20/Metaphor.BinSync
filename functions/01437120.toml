@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1437120
+size = 0x2ec
+name = "?updateFrame@Player@ss@@IEAIXM@Z"
+type = "void"
+
+[header]
+name = "?updateFrame@Player@ss@@IEAIXM@Z"
+addr = 0x1437120
+type = "void"
+
+[header.args]

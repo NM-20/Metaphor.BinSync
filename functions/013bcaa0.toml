@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13bcaa0
+size = 0xc4
+name = "?sq_aux_gettypedarg@@YI_NUHSQUIRRELVM@@USQInteger@@USQObjectType@@PEAPEAUSQObjectPtr@@@Z"
+type = "bool"
+
+[header]
+name = "?sq_aux_gettypedarg@@YI_NUHSQUIRRELVM@@USQInteger@@USQObjectType@@PEAPEAUSQObjectPtr@@@Z"
+addr = 0x13bcaa0
+type = "bool"
+
+[header.args]

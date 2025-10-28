@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6ae4
+size = 0x6
+name = "j__crt_at_quick_exit"
+type = "int"
+
+[header]
+name = "j__crt_at_quick_exit"
+addr = 0x14a6ae4
+type = "int"
+
+[header.args]

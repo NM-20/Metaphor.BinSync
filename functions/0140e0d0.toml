@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x140e0d0
+size = 0x56
+name = "?Update@PaneBase@ui@fw@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?Update@PaneBase@ui@fw@@QEAIXXZ"
+addr = 0x140e0d0
+type = "void"
+
+[header.args]

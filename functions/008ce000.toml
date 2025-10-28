@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274642Z
+addr = 0x8ce000
+size = 0xb9
+name = "?BindFunc@Object@Sqrat@@IEAIXPEBUSQChar@@PEAXUsize_t@@USQFUNCTION@@_N@Z"
+type = "void"
+
+[header]
+name = "?BindFunc@Object@Sqrat@@IEAIXPEBUSQChar@@PEAXUsize_t@@USQFUNCTION@@_N@Z"
+addr = 0x8ce000
+type = "void"
+
+[header.args]

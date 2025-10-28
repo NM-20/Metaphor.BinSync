@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1436cd0
+size = 0x3e9
+name = "?setState@CustomSprite@ss@@QEAIXAEBUState@2@@Z"
+type = "void"
+
+[header]
+name = "?setState@CustomSprite@ss@@QEAIXAEBUState@2@@Z"
+addr = 0x1436cd0
+type = "void"
+
+[header.args]

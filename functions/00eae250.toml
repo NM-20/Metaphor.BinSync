@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeae250
+size = 0x73
+name = "UIManagerUpdate"
+type = "long long"
+
+[header]
+name = "UIManagerUpdate"
+addr = 0xeae250
+type = "long long"
+
+[header.args]

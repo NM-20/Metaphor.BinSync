@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x20ee7780
+size = 0x1dd
+name = "?TODO_ActualLoadResource@ResourceManager@TPL@@SIXXZ"
+type = "struct _Mtx_internal_imp_t *"
+
+[header]
+name = "?TODO_ActualLoadResource@ResourceManager@TPL@@SIXXZ"
+addr = 0x20ee7780
+type = "struct _Mtx_internal_imp_t *"
+
+[header.args]

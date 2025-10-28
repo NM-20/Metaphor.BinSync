@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x24b480
+size = 0x80
+name = "??1Data@?$VariableBuffer@$04@fw@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1Data@?$VariableBuffer@$04@fw@@QEAI@XZ"
+addr = 0x24b480
+type = "void"
+
+[header.args]

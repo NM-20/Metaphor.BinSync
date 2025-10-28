@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xed2730
+size = 0x5
+name = "j_?GetPackFileIdFromTextureId@TextureManager@ui@app@@QAIUValueType@TextureId@23@AEBU523@@Z"
+type = "app::ui::TEXTURE_ID"
+
+[header]
+name = "j_?GetPackFileIdFromTextureId@TextureManager@ui@app@@QAIUValueType@TextureId@23@AEBU523@@Z"
+addr = 0xed2730
+type = "app::ui::TEXTURE_ID"
+
+[header.args]

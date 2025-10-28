@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xc37f40
+size = 0x42
+name = "??1MenuLine@general@shop@layout@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1MenuLine@general@shop@layout@ui@app@@QEAI@XZ"
+addr = 0xc37f40
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeb7e20
+size = 0x1b
+name = "??0AnimationReadProjectInfo@SpriteStudioManager@ui@app@@QEAI@XZ"
+type = "app::ui::SpriteStudioManager::AnimationReadProjectInfo *"
+
+[header]
+name = "??0AnimationReadProjectInfo@SpriteStudioManager@ui@app@@QEAI@XZ"
+addr = 0xeb7e20
+type = "app::ui::SpriteStudioManager::AnimationReadProjectInfo *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1436300
+size = 0x804
+name = "?setPartsParentage@Player@ss@@IEAIX_N_N_N@Z"
+type = "void"
+
+[header]
+name = "?setPartsParentage@Player@ss@@IEAIX_N_N_N@Z"
+addr = 0x1436300
+type = "void"
+
+[header.args]

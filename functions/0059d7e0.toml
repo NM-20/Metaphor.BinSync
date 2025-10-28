@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x59d7e0
+size = 0x29
+name = "??1?$StlVector@ULabel@SubGroup@MainGroup@JobDataGroup@fldReportLink@fld@app@@@TPL@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1?$StlVector@ULabel@SubGroup@MainGroup@JobDataGroup@fldReportLink@fld@app@@@TPL@@QEAI@XZ"
+addr = 0x59d7e0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe89560
+size = 0x97
+name = "??0UiParts_StlCallback@ope@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0UiParts_StlCallback@ope@ui@app@@QEAI@XZ"
+addr = 0xe89560
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc177c0
+size = 0x140
+name = "??0Levelup@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Levelup@layout@ui@app@@QEAI@XZ"
+addr = 0xc177c0
+type = "void *"
+
+[header.args]

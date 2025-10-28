@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xf999c0
+size = 0x541
+name = "??0UUIC_Common_TravelersVoice@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0UUIC_Common_TravelersVoice@ui@app@@QEAI@XZ"
+addr = 0xf999c0
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbcab40
+size = 0x3d
+name = "??0CommonGuideLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CommonGuideLayout@ui@app@@QEAI@XZ"
+addr = 0xbcab40
+type = "void *"
+
+[header.args]

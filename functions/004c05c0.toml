@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x4c05c0
+size = 0x5
+name = "j_?_Reset_move@?$function@P6IXPEAVLayoutBase@ui@fw@@@Z@std@@IEAIX$$QEAV12@@Z"
+type = "void"
+
+[header]
+name = "j_?_Reset_move@?$function@P6IXPEAVLayoutBase@ui@fw@@@Z@std@@IEAIX$$QEAV12@@Z"
+addr = 0x4c05c0
+type = "void"
+
+[header.args]

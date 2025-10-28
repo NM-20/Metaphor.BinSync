@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf7dc7b0
+size = 0xfe
+name = "?GetMessageHandle@Manager@msg@app@@QAIPEAUMesHandle@123@UId@4123@@Z"
+type = "app::msg::Manager::MesHandle *"
+
+[header]
+name = "?GetMessageHandle@Manager@msg@app@@QAIPEAUMesHandle@123@UId@4123@@Z"
+addr = 0xf7dc7b0
+type = "app::msg::Manager::MesHandle *"
+
+[header.args]

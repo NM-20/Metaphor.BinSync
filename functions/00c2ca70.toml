@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc2ca70
+size = 0xc
+name = "??1ListInfoItem@list@cook@layout@ui@app@@QEAI@PEAX@Z"
+type = "void"
+
+[header]
+name = "??1ListInfoItem@list@cook@layout@ui@app@@QEAI@PEAX@Z"
+addr = 0xc2ca70
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd6c070
+size = 0x168
+name = "??0BTL_SyentesisSkillList@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0BTL_SyentesisSkillList@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xd6c070
+type = "void *"
+
+[header.args]

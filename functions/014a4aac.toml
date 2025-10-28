@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a4aac
+size = 0x9c
+name = "__report_securityfailure"
+
+[header]
+name = "__report_securityfailure"
+addr = 0x14a4aac
+
+[header.args]

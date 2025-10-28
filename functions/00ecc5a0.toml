@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecc5a0
+size = 0x8ae
+name = "??0TextureManager@ui@app@@QAI@XZ"
+type = "app::ui::TextureManager *"
+
+[header]
+name = "??0TextureManager@ui@app@@QAI@XZ"
+addr = 0xecc5a0
+type = "app::ui::TextureManager *"
+
+[header.args]

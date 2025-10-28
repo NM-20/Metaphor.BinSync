@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1410a70
+size = 0x20
+name = "?SetAlpha@SpriteStudioPaneBase@ui@fw@@QEAIAEAV123@Us32@@@Z"
+type = "fw::ui::SpriteStudioPaneBase *"
+
+[header]
+name = "?SetAlpha@SpriteStudioPaneBase@ui@fw@@QEAIAEAV123@Us32@@@Z"
+addr = 0x1410a70
+type = "fw::ui::SpriteStudioPaneBase *"
+
+[header.args]

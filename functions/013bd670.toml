@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13bd670
+size = 0xd7
+name = "?sq_newuserdata@@YIUSQUserPointer@@UHSQUIRRELVM@@USQUnsignedInteger@@@Z"
+type = "SQUserPointer"
+
+[header]
+name = "?sq_newuserdata@@YIUSQUserPointer@@UHSQUIRRELVM@@USQUnsignedInteger@@@Z"
+addr = 0x13bd670
+type = "SQUserPointer"
+
+[header.args]

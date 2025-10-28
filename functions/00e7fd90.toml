@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe7fd90
+size = 0x1e
+name = "??0KeyboardOneInfo@fcl@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0KeyboardOneInfo@fcl@app@@QEAI@XZ"
+addr = 0xe7fd90
+type = "void *"
+
+[header.args]

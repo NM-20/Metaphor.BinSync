@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7eab80
+size = 0xae
+name = "??4any@std@@QEAIAEAV01@$$QEAV01@@Z"
+type = "std::any *"
+
+[header]
+name = "??4any@std@@QEAIAEAV01@$$QEAV01@@Z"
+addr = 0x7eab80
+type = "std::any *"
+
+[header.args]

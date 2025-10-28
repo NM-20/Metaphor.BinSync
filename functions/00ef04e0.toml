@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xef04e0
+size = 0xdf
+name = "?Update@UIModelManager@ui@app@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?Update@UIModelManager@ui@app@@QEAIXXZ"
+addr = 0xef04e0
+type = "void"
+
+[header.args]

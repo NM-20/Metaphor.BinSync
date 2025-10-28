@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278144Z
+addr = 0xd99980
+size = 0x1d8
+name = "??0?$ConfigMenuBaseChoice@V?$CampConfigLayoutPc@UConfigPcConfigMisc@ui@app@@@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$ConfigMenuBaseChoice@V?$CampConfigLayoutPc@UConfigPcConfigMisc@ui@app@@@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xd99980
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x24b7d0
+size = 0xf
+name = "?c_str@StlString@TPL@@QAIPEBDXZ"
+type = "const char *"
+
+[header]
+name = "?c_str@StlString@TPL@@QAIPEBDXZ"
+addr = 0x24b7d0
+type = "const char *"
+
+[header.args]

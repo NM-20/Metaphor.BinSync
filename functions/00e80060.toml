@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe80060
+size = 0x5
+name = "j_??0NameEntryKeyboard_System@fcl@app@@QEAI@H@Z"
+type = "void *"
+
+[header]
+name = "j_??0NameEntryKeyboard_System@fcl@app@@QEAI@H@Z"
+addr = 0xe80060
+type = "void *"
+
+[header.args]

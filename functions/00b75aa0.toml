@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb75aa0
+size = 0xc16
+name = "??0Main@quest@camp@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Main@quest@camp@layout@ui@app@@QAI@XZ"
+addr = 0xb75aa0
+type = "void *"
+
+[header.args]

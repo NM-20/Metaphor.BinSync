@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb60b40
+size = 0x30
+name = "??0PaintFocusOverPane@menu@camp@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0PaintFocusOverPane@menu@camp@layout@ui@app@@QEAI@XZ"
+addr = 0xb60b40
+type = "void *"
+
+[header.args]

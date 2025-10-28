@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6a60
+size = 0x6
+name = "j_wcslen"
+type = "size_t"
+
+[header]
+name = "j_wcslen"
+addr = 0x14a6a60
+type = "size_t"
+
+[header.args]

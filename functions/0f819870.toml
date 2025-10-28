@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf819870
+size = 0x173
+name = "?GetMesHandleIdFromPath@Manager@msg@app@@QAE?AW4IdType@MesHandle@Manager@msg@app@@PEBD@Z"
+type = "app::msg::Manager::MesHandle::IdType"
+
+[header]
+name = "?GetMesHandleIdFromPath@Manager@msg@app@@QAE?AW4IdType@MesHandle@Manager@msg@app@@PEBD@Z"
+addr = 0xf819870
+type = "app::msg::Manager::MesHandle::IdType"
+
+[header.args]

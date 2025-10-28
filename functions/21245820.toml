@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x21245820
+size = 0x19c
+name = "?IsCompressed@Compress@TPL@@YI_NPEBUu8@@@Z"
+type = "bool"
+
+[header]
+name = "?IsCompressed@Compress@TPL@@YI_NPEBUu8@@@Z"
+addr = 0x21245820
+type = "bool"
+
+[header.args]

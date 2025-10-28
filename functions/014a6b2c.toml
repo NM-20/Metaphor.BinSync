@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6b2c
+size = 0x6
+name = "j__configthreadlocale"
+type = "int"
+
+[header]
+name = "j__configthreadlocale"
+addr = 0x14a6b2c
+type = "int"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a4efc
+size = 0x3
+name = "_guard_check_icall_nop"
+
+[header]
+name = "_guard_check_icall_nop"
+addr = 0x14a4efc
+
+[header.args]

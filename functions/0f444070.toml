@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf444070
+size = 0x60
+name = "??0mgwSceneFactory@mgw@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0mgwSceneFactory@mgw@app@@QEAI@XZ"
+addr = 0xf444070
+type = "void *"
+
+[header.args]

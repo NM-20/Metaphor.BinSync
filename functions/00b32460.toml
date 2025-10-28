@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb32460
+size = 0x300
+name = "??0CampCoopSelectLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CampCoopSelectLayout@ui@app@@QEAI@XZ"
+addr = 0xb32460
+type = "void *"
+
+[header.args]

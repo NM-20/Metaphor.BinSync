@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeb0520
+size = 0x3e
+name = "??1SpriteStudioPane@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1SpriteStudioPane@ui@app@@QEAI@XZ"
+addr = 0xeb0520
+type = "void"
+
+[header.args]

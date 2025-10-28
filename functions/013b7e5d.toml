@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13b7e5d
+size = 0x6
+name = "j_WerRegisterRuntimeExceptionModule"
+type = "HRESULT"
+
+[header]
+name = "j_WerRegisterRuntimeExceptionModule"
+addr = 0x13b7e5d
+type = "HRESULT"
+
+[header.args]

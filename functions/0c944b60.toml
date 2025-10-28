@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xc944b60
+size = 0x8b
+name = "??1?$StaticFontArray@$00@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1?$StaticFontArray@$00@ui@app@@QAI@XZ"
+addr = 0xc944b60
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0xfcafe0
+size = 0x5
+name = "j_??0UniversalUIController@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0UniversalUIController@ui@app@@QAI@XZ"
+addr = 0xfcafe0
+type = "void *"
+
+[header.args]

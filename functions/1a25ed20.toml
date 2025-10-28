@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284149Z
+addr = 0x1a25ed20
+size = 0x66
+name = "??0UUIC_Common_SystemMessageWindow@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0UUIC_Common_SystemMessageWindow@ui@app@@QEAI@XZ"
+addr = 0x1a25ed20
+type = "void *"
+
+[header.args]

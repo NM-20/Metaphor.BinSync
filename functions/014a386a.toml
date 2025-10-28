@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a386a
+size = 0x6
+name = "j_?__ExceptionPtrRethrow@@YAXPEBX@Z"
+type = "void"
+
+[header]
+name = "j_?__ExceptionPtrRethrow@@YAXPEBX@Z"
+addr = 0x14a386a
+type = "void"
+
+[header.args]

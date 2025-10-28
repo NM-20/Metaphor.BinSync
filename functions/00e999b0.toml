@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe999b0
+size = 0x3cc
+name = "AssignsToVariableBuffer"
+type = "long long"
+
+[header]
+name = "AssignsToVariableBuffer"
+addr = 0xe999b0
+type = "long long"
+
+[header.args]

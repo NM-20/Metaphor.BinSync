@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc330f0
+size = 0x85
+name = "??0?$StaticLayoutArray@VMenuLine@general@shop@layout@ui@app@@$03@ui@fw@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0?$StaticLayoutArray@VMenuLine@general@shop@layout@ui@app@@$03@ui@fw@@QEAI@XZ"
+addr = 0xc330f0
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0xfc6120
+size = 0x5
+name = "j_CreatesUUICPartsContext"
+type = "unsigned long long *"
+
+[header]
+name = "j_CreatesUUICPartsContext"
+addr = 0xfc6120
+type = "unsigned long long *"
+
+[header.args]

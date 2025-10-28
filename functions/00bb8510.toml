@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbb8510
+size = 0x4d
+name = "??1Line@status@archetype@layout@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1Line@status@archetype@layout@ui@app@@QAI@XZ"
+addr = 0xbb8510
+type = "void"
+
+[header.args]

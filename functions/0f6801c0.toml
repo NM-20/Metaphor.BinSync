@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf6801c0
+size = 0x10
+name = "??0MSG_Data@Data@BackLog@msg@app@@QAI@XZ"
+type = "app::msg::BackLog::Data::MSG_Data *"
+
+[header]
+name = "??0MSG_Data@Data@BackLog@msg@app@@QAI@XZ"
+addr = 0xf6801c0
+type = "app::msg::BackLog::Data::MSG_Data *"
+
+[header.args]

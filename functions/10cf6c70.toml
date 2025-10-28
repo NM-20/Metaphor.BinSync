@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0x10cf6c70
+size = 0xc6
+name = "??0DamageLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0DamageLayout@ui@app@@QEAI@XZ"
+addr = 0x10cf6c70
+type = "void *"
+
+[header.args]

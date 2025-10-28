@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x38b360
+size = 0x5
+name = "j_??0Game_Lotto@dat@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0Game_Lotto@dat@app@@QAI@XZ"
+addr = 0x38b360
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xece020
+size = 0x1d
+name = "??A?$StlUnorderedMap@UStlString@TPL@@Uu32@@@TPL@@QAIAEAUu32@@AEBUStlString@TPL@@@Z"
+type = "unsigned int *"
+
+[header]
+name = "??A?$StlUnorderedMap@UStlString@TPL@@Uu32@@@TPL@@QAIAEAUu32@@AEBUStlString@TPL@@@Z"
+addr = 0xece020
+type = "unsigned int *"
+
+[header.args]

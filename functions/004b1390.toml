@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x4b1390
+size = 0x4a
+name = "??0fclCampRootMenu@fcl@app@@QEAI@PEAX0@Z"
+type = "void *"
+
+[header]
+name = "??0fclCampRootMenu@fcl@app@@QEAI@PEAX0@Z"
+addr = 0x4b1390
+type = "void *"
+
+[header.args]

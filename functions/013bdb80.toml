@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13bdb80
+size = 0x43
+name = "?sq_pushinteger@@YIXUHSQUIRRELVM@@USQInteger@@@Z"
+type = "void"
+
+[header]
+name = "?sq_pushinteger@@YIXUHSQUIRRELVM@@USQInteger@@@Z"
+addr = 0x13bdb80
+type = "void"
+
+[header.args]

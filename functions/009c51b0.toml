@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9c51b0
+size = 0x21e
+name = "??$_Emplace_reallocate@UData@MesHandle@Manager@msg@app@@@?$StlVector@UData@MesHandle@Manager@msg@app@@@TPL@@AEAIUpointer@01@U201@$$QEAUData@MesHandle@Manager@msg@app@@@Z"
+type = "const app::msg::Manager::MesHandle::Data *"
+
+[header]
+name = "??$_Emplace_reallocate@UData@MesHandle@Manager@msg@app@@@?$StlVector@UData@MesHandle@Manager@msg@app@@@TPL@@AEAIUpointer@01@U201@$$QEAUData@MesHandle@Manager@msg@app@@@Z"
+addr = 0x9c51b0
+type = "const app::msg::Manager::MesHandle::Data *"
+
+[header.args]

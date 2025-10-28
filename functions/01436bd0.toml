@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1436bd0
+size = 0x11
+name = "?setScale@Player@ss@@QEAIXMM@Z"
+type = "void"
+
+[header]
+name = "?setScale@Player@ss@@QEAIXMM@Z"
+addr = 0x1436bd0
+type = "void"
+
+[header.args]

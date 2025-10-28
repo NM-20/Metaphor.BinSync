@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13be780
+size = 0x1e
+name = "?sq_release@@YIUSQBool@@UHSQUIRRELVM@@PEAUHSQOBJECT@@@Z"
+type = "SQBool"
+
+[header]
+name = "?sq_release@@YIUSQBool@@UHSQUIRRELVM@@PEAUHSQOBJECT@@@Z"
+addr = 0x13be780
+type = "SQBool"
+
+[header.args]

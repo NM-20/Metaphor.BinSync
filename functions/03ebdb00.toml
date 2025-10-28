@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281647Z
+addr = 0x3ebdb00
+size = 0x1f3
+name = "??0?$tree_ptr@D@dataStructuresForFileIO@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$tree_ptr@D@dataStructuresForFileIO@app@@QEAI@PEAX@Z"
+addr = 0x3ebdb00
+type = "void *"
+
+[header.args]

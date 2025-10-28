@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeae440
+size = 0x34
+name = "??0DuplicatePaneBase@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0DuplicatePaneBase@ui@app@@QAI@XZ"
+addr = 0xeae440
+type = "void *"
+
+[header.args]

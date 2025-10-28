@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd6b0a0
+size = 0x1da
+name = "??0?$ClassDetailBase@VCampArchetypeDetailLayout@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$ClassDetailBase@VCampArchetypeDetailLayout@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xd6b0a0
+type = "void *"
+
+[header.args]

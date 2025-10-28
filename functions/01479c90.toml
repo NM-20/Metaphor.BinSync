@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1479c90
+size = 0x5
+name = "?GetSize@Resource@TPL@@YAHXZ"
+type = "u64"
+
+[header]
+name = "?GetSize@Resource@TPL@@YAHXZ"
+addr = 0x1479c90
+type = "u64"
+
+[header.args]

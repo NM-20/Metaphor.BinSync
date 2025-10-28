@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xed2950
+size = 0x152
+name = "GetUvInfo"
+type = "long long"
+
+[header]
+name = "GetUvInfo"
+addr = 0xed2950
+type = "long long"
+
+[header.args]

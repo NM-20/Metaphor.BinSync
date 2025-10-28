@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc04080
+size = 0x4e
+name = "??0Line@voice@config@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Line@voice@config@layout@ui@app@@QAI@XZ"
+addr = 0xc04080
+type = "void *"
+
+[header.args]

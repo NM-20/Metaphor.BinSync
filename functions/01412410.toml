@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1412410
+size = 0x29
+name = "CopyUvs"
+type = "unsigned long long *"
+
+[header]
+name = "CopyUvs"
+addr = 0x1412410
+type = "unsigned long long *"
+
+[header.args]

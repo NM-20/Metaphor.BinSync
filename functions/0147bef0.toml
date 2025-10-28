@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147bef0
+size = 0x4c
+name = "?IsValidFileHandle@ResourceManager@TPL@@SI_NAEBUHandle@Resource@2@@Z"
+type = "bool"
+
+[header]
+name = "?IsValidFileHandle@ResourceManager@TPL@@SI_NAEBUHandle@Resource@2@@Z"
+addr = 0x147bef0
+type = "bool"
+
+[header.args]

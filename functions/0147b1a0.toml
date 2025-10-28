@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147b1a0
+size = 0x5
+name = "j_??0ResourceManager@TPL@@QEAA@XZ"
+type = "TPL::ResourceManager *"
+
+[header]
+name = "j_??0ResourceManager@TPL@@QEAA@XZ"
+addr = 0x147b1a0
+type = "TPL::ResourceManager *"
+
+[header.args]

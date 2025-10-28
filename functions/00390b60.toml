@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x390b60
+size = 0x34
+name = "??0?$StaticVector@PEBVDataPath@sortie@fcl@app@@$0BE@@fw@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0?$StaticVector@PEBVDataPath@sortie@fcl@app@@$0BE@@fw@@QEAI@XZ"
+addr = 0x390b60
+type = "void *"
+
+[header.args]

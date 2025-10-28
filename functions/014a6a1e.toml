@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6a1e
+size = 0x6
+name = "j__wassert"
+type = "void"
+
+[header]
+name = "j__wassert"
+addr = 0x14a6a1e
+type = "void"
+
+[header.args]

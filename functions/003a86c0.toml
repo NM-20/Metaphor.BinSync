@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x3a86c0
+size = 0xf
+name = "GetUI_MessageLogSaveData"
+type = "long long"
+
+[header]
+name = "GetUI_MessageLogSaveData"
+addr = 0x3a86c0
+type = "long long"
+
+[header.args]

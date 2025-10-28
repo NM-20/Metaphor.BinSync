@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x81fe20
+size = 0x11d
+name = "??0resrcBgData@resrc@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0resrcBgData@resrc@app@@QEAI@XZ"
+addr = 0x81fe20
+type = "void *"
+
+[header.args]

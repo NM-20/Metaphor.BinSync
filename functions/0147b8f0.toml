@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147b8f0
+size = 0x5
+name = "j_MakeResourceManager"
+type = "TPL::ResourceManager *"
+
+[header]
+name = "j_MakeResourceManager"
+addr = 0x147b8f0
+type = "TPL::ResourceManager *"
+
+[header.args]

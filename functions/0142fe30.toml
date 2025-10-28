@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x142fe30
+size = 0x5
+name = "j_?getReference@AnimeCache@ss@@QEAIPEAUAnimeRef@2@AEBUStlString@TPL@@@Z"
+
+[header]
+name = "j_?getReference@AnimeCache@ss@@QEAIPEAUAnimeRef@2@AEBUStlString@TPL@@@Z"
+addr = 0x142fe30
+
+[header.args]

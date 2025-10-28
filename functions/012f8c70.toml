@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f8c70
+size = 0x12f
+name = "?criFsLoader_Destroy@@SIW5CriError@@UCriFsLoaderHn@@@Z"
+type = "CriError"
+
+[header]
+name = "?criFsLoader_Destroy@@SIW5CriError@@UCriFsLoaderHn@@@Z"
+addr = 0x12f8c70
+type = "CriError"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x7b3ea60
+size = 0x2b
+name = "??0fldTravelPath@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldTravelPath@fld@app@@QEAI@XZ"
+addr = 0x7b3ea60
+type = "void *"
+
+[header.args]

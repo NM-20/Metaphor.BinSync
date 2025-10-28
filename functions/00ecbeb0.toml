@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecbeb0
+size = 0x5
+name = "j_??$ConstructBack@Uu32@@0Us32@@UStlString@TPL@@@?$StaticArray@VEntryTextureInfo@TextureManager@ui@app@@$0PP@@fw@@QAIX@Z"
+type = "void"
+
+[header]
+name = "j_??$ConstructBack@Uu32@@0Us32@@UStlString@TPL@@@?$StaticArray@VEntryTextureInfo@TextureManager@ui@app@@$0PP@@fw@@QAIX@Z"
+addr = 0xecbeb0
+type = "void"
+
+[header.args]

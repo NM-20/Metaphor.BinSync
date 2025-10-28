@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283649Z
+addr = 0x17441050
+size = 0x17c
+name = "??0ItemCharaSelChoice@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0ItemCharaSelChoice@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0x17441050
+type = "void *"
+
+[header.args]

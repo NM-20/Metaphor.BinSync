@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275642Z
+addr = 0xad5100
+size = 0x9e
+name = "??0SkillLine@analyze@command@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0SkillLine@analyze@command@layout@ui@app@@QEAI@XZ"
+addr = 0xad5100
+type = "void *"
+
+[header.args]

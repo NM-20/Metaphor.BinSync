@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0xfc0970
+size = 0x64
+name = "??0UUIC_Field_SafeRoomMenu@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0UUIC_Field_SafeRoomMenu@ui@app@@QEAI@PEAX@Z"
+addr = 0xfc0970
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1443920
+size = 0x26a
+name = "?Get@RefTable@@AEAIPEAURefNode@1@AEAUSQObject@@USQHash@@PEAPEAU21@_N@Z"
+type = "RefTable::RefNode *"
+
+[header]
+name = "?Get@RefTable@@AEAIPEAURefNode@1@AEAUSQObject@@USQHash@@PEAPEAU21@_N@Z"
+addr = 0x1443920
+type = "RefTable::RefNode *"
+
+[header.args]

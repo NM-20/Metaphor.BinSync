@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x130a148
+size = 0x5
+name = "j_j_memset"
+type = "void *"
+
+[header]
+name = "j_j_memset"
+addr = 0x130a148
+type = "void *"
+
+[header.args]

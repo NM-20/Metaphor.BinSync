@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xf43f70
+size = 0x70
+name = "?PushElement@?$StaticArray@VListInfoItem@DifficultySelect_InfoItem@ui@app@@$04@fw@@QEAIXAEBVListInfoItem@DifficultySelect_InfoItem@ui@app@@@Z"
+type = "void"
+
+[header]
+name = "?PushElement@?$StaticArray@VListInfoItem@DifficultySelect_InfoItem@ui@app@@$04@fw@@QEAIXAEBVListInfoItem@DifficultySelect_InfoItem@ui@app@@@Z"
+addr = 0xf43f70
+type = "void"
+
+[header.args]

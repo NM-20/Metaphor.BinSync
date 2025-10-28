@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x1309d38
+size = 0x1a
+name = "?criErr_Notify@@SIXW4CriErrorLevel@@PEBUCriChar8@@@Z"
+type = "void"
+
+[header]
+name = "?criErr_Notify@@SIXW4CriErrorLevel@@PEBUCriChar8@@@Z"
+addr = 0x1309d38
+type = "void"
+
+[header.args]

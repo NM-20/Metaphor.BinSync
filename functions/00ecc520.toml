@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecc520
+size = 0x7f
+name = "??0TexturePartPackRegistration@ui@app@@QAI@Uu64@@Uu32@@V?$function@A6I_NW4TEXTURE_PARTS_ID@ui@app@@@Z@std@@Uu8@@@Z"
+type = "app::ui::TexturePartPackRegistration *"
+
+[header]
+name = "??0TexturePartPackRegistration@ui@app@@QAI@Uu64@@Uu32@@V?$function@A6I_NW4TEXTURE_PARTS_ID@ui@app@@@Z@std@@Uu8@@@Z"
+addr = 0xecc520
+type = "app::ui::TexturePartPackRegistration *"
+
+[header.args]

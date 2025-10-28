@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x4b0a4c0
+size = 0x160
+name = "??0Reward@dat@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Reward@dat@app@@QAI@XZ"
+addr = 0x4b0a4c0
+type = "void *"
+
+[header.args]

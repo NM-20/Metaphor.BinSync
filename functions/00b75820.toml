@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb75820
+size = 0x264
+name = "??0Line@list@quest@camp@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Line@list@quest@camp@layout@ui@app@@QEAI@XZ"
+addr = 0xb75820
+type = "void *"
+
+[header.args]

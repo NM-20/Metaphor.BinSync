@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147b010
+size = 0x164
+name = "??$make_shared@VResource@TPL@@UStlString@2@Uu32@@W5Type@12@Uu64@@PEBUu8@@@std@@YIV?$shared_ptr@VResource@TPL@@@0@$$QEAVStlString@TPL@@$$QEAUu32@@$$QEAW5Type@Resource@3@$$QEAUu64@@$$QEAPEBUu8@@@Z"
+type = "std::shared_ptr<TPL::Resource> *"
+
+[header]
+name = "??$make_shared@VResource@TPL@@UStlString@2@Uu32@@W5Type@12@Uu64@@PEBUu8@@@std@@YIV?$shared_ptr@VResource@TPL@@@0@$$QEAVStlString@TPL@@$$QEAUu32@@$$QEAW5Type@Resource@3@$$QEAUu64@@$$QEAPEBUu8@@@Z"
+addr = 0x147b010
+type = "std::shared_ptr<TPL::Resource> *"
+
+[header.args]

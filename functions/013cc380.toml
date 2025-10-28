@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13cc380
+size = 0x25
+name = "??0Sphere@shape@fw@@QEAI@PEAXM@Z"
+type = "void *"
+
+[header]
+name = "??0Sphere@shape@fw@@QEAI@PEAXM@Z"
+addr = 0x13cc380
+type = "void *"
+
+[header.args]

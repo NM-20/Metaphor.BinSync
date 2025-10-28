@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a68b0
+size = 0x6
+name = "j_terminate"
+
+[header]
+name = "j_terminate"
+addr = 0x14a68b0
+
+[header.args]

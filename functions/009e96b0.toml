@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9e96b0
+size = 0x5
+name = "j_?PushElement@?$RingBuffer@VData@BackLog@msg@app@@$0BO@@fw@@QEAIXAEBVData@BackLog@msg@app@@@Z"
+type = "void"
+
+[header]
+name = "j_?PushElement@?$RingBuffer@VData@BackLog@msg@app@@$0BO@@fw@@QEAIXAEBVData@BackLog@msg@app@@@Z"
+addr = 0x9e96b0
+type = "void"
+
+[header.args]

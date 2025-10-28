@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f6614
+size = 0x127
+name = "?crifsbinder_getFileSizeEx@@SIW5CriError@@PEBUCriChar8@@UCriFsLoaderHn@@PEAUCriUint64@@@Z"
+type = "CriError"
+
+[header]
+name = "?crifsbinder_getFileSizeEx@@SIW5CriError@@PEBUCriChar8@@UCriFsLoaderHn@@PEAUCriUint64@@@Z"
+addr = 0x12f6614
+type = "CriError"
+
+[header.args]

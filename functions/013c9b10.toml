@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13c9b10
+size = 0x8b
+name = "?Md5StringDigest@TPL@@YA_NAEAUMd5Digest@1@PEBD@Z"
+type = "bool"
+
+[header]
+name = "?Md5StringDigest@TPL@@YA_NAEAUMd5Digest@1@PEBD@Z"
+addr = 0x13c9b10
+type = "bool"
+
+[header.args]

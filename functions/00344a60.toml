@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x344a60
+size = 0x148
+name = "??$_Emplace_reallocate@Uu32@@@?$StlVector@Uu32@@@TPL@@AEAIUpointer@01@U201@$$QEAUu32@@@Z"
+type = "u32 *"
+
+[header]
+name = "??$_Emplace_reallocate@Uu32@@@?$StlVector@Uu32@@@TPL@@AEAIUpointer@01@U201@$$QEAUu32@@@Z"
+addr = 0x344a60
+type = "u32 *"
+
+[header.args]

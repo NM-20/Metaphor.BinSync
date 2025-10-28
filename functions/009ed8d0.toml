@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9ed8d0
+size = 0x5
+name = "j_??0Script@msg@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0Script@msg@app@@QEAI@XZ"
+addr = 0x9ed8d0
+type = "void *"
+
+[header.args]

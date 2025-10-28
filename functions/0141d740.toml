@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x141d740
+size = 0x1d0
+name = "??0SplineData@spline@fw@@QEAI@HHHMMM@Z"
+type = "void *"
+
+[header]
+name = "??0SplineData@spline@fw@@QEAI@HHHMMM@Z"
+addr = 0x141d740
+type = "void *"
+
+[header.args]

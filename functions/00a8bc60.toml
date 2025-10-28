@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa8bc60
+size = 0x406
+name = "??0Tree@tree@academia@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Tree@tree@academia@layout@ui@app@@QEAI@XZ"
+addr = 0xa8bc60
+type = "void *"
+
+[header.args]

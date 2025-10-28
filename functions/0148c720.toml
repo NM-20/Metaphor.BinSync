@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x148c720
+size = 0x7
+name = "SomeFreeFunc"
+type = "long long"
+
+[header]
+name = "SomeFreeFunc"
+addr = 0x148c720
+type = "long long"
+
+[header.args]

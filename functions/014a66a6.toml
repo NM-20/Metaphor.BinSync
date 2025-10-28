@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a66a6
+size = 0x6
+name = "j_XInputSetState"
+type = "DWORD"
+
+[header]
+name = "j_XInputSetState"
+addr = 0x14a66a6
+type = "DWORD"
+
+[header.args]

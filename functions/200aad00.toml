@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x200aad00
+size = 0x86
+name = "?sq_setreleasehook@@YIXUHSQUIRRELVM@@USQInteger@@USQRELEASEHOOK@@@Z"
+type = "void"
+
+[header]
+name = "?sq_setreleasehook@@YIXUHSQUIRRELVM@@USQInteger@@USQRELEASEHOOK@@@Z"
+addr = 0x200aad00
+type = "void"
+
+[header.args]

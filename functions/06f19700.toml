@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x6f19700
+size = 0xd9
+name = "??0Data@UUIC_LayoutController@ui@app@@QEAI@Uu32@@Uu64@@@Z"
+type = "void *"
+
+[header]
+name = "??0Data@UUIC_LayoutController@ui@app@@QEAI@Uu32@@Uu64@@@Z"
+addr = 0x6f19700
+type = "void *"
+
+[header.args]

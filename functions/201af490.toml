@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x201af490
+size = 0x123
+name = "??0PhysXManager@fw@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0PhysXManager@fw@@QAI@XZ"
+addr = 0x201af490
+type = "void *"
+
+[header.args]

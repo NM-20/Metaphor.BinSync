@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x1300948
+size = 0x5
+name = "?criFsLoaderCore_GetFileHandle@@SIUCriFsFileHn@@UCriFsLoaderCoreHn@@@Z"
+type = "void *"
+
+[header]
+name = "?criFsLoaderCore_GetFileHandle@@SIUCriFsFileHn@@UCriFsLoaderCoreHn@@@Z"
+addr = 0x1300948
+type = "void *"
+
+[header.args]

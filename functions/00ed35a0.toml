@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xed35a0
+size = 0x1360e
+name = "SingletonManagerInitForTextureManager"
+type = "void"
+
+[header]
+name = "SingletonManagerInitForTextureManager"
+addr = 0xed35a0
+type = "void"
+
+[header.args]

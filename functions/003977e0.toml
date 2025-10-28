@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x3977e0
+size = 0x1ef
+name = "??0?$tree_ptr@V?$vector@W4datMapDungeonID@@@dataStructuresForFileIO@app@@@dataStructuresForFileIO@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$tree_ptr@V?$vector@W4datMapDungeonID@@@dataStructuresForFileIO@app@@@dataStructuresForFileIO@app@@QEAI@PEAX@Z"
+addr = 0x3977e0
+type = "void *"
+
+[header.args]

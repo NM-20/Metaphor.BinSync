@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1436120
+size = 0x18
+name = "?setOpacity@CustomSprite@ss@@QEAIXE@Z"
+type = "void"
+
+[header]
+name = "?setOpacity@CustomSprite@ss@@QEAIXE@Z"
+addr = 0x1436120
+type = "void"
+
+[header.args]

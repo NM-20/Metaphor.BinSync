@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0x107a57a0
+size = 0x21d
+name = "?GetUnknownResourceFilePath@resrc@app@@YIUStlString@TPL@@AEBUUnknownResourceId@resrc@app@@@Z"
+type = "TPL::StlString *"
+
+[header]
+name = "?GetUnknownResourceFilePath@resrc@app@@YIUStlString@TPL@@AEBUUnknownResourceId@resrc@app@@@Z"
+addr = 0x107a57a0
+type = "TPL::StlString *"
+
+[header.args]

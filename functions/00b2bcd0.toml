@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb2bcd0
+size = 0xf
+name = "??1TabIcon@book@camp@layout@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1TabIcon@book@camp@layout@ui@app@@QEAI@XZ"
+addr = 0xb2bcd0
+type = "void"
+
+[header.args]

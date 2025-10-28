@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7b2eb0
+size = 0x949
+name = "?DetectKeyboardLanguage@resrc@app@@YIW4Language@12@XZ"
+type = "app::resrc::Language"
+
+[header]
+name = "?DetectKeyboardLanguage@resrc@app@@YIW4Language@12@XZ"
+addr = 0x7b2eb0
+type = "app::resrc::Language"
+
+[header.args]

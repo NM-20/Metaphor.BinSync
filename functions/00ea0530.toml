@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xea0530
+size = 0x42
+name = "GetInfoByIndex"
+type = "long long"
+
+[header]
+name = "GetInfoByIndex"
+addr = 0xea0530
+type = "long long"
+
+[header.args]

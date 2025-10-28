@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283649Z
+addr = 0x15bf76a0
+size = 0x19b
+name = "??0WipeLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0WipeLayout@ui@app@@QEAI@XZ"
+addr = 0x15bf76a0
+type = "void *"
+
+[header.args]

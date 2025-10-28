@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x142dd90
+size = 0x33b
+name = "?addData@ResourceManager@ss@@QEAIUStlString@TPL@@U34@PEBUProjectData@2@PEAVTextureManager@ui@app@@@Z"
+type = "TPL::StlString *"
+
+[header]
+name = "?addData@ResourceManager@ss@@QEAIUStlString@TPL@@U34@PEBUProjectData@2@PEAVTextureManager@ui@app@@@Z"
+addr = 0x142dd90
+type = "TPL::StlString *"
+
+[header.args]

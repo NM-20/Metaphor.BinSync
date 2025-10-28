@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xee33560
+size = 0x1d1
+name = "??0soundAppPlayerMng@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0soundAppPlayerMng@@QEAI@XZ"
+addr = 0xee33560
+type = "void *"
+
+[header.args]

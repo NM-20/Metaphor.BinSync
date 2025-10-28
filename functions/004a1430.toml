@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x4a1430
+size = 0x167
+name = "??0fclCampCalendarMenu@fcl@app@@QEAI@PEAX0@Z"
+type = "void *"
+
+[header]
+name = "??0fclCampCalendarMenu@fcl@app@@QEAI@PEAX0@Z"
+addr = 0x4a1430
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1443220
+size = 0x21
+name = "?AddRef@RefTable@@QEAIXAEAUSQObject@@@Z"
+type = "void"
+
+[header]
+name = "?AddRef@RefTable@@QEAIXAEAUSQObject@@@Z"
+addr = 0x1443220
+type = "void"
+
+[header.args]

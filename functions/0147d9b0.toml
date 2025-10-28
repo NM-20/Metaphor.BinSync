@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147d9b0
+size = 0x1a5
+name = "?TODO_PushToListOrMap@ResourceManager@TPL@@QAIXXZ"
+type = "int"
+
+[header]
+name = "?TODO_PushToListOrMap@ResourceManager@TPL@@QAIXXZ"
+addr = 0x147d9b0
+type = "int"
+
+[header.args]

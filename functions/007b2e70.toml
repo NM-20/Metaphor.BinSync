@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7b2e70
+size = 0x7
+name = "?GetKeyboardLanguage@app@@YIW4AppLang@1@XZ"
+type = "app::AppLang"
+
+[header]
+name = "?GetKeyboardLanguage@app@@YIW4AppLang@1@XZ"
+addr = 0x7b2e70
+type = "app::AppLang"
+
+[header.args]

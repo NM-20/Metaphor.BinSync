@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9d1740
+size = 0x8a0
+name = "??0DataManager@font@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0DataManager@font@app@@QEAI@XZ"
+addr = 0x9d1740
+type = "void *"
+
+[header.args]

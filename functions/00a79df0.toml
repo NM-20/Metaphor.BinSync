@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa79df0
+size = 0x3a
+name = "??0TravelersVoice_PartyItem@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0TravelersVoice_PartyItem@ui@app@@QEAI@XZ"
+addr = 0xa79df0
+type = "void *"
+
+[header.args]

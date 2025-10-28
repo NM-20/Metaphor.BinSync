@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a3840
+size = 0x6
+name = "j_?_Xinvalid_argument@std@@YAXPEBD@Z"
+type = "void"
+
+[header]
+name = "j_?_Xinvalid_argument@std@@YAXPEBD@Z"
+addr = 0x14a3840
+type = "void"
+
+[header.args]

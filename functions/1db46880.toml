@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284149Z
+addr = 0x1db46880
+size = 0x56
+name = "?inflateEnd@@YIHUz_streamp@@@Z"
+type = "int"
+
+[header]
+name = "?inflateEnd@@YIHUz_streamp@@@Z"
+addr = 0x1db46880
+type = "int"
+
+[header.args]

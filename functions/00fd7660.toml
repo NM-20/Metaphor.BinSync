@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0xfd7660
+size = 0x2f0
+name = "??0UnitCpntIcon@unit@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0UnitCpntIcon@unit@app@@QEAI@PEAX@Z"
+addr = 0xfd7660
+type = "void *"
+
+[header.args]

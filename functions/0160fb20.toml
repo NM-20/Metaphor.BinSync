@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281647Z
+addr = 0x160fb20
+size = 0x6
+name = "j_wvsprintfA"
+type = "int"
+
+[header]
+name = "j_wvsprintfA"
+addr = 0x160fb20
+type = "int"
+
+[header.args]

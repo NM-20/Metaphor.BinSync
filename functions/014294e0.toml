@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x14294e0
+size = 0x9
+name = "?IsValid@LayoutHandle@ui@app@@QEAI_NXZ"
+type = "bool"
+
+[header]
+name = "?IsValid@LayoutHandle@ui@app@@QEAI_NXZ"
+addr = 0x14294e0
+type = "bool"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x142b9d0
+size = 0x227
+name = "??4State@ss@@QEAIAEAU01@AEBU01@@Z"
+type = "ss::State *"
+
+[header]
+name = "??4State@ss@@QEAIAEAU01@AEBU01@@Z"
+addr = 0x142b9d0
+type = "ss::State *"
+
+[header.args]

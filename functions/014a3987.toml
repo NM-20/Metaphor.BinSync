@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a3987
+size = 0x6
+name = "j_?_Decref@facet@locale@std@@UEAAPEAV_Facet_base@3@XZ"
+
+[header]
+name = "j_?_Decref@facet@locale@std@@UEAAPEAV_Facet_base@3@XZ"
+addr = 0x14a3987
+
+[header.args]

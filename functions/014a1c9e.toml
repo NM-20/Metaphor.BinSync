@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a1c9e
+size = 0x6
+name = "j_?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ"
+type = "long long"
+
+[header]
+name = "j_?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ"
+addr = 0x14a1c9e
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x4a8c60
+size = 0x453
+name = "??0fclGlossaryMenu@fcl@app@@QEAI@PEAX0@Z"
+type = "void *"
+
+[header]
+name = "??0fclGlossaryMenu@fcl@app@@QEAI@PEAX0@Z"
+addr = 0x4a8c60
+type = "void *"
+
+[header.args]

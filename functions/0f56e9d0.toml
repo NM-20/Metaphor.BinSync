@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf56e9d0
+size = 0x137
+name = "?_Integer_from_chars@std@@SIUfrom_chars_result@std@@QEBDQEBDAEAHH@Z"
+type = "std::from_chars_result *"
+
+[header]
+name = "?_Integer_from_chars@std@@SIUfrom_chars_result@std@@QEBDQEBDAEAHH@Z"
+addr = 0xf56e9d0
+type = "std::from_chars_result *"
+
+[header.args]

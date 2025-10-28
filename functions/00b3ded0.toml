@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb3ded0
+size = 0x160
+name = "??0AttackDefense@common@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0AttackDefense@common@layout@ui@app@@QEAI@XZ"
+addr = 0xb3ded0
+type = "void *"
+
+[header.args]

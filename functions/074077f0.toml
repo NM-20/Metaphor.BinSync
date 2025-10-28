@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x74077f0
+size = 0x1b
+name = "??0fldEnvLerpData@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldEnvLerpData@fld@app@@QEAI@XZ"
+addr = 0x74077f0
+type = "void *"
+
+[header.args]

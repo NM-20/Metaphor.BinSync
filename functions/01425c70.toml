@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1425c70
+size = 0x9
+name = "?TODO_Unknown1NotZero@TextureInfoBase@ui@fw@@QAIXXZ"
+type = "bool"
+
+[header]
+name = "?TODO_Unknown1NotZero@TextureInfoBase@ui@fw@@QAIXXZ"
+addr = 0x1425c70
+type = "bool"
+
+[header.args]

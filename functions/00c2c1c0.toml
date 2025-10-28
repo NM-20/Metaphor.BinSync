@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc2c1c0
+size = 0x21
+name = "??0Confirm@cook@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Confirm@cook@layout@ui@app@@QAI@XZ"
+addr = 0xc2c1c0
+type = "void *"
+
+[header.args]

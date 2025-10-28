@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284149Z
+addr = 0x1bc03760
+size = 0x76
+name = "??0MobUnit@unit@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0MobUnit@unit@app@@QEAI@XZ"
+addr = 0x1bc03760
+type = "void *"
+
+[header.args]

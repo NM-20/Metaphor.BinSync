@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7b25f0
+size = 0x2f8
+name = "??$_Find_hint@UStlString@TPL@@@?$StlMap@UStlString@TPL@@W4AppLang@app@@@TPL@@AAIU?$_Tree_find_hint_result@U_Nodeptr@?$map@UStlString@TPL@@W4AppLang@app@@@std@@@std@@U_Nodeptr@01@AEBUStlString@TPL@@@Z"
+type = "std::_Tree_find_hint_result<std::_Tree_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, app::AppLang>, void *> *> *"
+
+[header]
+name = "??$_Find_hint@UStlString@TPL@@@?$StlMap@UStlString@TPL@@W4AppLang@app@@@TPL@@AAIU?$_Tree_find_hint_result@U_Nodeptr@?$map@UStlString@TPL@@W4AppLang@app@@@std@@@std@@U_Nodeptr@01@AEBUStlString@TPL@@@Z"
+addr = 0x7b25f0
+type = "std::_Tree_find_hint_result<std::_Tree_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, app::AppLang>, void *> *> *"
+
+[header.args]

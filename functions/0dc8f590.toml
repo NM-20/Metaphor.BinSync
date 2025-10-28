@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xdc8f590
+size = 0x13
+name = "Get_FollowerTableBin"
+type = "const u8 *"
+
+[header]
+name = "Get_FollowerTableBin"
+addr = 0xdc8f590
+type = "const u8 *"
+
+[header.args]

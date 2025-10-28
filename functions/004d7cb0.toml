@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x4d7cb0
+size = 0x7f9
+name = "??0fclSortieTownMap@sortie@fcl@app@@QEAI@PEAX0@Z"
+type = "void *"
+
+[header]
+name = "??0fclSortieTownMap@sortie@fcl@app@@QEAI@PEAX0@Z"
+addr = 0x4d7cb0
+type = "void *"
+
+[header.args]

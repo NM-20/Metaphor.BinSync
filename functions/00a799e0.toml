@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa799e0
+size = 0xbe
+name = "??0TravelersVoice_Battle_ListInfoItem@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0TravelersVoice_Battle_ListInfoItem@ui@app@@QEAI@XZ"
+addr = 0xa799e0
+type = "void *"
+
+[header.args]

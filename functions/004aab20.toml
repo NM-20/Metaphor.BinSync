@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x4aab20
+size = 0x5
+name = "j_??$make_shared_with_deleter@VItemCharaSelChoice_Data@ope@ui@app@@@TPL@@YIV?$shared_ptr@VItemCharaSelChoice_Data@ope@ui@app@@U?$deleter_for_shared_ptr@VItemCharaSelChoice_Data@ope@ui@app@@@TPL@@@std@@XZ"
+type = "void *"
+
+[header]
+name = "j_??$make_shared_with_deleter@VItemCharaSelChoice_Data@ope@ui@app@@@TPL@@YIV?$shared_ptr@VItemCharaSelChoice_Data@ope@ui@app@@U?$deleter_for_shared_ptr@VItemCharaSelChoice_Data@ope@ui@app@@@TPL@@@std@@XZ"
+addr = 0x4aab20
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf743e90
+size = 0x1d3
+name = "GetSomethingByLabelName"
+type = "void *"
+
+[header]
+name = "GetSomethingByLabelName"
+addr = 0xf743e90
+type = "void *"
+
+[header.args]

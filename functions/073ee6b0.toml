@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x73ee6b0
+size = 0x144
+name = "??0fldEncountPack@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldEncountPack@fld@app@@QEAI@XZ"
+addr = 0x73ee6b0
+type = "void *"
+
+[header.args]

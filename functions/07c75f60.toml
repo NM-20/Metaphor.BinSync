@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x7c75f60
+size = 0x93
+name = "??0fldBg@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldBg@fld@app@@QEAI@XZ"
+addr = 0x7c75f60
+type = "void *"
+
+[header.args]

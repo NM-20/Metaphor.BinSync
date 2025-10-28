@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1417d80
+size = 0x7
+name = "?sq_vm_free@@YIXPEAXUSQUnsignedInteger@@@Z"
+type = "void"
+
+[header]
+name = "?sq_vm_free@@YIXPEAXUSQUnsignedInteger@@@Z"
+addr = 0x1417d80
+type = "void"
+
+[header.args]

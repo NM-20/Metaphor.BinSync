@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x143fb50
+size = 0x7
+name = "?GetTypeName@@YIPEBUSQChar@@AEBUSQObjectPtr@@@Z"
+type = "const SQChar *"
+
+[header]
+name = "?GetTypeName@@YIPEBUSQChar@@AEBUSQObjectPtr@@@Z"
+addr = 0x143fb50
+type = "const SQChar *"
+
+[header.args]

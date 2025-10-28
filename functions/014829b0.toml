@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x14829b0
+size = 0x97
+name = "GetSizeFromPathMaybe"
+type = "u64"
+
+[header]
+name = "GetSizeFromPathMaybe"
+addr = 0x14829b0
+type = "u64"
+
+[header.args]

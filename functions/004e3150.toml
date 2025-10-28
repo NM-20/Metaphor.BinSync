@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x4e3150
+size = 0x15
+name = "??0?$StaticArray@D$0BO@@fw@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0?$StaticArray@D$0BO@@fw@@QEAI@XZ"
+addr = 0x4e3150
+type = "void *"
+
+[header.args]

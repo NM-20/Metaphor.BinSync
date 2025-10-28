@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x254b70
+size = 0x66
+name = "??1Cut@Skill@btl@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1Cut@Skill@btl@@QEAI@XZ"
+addr = 0x254b70
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9cd320
+size = 0x374
+name = "?_Skip@?$_Matcher@Uconst_iterator@string@std@@DV?$regex_traits@D@std@@D@std@@QAIUconst_iterator@string@std@@Uconst_iterator@string@std@@Uconst_iterator@string@std@@PEAU_Node_base@std@@@Z"
+type = "std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>> *"
+
+[header]
+name = "?_Skip@?$_Matcher@Uconst_iterator@string@std@@DV?$regex_traits@D@std@@D@std@@QAIUconst_iterator@string@std@@Uconst_iterator@string@std@@Uconst_iterator@string@std@@PEAU_Node_base@std@@@Z"
+addr = 0x9cd320
+type = "std::_String_const_iterator<std::_String_val<std::_Simple_types<char>>> *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0x10ecbe0
+size = 0x7
+name = "j_calloc"
+type = "void *"
+
+[header]
+name = "j_calloc"
+addr = 0x10ecbe0
+type = "void *"
+
+[header.args]

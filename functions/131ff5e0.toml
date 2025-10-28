@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x131ff5e0
+size = 0x3ae
+name = "??0fldScene_QuickClassChange@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldScene_QuickClassChange@fld@app@@QEAI@XZ"
+addr = 0x131ff5e0
+type = "void *"
+
+[header.args]

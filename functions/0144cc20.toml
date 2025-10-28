@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x144cc20
+size = 0x5
+name = "j_?GetAt@SQVM@@QEAIAEAUSQObjectPtr@@USQInteger@@@Z"
+
+[header]
+name = "j_?GetAt@SQVM@@QEAIAEAUSQObjectPtr@@USQInteger@@@Z"
+addr = 0x144cc20
+
+[header.args]

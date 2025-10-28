@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.271139Z
+addr = 0xec130
+size = 0xd3
+name = "??0MONSTER_LOUIS_1@boss@btl@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0MONSTER_LOUIS_1@boss@btl@@QEAI@XZ"
+addr = 0xec130
+type = "void *"
+
+[header.args]

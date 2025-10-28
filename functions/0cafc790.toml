@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xcafc790
+size = 0x1c
+name = "?SetVisibility@RenderPaneBase@ui@fw@@QEAIAEAV123@_N@Z"
+type = "fw::ui::RenderPaneBase *"
+
+[header]
+name = "?SetVisibility@RenderPaneBase@ui@fw@@QEAIAEAV123@_N@Z"
+addr = 0xcafc790
+type = "fw::ui::RenderPaneBase *"
+
+[header.args]

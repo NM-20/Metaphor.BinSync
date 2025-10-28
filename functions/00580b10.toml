@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x580b10
+size = 0x3f
+name = "??0fldTypeCamera_Watch@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldTypeCamera_Watch@fld@app@@QEAI@XZ"
+addr = 0x580b10
+type = "void *"
+
+[header.args]

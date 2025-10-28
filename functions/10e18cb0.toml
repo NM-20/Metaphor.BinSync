@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x10e18cb0
+size = 0x69
+name = "??0TargetHPGauge@battle@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0TargetHPGauge@battle@layout@ui@app@@QEAI@XZ"
+addr = 0x10e18cb0
+type = "void *"
+
+[header.args]

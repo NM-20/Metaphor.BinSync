@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1405500
+size = 0xb
+name = "??0IAnimatorHandle@ui@fw@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??0IAnimatorHandle@ui@fw@@QAI@XZ"
+addr = 0x1405500
+type = "void"
+
+[header.args]

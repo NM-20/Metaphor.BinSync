@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x1404f20
+size = 0x9f
+name = "?Update@LayoutBase@ui@fw@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?Update@LayoutBase@ui@fw@@QEAIXXZ"
+addr = 0x1404f20
+type = "void"
+
+[header.args]

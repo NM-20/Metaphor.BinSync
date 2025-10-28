@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xe9d980
+size = 0x5
+name = "j_??0UI_MessageLogSaveData@ui@app@@QEAA@XZ"
+type = "unsigned long long *"
+
+[header]
+name = "j_??0UI_MessageLogSaveData@ui@app@@QEAA@XZ"
+addr = 0xe9d980
+type = "unsigned long long *"
+
+[header.args]

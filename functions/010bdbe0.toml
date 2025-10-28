@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0x10bdbe0
+size = 0x3
+name = "CompletionRoutine"
+type = "void"
+
+[header]
+name = "CompletionRoutine"
+addr = 0x10bdbe0
+type = "void"
+
+[header.args]

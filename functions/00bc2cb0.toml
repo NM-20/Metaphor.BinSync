@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbc2cb0
+size = 0x5
+name = "j_??0KingLayout@press@common@layout@ui@app@@QEAI@XZ"
+type = "long long"
+
+[header]
+name = "j_??0KingLayout@press@common@layout@ui@app@@QEAI@XZ"
+addr = 0xbc2cb0
+type = "long long"
+
+[header.args]

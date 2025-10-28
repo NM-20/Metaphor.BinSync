@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f6444
+size = 0x96
+name = "?crifsbinder_ConvertPathToFileId@@SIUCriSint32@@PEBUCriChar8@@@Z"
+type = "CriSint32"
+
+[header]
+name = "?crifsbinder_ConvertPathToFileId@@SIUCriSint32@@PEBUCriChar8@@@Z"
+addr = 0x12f6444
+type = "CriSint32"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a3a1d
+size = 0x6
+name = "j__Query_perf_counter"
+type = "long long"
+
+[header]
+name = "j__Query_perf_counter"
+addr = 0x14a3a1d
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281647Z
+addr = 0x3fe2790
+size = 0x56
+name = "??_GByteString@utl@app@@YIXD@Z"
+type = "void"
+
+[header]
+name = "??_GByteString@utl@app@@YIXD@Z"
+addr = 0x3fe2790
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x207f3040
+size = 0xc3
+name = "?_Find_lower_bound@?$StlMap@UStlString@TPL@@PEAVSSEffectModel@ss@@@TPL@@IEAIXAEBUStlString@2@@Z"
+type = "std::_Tree_find_result<std::_Tree_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, ss::SsEffectModel *>, void *> *> *"
+
+[header]
+name = "?_Find_lower_bound@?$StlMap@UStlString@TPL@@PEAVSSEffectModel@ss@@@TPL@@IEAIXAEBUStlString@2@@Z"
+addr = 0x207f3040
+type = "std::_Tree_find_result<std::_Tree_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, ss::SsEffectModel *>, void *> *> *"
+
+[header.args]

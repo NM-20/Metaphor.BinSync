@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc33180
+size = 0x7c
+name = "??0?$StaticPaneArray@VSpriteStudioPane@ui@app@@$09@ui@fw@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0?$StaticPaneArray@VSpriteStudioPane@ui@app@@$09@ui@fw@@QEAI@XZ"
+addr = 0xc33180
+type = "void *"
+
+[header.args]

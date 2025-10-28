@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x148bc30
+size = 0x99
+name = "?TODO_GetPointer@DataHandle@Resource@TPL@@SIXXZ"
+type = "std::_Ptr_base<const unsigned char>::element_type *"
+
+[header]
+name = "?TODO_GetPointer@DataHandle@Resource@TPL@@SIXXZ"
+addr = 0x148bc30
+type = "std::_Ptr_base<const unsigned char>::element_type *"
+
+[header.args]

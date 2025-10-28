@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0xfc6280
+size = 0x129
+name = "ProcessesTaskContext"
+type = "long long"
+
+[header]
+name = "ProcessesTaskContext"
+addr = 0xfc6280
+type = "long long"
+
+[header.args]

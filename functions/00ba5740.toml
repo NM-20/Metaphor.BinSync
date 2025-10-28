@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xba5740
+size = 0x8c
+name = "??0Line@menu@system@camp@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Line@menu@system@camp@layout@ui@app@@QEAI@XZ"
+addr = 0xba5740
+type = "void *"
+
+[header.args]

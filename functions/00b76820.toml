@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb76820
+size = 0x235
+name = "??0RewardLine@detail@quest@camp@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0RewardLine@detail@quest@camp@layout@ui@app@@QAI@XZ"
+addr = 0xb76820
+type = "void *"
+
+[header.args]

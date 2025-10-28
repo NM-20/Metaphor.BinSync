@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7f0de0
+size = 0x8
+name = "?Unknown27@LayoutBase@ui@fw@@QEAI_NXZ"
+type = "bool"
+
+[header]
+name = "?Unknown27@LayoutBase@ui@fw@@QEAI_NXZ"
+addr = 0x7f0de0
+type = "bool"
+
+[header.args]

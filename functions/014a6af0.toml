@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6af0
+size = 0x6
+name = "j__seh_filter_exe"
+type = "int"
+
+[header]
+name = "j__seh_filter_exe"
+addr = 0x14a6af0
+type = "int"
+
+[header.args]

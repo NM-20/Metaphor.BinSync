@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283649Z
+addr = 0x152dc020
+size = 0x24
+name = "??0ListInfoItem@ChoicesLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0ListInfoItem@ChoicesLayout@ui@app@@QEAI@XZ"
+addr = 0x152dc020
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x6df1b10
+size = 0xa2
+name = "??0?$optional@Vany@std@@@std@@QEAI@AEBV01@@Z"
+type = "std::optional<std::any> *"
+
+[header]
+name = "??0?$optional@Vany@std@@@std@@QEAI@AEBV01@@Z"
+addr = 0x6df1b10
+type = "std::optional<std::any> *"
+
+[header.args]

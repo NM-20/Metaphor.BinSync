@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7d0300
+size = 0x550
+name = "??0fclSystemConfigMenuPc@fcl@app@@QEAI@PEAX0@Z"
+type = "void *"
+
+[header]
+name = "??0fclSystemConfigMenuPc@fcl@app@@QEAI@PEAX0@Z"
+addr = 0x7d0300
+type = "void *"
+
+[header.args]

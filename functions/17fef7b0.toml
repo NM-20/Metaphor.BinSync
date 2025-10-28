@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283649Z
+addr = 0x17fef7b0
+size = 0x7a
+name = "?GetPackFileInfoIndex@TextureManager@ui@app@@SIUu32@@AEBUPackFileId@23@@Z"
+type = "u32"
+
+[header]
+name = "?GetPackFileInfoIndex@TextureManager@ui@app@@SIUu32@@AEBUPackFileId@23@@Z"
+addr = 0x17fef7b0
+type = "u32"
+
+[header.args]

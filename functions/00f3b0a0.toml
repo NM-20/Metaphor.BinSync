@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xf3b0a0
+size = 0x5
+name = "j_??0UUIC_Common_MessageLogBG@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0UUIC_Common_MessageLogBG@ui@app@@QEAI@XZ"
+addr = 0xf3b0a0
+type = "void *"
+
+[header.args]

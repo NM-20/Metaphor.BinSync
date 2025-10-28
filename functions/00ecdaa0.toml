@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecdaa0
+size = 0xf
+name = "??1SurfaceInfo@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1SurfaceInfo@ui@app@@QAI@XZ"
+addr = 0xecdaa0
+type = "void"
+
+[header.args]

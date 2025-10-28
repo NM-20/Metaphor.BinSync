@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274642Z
+addr = 0x8d12c0
+size = 0x6
+name = "func"
+type = "SQInteger"
+
+[header]
+name = "func"
+addr = 0x8d12c0
+type = "SQInteger"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x552d70
+size = 0x11
+name = "??0?$StlVector@W4datQuestID@@@TPL@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0?$StlVector@W4datQuestID@@@TPL@@QEAI@XZ"
+addr = 0x552d70
+type = "void *"
+
+[header.args]

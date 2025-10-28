@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x558da0
+size = 0x5f
+name = "SQHasErrored"
+type = "bool"
+
+[header]
+name = "SQHasErrored"
+addr = 0x558da0
+type = "bool"
+
+[header.args]

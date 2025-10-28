@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275642Z
+addr = 0xaca1b0
+size = 0x1c3
+name = "??_GMessageLogLayout@ui@app@@YIXD@Z"
+type = "void"
+
+[header]
+name = "??_GMessageLogLayout@ui@app@@YIXD@Z"
+addr = 0xaca1b0
+type = "void"
+
+[header.args]

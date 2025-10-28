@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x3a79e0
+size = 0x176
+name = "?resize@StlString@TPL@@QAIXUsize_t@@D@Z"
+type = "void"
+
+[header]
+name = "?resize@StlString@TPL@@QAIXUsize_t@@D@Z"
+addr = 0x3a79e0
+type = "void"
+
+[header.args]

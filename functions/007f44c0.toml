@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7f44c0
+size = 0x1c
+name = "?SetVisibility@LayoutBase@ui@fw@@QEAIAEAV123@_N@Z"
+type = "fw::ui::LayoutBase *"
+
+[header]
+name = "?SetVisibility@LayoutBase@ui@fw@@QEAIAEAV123@_N@Z"
+addr = 0x7f44c0
+type = "fw::ui::LayoutBase *"
+
+[header.args]

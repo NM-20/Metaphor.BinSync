@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13ca050
+size = 0x108
+name = "?Md5Update@TPL@@YAXAEAUMd5Context@1@PEBEH@Z"
+type = "void"
+
+[header]
+name = "?Md5Update@TPL@@YAXAEAUMd5Context@1@PEBEH@Z"
+addr = 0x13ca050
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecdf00
+size = 0x80
+name = "??1UvTextureData@TextureManager@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1UvTextureData@TextureManager@ui@app@@QAI@XZ"
+addr = 0xecdf00
+type = "void"
+
+[header.args]

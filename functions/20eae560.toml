@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x20eae560
+size = 0x6a
+name = "?GetPackFileEntryFileName@Resource@TPL@@SIUStlString@2@Us32@@@Z"
+type = "TPL::StlString *"
+
+[header]
+name = "?GetPackFileEntryFileName@Resource@TPL@@SIUStlString@2@Us32@@@Z"
+addr = 0x20eae560
+type = "TPL::StlString *"
+
+[header.args]

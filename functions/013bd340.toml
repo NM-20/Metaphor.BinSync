@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13bd340
+size = 0x134
+name = "?sq_newslot@@YIUSQRESULT@@UHSQUIRRELVM@@USQInteger@@USQBool@@@Z"
+type = "SQRESULT"
+
+[header]
+name = "?sq_newslot@@YIUSQRESULT@@UHSQUIRRELVM@@USQInteger@@USQBool@@@Z"
+addr = 0x13bd340
+type = "SQRESULT"
+
+[header.args]

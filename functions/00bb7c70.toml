@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbb7c70
+size = 0x197
+name = "??0SkillLineR@common@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0SkillLineR@common@layout@ui@app@@QAI@XZ"
+addr = 0xbb7c70
+type = "void *"
+
+[header.args]

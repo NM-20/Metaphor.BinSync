@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeef5a0
+size = 0xb2
+name = "?GetPartReadTextureInfo@TextureManager@ui@app@@QAIAEAVReadTextureInfo@123@UTextureId@23@@Z"
+type = "app::ui::TextureManager::ReadTextureInfo *"
+
+[header]
+name = "?GetPartReadTextureInfo@TextureManager@ui@app@@QAIAEAVReadTextureInfo@123@UTextureId@23@@Z"
+addr = 0xeef5a0
+type = "app::ui::TextureManager::ReadTextureInfo *"
+
+[header.args]

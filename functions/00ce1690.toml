@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xce1690
+size = 0x414
+name = "??0NameEntryLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0NameEntryLayout@ui@app@@QEAI@XZ"
+addr = 0xce1690
+type = "void *"
+
+[header.args]

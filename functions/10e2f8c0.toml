@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x10e2f8c0
+size = 0x21d
+name = "??0TurnInfoLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0TurnInfoLayout@ui@app@@QEAI@XZ"
+addr = 0x10e2f8c0
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd1e860
+size = 0x77
+name = "??0StarSet@quest@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0StarSet@quest@layout@ui@app@@QEAI@XZ"
+addr = 0xd1e860
+type = "void *"
+
+[header.args]

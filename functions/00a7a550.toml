@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa7a550
+size = 0x18
+name = "??0TravelersVoiceFlag@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0TravelersVoiceFlag@ui@app@@QEAI@XZ"
+addr = 0xa7a550
+type = "void *"
+
+[header.args]

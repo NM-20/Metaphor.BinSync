@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xcaa2d0
+size = 0x46
+name = "??0PathPane@map@sortie@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0PathPane@map@sortie@layout@ui@app@@QAI@XZ"
+addr = 0xcaa2d0
+type = "void *"
+
+[header.args]

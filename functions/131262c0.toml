@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x131262c0
+size = 0x30
+name = "??0ClassListBase@common@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0ClassListBase@common@layout@ui@app@@QAI@XZ"
+addr = 0x131262c0
+type = "void *"
+
+[header.args]

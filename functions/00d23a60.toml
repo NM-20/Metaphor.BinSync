@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd23a60
+size = 0xd5
+name = "??0AbilityLine@rankup@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0AbilityLine@rankup@layout@ui@app@@QEAI@XZ"
+addr = 0xd23a60
+type = "void *"
+
+[header.args]

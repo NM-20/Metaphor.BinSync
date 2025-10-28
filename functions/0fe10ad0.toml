@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xfe10ad0
+size = 0x7c
+name = "??0BinaryFiler@tools@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0BinaryFiler@tools@app@@QEAI@XZ"
+addr = 0xfe10ad0
+type = "void *"
+
+[header.args]

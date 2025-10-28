@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273641Z
+addr = 0x5f49d0
+size = 0x5
+name = "j_??0fldUnitCpntFootprint@fld@app@@QEAI@PEAX@Z"
+type = "void"
+
+[header]
+name = "j_??0fldUnitCpntFootprint@fld@app@@QEAI@PEAX@Z"
+addr = 0x5f49d0
+type = "void"
+
+[header.args]

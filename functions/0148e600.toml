@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x148e600
+size = 0x5
+name = "j_??0MovieRendererSystem@movie@TPL@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0MovieRendererSystem@movie@TPL@@QEAI@XZ"
+addr = 0x148e600
+type = "void *"
+
+[header.args]

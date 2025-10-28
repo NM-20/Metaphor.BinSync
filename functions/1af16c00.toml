@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284149Z
+addr = 0x1af16c00
+size = 0x38f
+name = "??0UniversalUIController@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0UniversalUIController@ui@app@@QAI@XZ"
+addr = 0x1af16c00
+type = "void *"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a1c74
+size = 0x6
+name = "j_?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ"
+
+[header]
+name = "j_?sync@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ"
+addr = 0x14a1c74
+
+[header.args]

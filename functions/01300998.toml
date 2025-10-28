@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x1300998
+size = 0x1b8
+name = "?criFsLoaderCore_Load@@SIW5CriError@@UCriFsLoaderCoreHn@@PEAUCriFsIoInterface@@UCriFsFileHn@@UCriBool@@3UCriUint32@@UCriUint64@@3UCriFsDecompHn@@PEBUCriChar8@@3UCriSint64@@UCriSint32@@PEAUCriUint8@@98@Z"
+type = "CriError"
+
+[header]
+name = "?criFsLoaderCore_Load@@SIW5CriError@@UCriFsLoaderCoreHn@@PEAUCriFsIoInterface@@UCriFsFileHn@@UCriBool@@3UCriUint32@@UCriUint64@@3UCriFsDecompHn@@PEBUCriChar8@@3UCriSint64@@UCriSint32@@PEAUCriUint8@@98@Z"
+addr = 0x1300998
+type = "CriError"
+
+[header.args]

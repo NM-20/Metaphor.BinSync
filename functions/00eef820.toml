@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeef820
+size = 0xf7
+name = "?resize@?$StlVector@UUvTextureData@TextureManager@resrc@app@@@TPL@@QAIXUsize_t@@@Z"
+type = "void"
+
+[header]
+name = "?resize@?$StlVector@UUvTextureData@TextureManager@resrc@app@@@TPL@@QAIXUsize_t@@@Z"
+addr = 0xeef820
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbca570
+size = 0x2e8
+name = "??0BustupLayout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0BustupLayout@ui@app@@QAI@XZ"
+addr = 0xbca570
+type = "void *"
+
+[header.args]

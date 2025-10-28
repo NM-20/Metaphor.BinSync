@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278144Z
+addr = 0xdf50a0
+size = 0x1fa
+name = "??0SystemTutorialChoice@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0SystemTutorialChoice@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xdf50a0
+type = "void *"
+
+[header.args]

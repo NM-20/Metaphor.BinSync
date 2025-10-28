@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7b3920
+size = 0x25b
+name = "?_Insert_node@?$_Tree_val@U?$_Tree_simple_types@U?$pair@UStlString@TPL@@W4Language@resrc@app@@@std@@@std@@@std@@QAIU_Nodeptr@12@U?$_Tree_id@U_Nodeptr@?$_Tree_val@U?$_Tree_simple_types@U?$pair@UStlString@TPL@@W4Language@resrc@app@@@std@@@std@@@std@@@std@@U_Nodeptr@12@@Z"
+type = "std::_Tree_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, app::AppLang>, void *> *"
+
+[header]
+name = "?_Insert_node@?$_Tree_val@U?$_Tree_simple_types@U?$pair@UStlString@TPL@@W4Language@resrc@app@@@std@@@std@@@std@@QAIU_Nodeptr@12@U?$_Tree_id@U_Nodeptr@?$_Tree_val@U?$_Tree_simple_types@U?$pair@UStlString@TPL@@W4Language@resrc@app@@@std@@@std@@@std@@@std@@U_Nodeptr@12@@Z"
+addr = 0x7b3920
+type = "std::_Tree_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, app::AppLang>, void *> *"
+
+[header.args]

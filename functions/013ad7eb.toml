@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13ad7eb
+size = 0x6
+name = "j_??1MutexImpl@shdfnd@physx@@QEAA@XZ"
+type = "void"
+
+[header]
+name = "j_??1MutexImpl@shdfnd@physx@@QEAA@XZ"
+addr = 0x13ad7eb
+type = "void"
+
+[header.args]

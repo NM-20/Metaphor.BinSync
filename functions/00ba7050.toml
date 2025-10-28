@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xba7050
+size = 0xf
+name = "??1TextureInfo@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1TextureInfo@ui@app@@QAI@XZ"
+addr = 0xba7050
+type = "void"
+
+[header.args]

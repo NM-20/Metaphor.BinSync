@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeae340
+size = 0x45
+name = "??0CameraPane@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CameraPane@ui@app@@QAI@XZ"
+addr = 0xeae340
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a1d1c
+size = 0x6
+name = "j_?_Throw_C_error@std@@YAXH@Z"
+type = "void"
+
+[header]
+name = "j_?_Throw_C_error@std@@YAXH@Z"
+addr = 0x14a1d1c
+type = "void"
+
+[header.args]

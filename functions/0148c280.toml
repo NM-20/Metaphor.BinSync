@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x148c280
+size = 0x5
+name = "j_?InternalGetPackFileEntryFileName@Resource@TPL@@SIUStlString@2@UDataHandle@12@U32@Us32@@@Z"
+type = "TPL::StlString *"
+
+[header]
+name = "j_?InternalGetPackFileEntryFileName@Resource@TPL@@SIUStlString@2@UDataHandle@12@U32@Us32@@@Z"
+addr = 0x148c280
+type = "TPL::StlString *"
+
+[header.args]

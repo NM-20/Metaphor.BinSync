@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275642Z
+addr = 0xb090c0
+size = 0x12c
+name = "??0CommandBattleMoveLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CommandBattleMoveLayout@ui@app@@QEAI@XZ"
+addr = 0xb090c0
+type = "void *"
+
+[header.args]

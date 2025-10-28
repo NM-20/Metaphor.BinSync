@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283649Z
+addr = 0x19930df0
+size = 0x156
+name = "??R?$lambda@Ud6d28b6944d048f8b4a9a91187358c5e@@@?1???0UUIC_Common_MessageLog@ui@app@@QEAI@XZ@QEAI@XZ"
+type = "fw::ui::LayoutBase *"
+
+[header]
+name = "??R?$lambda@Ud6d28b6944d048f8b4a9a91187358c5e@@@?1???0UUIC_Common_MessageLog@ui@app@@QEAI@XZ@QEAI@XZ"
+addr = 0x19930df0
+type = "fw::ui::LayoutBase *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf9c5510
+size = 0xb0
+name = "??1Data@BackLog@msg@app@@QEAA@XZ"
+type = "void"
+
+[header]
+name = "??1Data@BackLog@msg@app@@QEAA@XZ"
+addr = 0xf9c5510
+type = "void"
+
+[header.args]

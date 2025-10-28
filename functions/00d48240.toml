@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd48240
+size = 0xbc
+name = "??$make_shared_with_deleter@VAcademiaTopChoice@ope@ui@app@@@TPL@@YIV?$shared_ptr@VAcademiaTopChoice@ope@ui@app@@U?$deleter_for_shared_ptr@VAcademiaTopChoice@ope@ui@app@@@TPL@@@std@@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??$make_shared_with_deleter@VAcademiaTopChoice@ope@ui@app@@@TPL@@YIV?$shared_ptr@VAcademiaTopChoice@ope@ui@app@@U?$deleter_for_shared_ptr@VAcademiaTopChoice@ope@ui@app@@@TPL@@@std@@PEAX@Z"
+addr = 0xd48240
+type = "void *"
+
+[header.args]

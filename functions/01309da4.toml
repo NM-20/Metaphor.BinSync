@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x1309da4
+size = 0xdb
+name = "?criErr_NotifyGeneric@@SIXW4CriErrorLevel@@PEBUCriChar8@@W5CriError@@@Z"
+type = "void"
+
+[header]
+name = "?criErr_NotifyGeneric@@SIXW4CriErrorLevel@@PEBUCriChar8@@W5CriError@@@Z"
+addr = 0x1309da4
+type = "void"
+
+[header.args]

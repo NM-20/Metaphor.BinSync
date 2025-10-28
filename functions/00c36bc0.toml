@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xc36bc0
+size = 0x196
+name = "??1ListLine@shop@layout@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1ListLine@shop@layout@ui@app@@QEAI@XZ"
+addr = 0xc36bc0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6772
+size = 0x6
+name = "j_atan2f"
+type = "float"
+
+[header]
+name = "j_atan2f"
+addr = 0x14a6772
+type = "float"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f6a3c
+size = 0x2b
+name = "?crifsbinder_checkBoss@@SIW5CriError@@XZ"
+type = "CriError"
+
+[header]
+name = "?crifsbinder_checkBoss@@SIW5CriError@@XZ"
+addr = 0x12f6a3c
+type = "CriError"
+
+[header.args]

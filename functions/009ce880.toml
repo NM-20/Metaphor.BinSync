@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9ce880
+size = 0x420
+name = "CreatesMessageVector"
+type = "std::vector<app::msg::Manager::MesHandle::Data, TPL::MyAllocator<app::msg::Manager::MesHandle::Data>> *"
+
+[header]
+name = "CreatesMessageVector"
+addr = 0x9ce880
+type = "std::vector<app::msg::Manager::MesHandle::Data, TPL::MyAllocator<app::msg::Manager::MesHandle::Data>> *"
+
+[header.args]

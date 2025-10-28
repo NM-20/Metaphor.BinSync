@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xc2bb100
+size = 0xf3
+name = "??0UpSkyFilter@filter@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0UpSkyFilter@filter@app@@QEAI@XZ"
+addr = 0xc2bb100
+type = "void *"
+
+[header.args]

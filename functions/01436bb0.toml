@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1436bb0
+size = 0x19
+name = "?setRotation@Player@ss@@QEAIXMMM@Z"
+type = "void"
+
+[header]
+name = "?setRotation@Player@ss@@QEAIXMMM@Z"
+addr = 0x1436bb0
+type = "void"
+
+[header.args]

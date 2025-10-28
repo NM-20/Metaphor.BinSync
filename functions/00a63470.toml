@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa63470
+size = 0x2e2
+name = "InvolvedInUiAnimsMaybe"
+type = "unsigned long long *"
+
+[header]
+name = "InvolvedInUiAnimsMaybe"
+addr = 0xa63470
+type = "unsigned long long *"
+
+[header.args]

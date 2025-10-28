@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x130a908
+size = 0x3
+name = "nullsub_253"
+type = "long long"
+
+[header]
+name = "nullsub_253"
+addr = 0x130a908
+type = "long long"
+
+[header.args]

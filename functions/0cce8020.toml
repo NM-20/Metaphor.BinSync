@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xcce8020
+size = 0xea
+name = "SomeStaticFontArrayFunc"
+type = "void"
+
+[header]
+name = "SomeStaticFontArrayFunc"
+addr = 0xcce8020
+type = "void"
+
+[header.args]

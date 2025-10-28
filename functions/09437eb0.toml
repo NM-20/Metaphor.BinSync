@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x9437eb0
+size = 0x23
+name = "??0fldScene_Network@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldScene_Network@fld@app@@QEAI@XZ"
+addr = 0x9437eb0
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x2134a7f0
+size = 0x12e
+name = "??0Task@TPL@@QEAI@PEBDUu64@@@Z"
+type = "void *"
+
+[header]
+name = "??0Task@TPL@@QEAI@PEBDUu64@@@Z"
+addr = 0x2134a7f0
+type = "void *"
+
+[header.args]

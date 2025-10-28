@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeca320
+size = 0x223
+name = "?Update@SpriteStudioManager@ui@app@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?Update@SpriteStudioManager@ui@app@@QEAIXXZ"
+addr = 0xeca320
+type = "void"
+
+[header.args]

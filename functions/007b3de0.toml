@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7b3de0
+size = 0x5b1
+name = "?DetectPlatformLanguage@app@@YIW4Language@1@XZ"
+type = "app::AppLang"
+
+[header]
+name = "?DetectPlatformLanguage@app@@YIW4Language@1@XZ"
+addr = 0x7b3de0
+type = "app::AppLang"
+
+[header.args]

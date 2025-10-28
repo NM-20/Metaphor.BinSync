@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd2cf10
+size = 0x7b
+name = "??0LineLayout@TitleLanguageSelectConfirmLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0LineLayout@TitleLanguageSelectConfirmLayout@ui@app@@QEAI@XZ"
+addr = 0xd2cf10
+type = "void *"
+
+[header.args]

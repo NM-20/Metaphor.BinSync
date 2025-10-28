@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x20c05450
+size = 0xc
+name = "?GetAt@SQVM@@QEAIAEAUSQObjectPtr@@USQInteger@@@Z"
+type = "SQObjectPtr *"
+
+[header]
+name = "?GetAt@SQVM@@QEAIAEAUSQObjectPtr@@USQInteger@@@Z"
+addr = 0x20c05450
+type = "SQObjectPtr *"
+
+[header.args]

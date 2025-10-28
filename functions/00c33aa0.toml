@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc33aa0
+size = 0x4b
+name = "??0ItemShopMenuLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0ItemShopMenuLayout@ui@app@@QEAI@XZ"
+addr = 0xc33aa0
+type = "void *"
+
+[header.args]

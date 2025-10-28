@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe867b0
+size = 0x14
+name = "??0any@std@@QEAI@XZ"
+type = "std::any *"
+
+[header]
+name = "??0any@std@@QEAI@XZ"
+addr = 0xe867b0
+type = "std::any *"
+
+[header.args]

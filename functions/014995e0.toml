@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14995e0
+size = 0x5
+name = "j_??0Task@TPL@@QEAI@PEBDUu64@@@Z"
+type = "void *"
+
+[header]
+name = "j_??0Task@TPL@@QEAI@PEBDUu64@@@Z"
+addr = 0x14995e0
+type = "void *"
+
+[header.args]

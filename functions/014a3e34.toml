@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a3e34
+size = 0x5
+name = "j_?_onexit@@YIU_onexit_t@@U1@@Z"
+type = "_onexit_t"
+
+[header]
+name = "j_?_onexit@@YIU_onexit_t@@U1@@Z"
+addr = 0x14a3e34
+type = "_onexit_t"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274642Z
+addr = 0x8cac50
+size = 0xa1
+name = "??$Func@P6IUSQInteger@@XZ@TableBase@Sqrat@@QEAIAEAU01@PEBUSQChar@@P6IUSQInteger@@XZ@Z"
+type = "Sqrat::TableBase *"
+
+[header]
+name = "??$Func@P6IUSQInteger@@XZ@TableBase@Sqrat@@QEAIAEAU01@PEBUSQChar@@P6IUSQInteger@@XZ@Z"
+addr = 0x8cac50
+type = "Sqrat::TableBase *"
+
+[header.args]

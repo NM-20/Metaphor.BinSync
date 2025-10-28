@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6b26
+size = 0x6
+name = "j__register_thread_local_exe_atexit_callback"
+type = "void"
+
+[header]
+name = "j__register_thread_local_exe_atexit_callback"
+addr = 0x14a6b26
+type = "void"
+
+[header.args]

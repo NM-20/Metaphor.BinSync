@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7e5c20
+size = 0x369
+name = "fnEnum"
+type = "long long"
+
+[header]
+name = "fnEnum"
+addr = 0x7e5c20
+type = "long long"
+
+[header.args]

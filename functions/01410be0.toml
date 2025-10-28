@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1410be0
+size = 0x5
+name = "CallsAddToWeirdMap"
+
+[header]
+name = "CallsAddToWeirdMap"
+addr = 0x1410be0
+
+[header.args]

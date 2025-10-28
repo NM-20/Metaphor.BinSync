@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273641Z
+addr = 0x699ad0
+size = 0xa9
+name = "??0fldActionHit@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldActionHit@fld@app@@QEAI@XZ"
+addr = 0x699ad0
+type = "void *"
+
+[header.args]

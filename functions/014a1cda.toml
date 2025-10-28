@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a1cda
+size = 0x6
+name = "j__Xtime_get_ticks"
+type = "long long"
+
+[header]
+name = "j__Xtime_get_ticks"
+addr = 0x14a1cda
+type = "long long"
+
+[header.args]

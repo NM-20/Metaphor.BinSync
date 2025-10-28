@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa8a580
+size = 0x1db
+name = "??0List@slot_select@secret@academia@layout@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??0List@slot_select@secret@academia@layout@ui@app@@QEAI@XZ"
+addr = 0xa8a580
+type = "void"
+
+[header.args]

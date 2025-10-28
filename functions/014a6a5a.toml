@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6a5a
+size = 0x6
+name = "j_atan2"
+type = "double"
+
+[header]
+name = "j_atan2"
+addr = 0x14a6a5a
+type = "double"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a4970
+size = 0x1e
+name = "__security_check_cookie"
+type = "void"
+
+[header]
+name = "__security_check_cookie"
+addr = 0x14a4970
+type = "void"
+
+[header.args]

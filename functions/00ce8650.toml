@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xce8650
+size = 0x5
+name = "j_??0Main@load@layout@ui@app@@QEAI@XZ"
+type = "long long"
+
+[header]
+name = "j_??0Main@load@layout@ui@app@@QEAI@XZ"
+addr = 0xce8650
+type = "long long"
+
+[header.args]

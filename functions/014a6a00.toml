@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6a00
+size = 0x6
+name = "j_strlen"
+type = "size_t"
+
+[header]
+name = "j_strlen"
+addr = 0x14a6a00
+type = "size_t"
+
+[header.args]

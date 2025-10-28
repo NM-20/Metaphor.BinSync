@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x143f800
+size = 0x9
+name = "?Create@SQString@@SIPEAUSQString@@PEAUSQSharedState@@PEBUSQChar@@USQInteger@@@Z"
+type = "SQString *"
+
+[header]
+name = "?Create@SQString@@SIPEAUSQString@@PEAUSQSharedState@@PEBUSQChar@@USQInteger@@@Z"
+addr = 0x143f800
+type = "SQString *"
+
+[header.args]

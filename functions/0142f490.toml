@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x142f490
+size = 0x5
+name = "j_?getData@ResourceManager@ss@@QEAIPEAVResourceSet@2@UStlString@TPL@@@Z"
+type = "ss::ResourceSet *"
+
+[header]
+name = "j_?getData@ResourceManager@ss@@QEAIPEAVResourceSet@2@UStlString@TPL@@@Z"
+addr = 0x142f490
+type = "ss::ResourceSet *"
+
+[header.args]

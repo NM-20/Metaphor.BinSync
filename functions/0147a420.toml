@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147a420
+size = 0x5
+name = "j_?DecompressResource@ResourceManager@TPL@@YIXPEAVResource@2@@Z"
+type = "void"
+
+[header]
+name = "j_?DecompressResource@ResourceManager@TPL@@YIXPEAVResource@2@@Z"
+addr = 0x147a420
+type = "void"
+
+[header.args]

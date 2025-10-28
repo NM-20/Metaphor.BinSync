@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a1ca4
+size = 0x6
+name = "j_?uncaught_exception@std@@YA_NXZ"
+type = "bool"
+
+[header]
+name = "j_?uncaught_exception@std@@YA_NXZ"
+addr = 0x14a1ca4
+type = "bool"
+
+[header.args]

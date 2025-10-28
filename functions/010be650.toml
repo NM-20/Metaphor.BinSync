@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0x10be650
+size = 0x3
+name = "nullsub_193"
+type = "long long"
+
+[header]
+name = "nullsub_193"
+addr = 0x10be650
+type = "long long"
+
+[header.args]

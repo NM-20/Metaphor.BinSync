@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xc25000
+size = 0x36
+name = "??0SheetShadow@bounty@quest@common@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0SheetShadow@bounty@quest@common@layout@ui@app@@QEAI@XZ"
+addr = 0xc25000
+type = "void *"
+
+[header.args]

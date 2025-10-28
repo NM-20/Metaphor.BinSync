@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x140e0c0
+size = 0x7
+name = "DestroyMaybe"
+type = "long long"
+
+[header]
+name = "DestroyMaybe"
+addr = 0x140e0c0
+type = "long long"
+
+[header.args]

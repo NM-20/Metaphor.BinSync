@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xca1780
+size = 0x4a
+name = "??0ParamIcon@human_param@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0ParamIcon@human_param@layout@ui@app@@QEAI@XZ"
+addr = 0xca1780
+type = "void *"
+
+[header.args]

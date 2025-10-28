@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xf61970
+size = 0x5
+name = "AllocatesMessageLayout"
+type = "fw::ui::LayoutBase *"
+
+[header]
+name = "AllocatesMessageLayout"
+addr = 0xf61970
+type = "fw::ui::LayoutBase *"
+
+[header.args]

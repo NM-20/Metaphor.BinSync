@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13ad7e5
+size = 0x6
+name = "j_??0MutexImpl@shdfnd@physx@@QEAA@XZ"
+type = "unsigned long long"
+
+[header]
+name = "j_??0MutexImpl@shdfnd@physx@@QEAA@XZ"
+addr = 0x13ad7e5
+type = "unsigned long long"
+
+[header.args]

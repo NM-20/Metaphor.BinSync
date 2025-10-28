@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a670c
+size = 0x6
+name = "j___std_type_info_name"
+type = "const char *"
+
+[header]
+name = "j___std_type_info_name"
+addr = 0x14a670c
+type = "const char *"
+
+[header.args]

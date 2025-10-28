@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1412800
+size = 0x5
+name = "j_ProtectedDestroyInternalMaybe"
+type = "void"
+
+[header]
+name = "j_ProtectedDestroyInternalMaybe"
+addr = 0x1412800
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6aea
+size = 0x6
+name = "j__cexit"
+type = "void"
+
+[header]
+name = "j__cexit"
+addr = 0x14a6aea
+type = "void"
+
+[header.args]

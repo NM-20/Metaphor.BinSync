@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x54fa70
+size = 0x1a3e
+name = "CreatesMessageLogSaveData"
+type = "void"
+
+[header]
+name = "CreatesMessageLogSaveData"
+addr = 0x54fa70
+type = "void"
+
+[header.args]

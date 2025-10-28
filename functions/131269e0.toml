@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x131269e0
+size = 0x92
+name = "??0MaterialListLine@common@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0MaterialListLine@common@layout@ui@app@@QEAI@XZ"
+addr = 0x131269e0
+type = "void *"
+
+[header.args]

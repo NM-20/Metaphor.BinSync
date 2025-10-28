@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecc4e0
+size = 0x31
+name = "??0SurfaceInfo@ui@app@@QAI@XZ"
+type = "app::ui::SurfaceInfo *"
+
+[header]
+name = "??0SurfaceInfo@ui@app@@QAI@XZ"
+addr = 0xecc4e0
+type = "app::ui::SurfaceInfo *"
+
+[header.args]

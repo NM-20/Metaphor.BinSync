@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13ad66b
+size = 0x6
+name = "j_PxCreateCooking"
+
+[header]
+name = "j_PxCreateCooking"
+addr = 0x13ad66b
+
+[header.args]

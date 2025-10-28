@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x7b5600
+size = 0x3c3
+name = "?ResolvePath@resrc@app@@YIUStlString@TPL@@URelativePath@12@W4AppLang@2@_N2@Z"
+type = "TPL::StlString *"
+
+[header]
+name = "?ResolvePath@resrc@app@@YIUStlString@TPL@@URelativePath@12@W4AppLang@2@_N2@Z"
+addr = 0x7b5600
+type = "TPL::StlString *"
+
+[header.args]

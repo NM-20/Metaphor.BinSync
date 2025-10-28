@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x148bad0
+size = 0x9c
+name = "?DecompressZLib@Compress@TPL@@YIUu32@@PEBUu8@@U3@PEAU4@1@Z"
+type = "u32"
+
+[header]
+name = "?DecompressZLib@Compress@TPL@@YIUu32@@PEBUu8@@U3@PEAU4@1@Z"
+addr = 0x148bad0
+type = "u32"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13b82cb
+size = 0x6
+name = "j_SystemFunction036"
+type = "BOOLEAN"
+
+[header]
+name = "j_SystemFunction036"
+addr = 0x13b82cb
+type = "BOOLEAN"
+
+[header.args]

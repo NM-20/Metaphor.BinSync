@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa13130
+size = 0x1c
+name = "??0widgetPanel@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0widgetPanel@app@@QEAI@XZ"
+addr = 0xa13130
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9d8950
+size = 0x5
+name = "j_??_GMesHandle@Manager@msg@app@@YIXD@Z"
+type = "void"
+
+[header]
+name = "j_??_GMesHandle@Manager@msg@app@@YIXD@Z"
+addr = 0x9d8950
+type = "void"
+
+[header.args]

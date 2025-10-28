@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284149Z
+addr = 0x1f8dd390
+size = 0x10
+name = "?criFs_ExecuteMain@@SIW5CriError@@XZ"
+type = "CriError"
+
+[header]
+name = "?criFs_ExecuteMain@@SIW5CriError@@XZ"
+addr = 0x1f8dd390
+type = "CriError"
+
+[header.args]

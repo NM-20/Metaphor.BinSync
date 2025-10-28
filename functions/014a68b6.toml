@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a68b6
+size = 0x6
+name = "j__beginthreadex"
+type = "uintptr_t"
+
+[header]
+name = "j__beginthreadex"
+addr = 0x14a68b6
+type = "uintptr_t"
+
+[header.args]

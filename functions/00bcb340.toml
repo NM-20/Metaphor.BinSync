@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbcb340
+size = 0xde
+name = "??0MetaballFocusLayout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0MetaballFocusLayout@ui@app@@QAI@XZ"
+addr = 0xbcb340
+type = "void *"
+
+[header.args]

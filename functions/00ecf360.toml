@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecf360
+size = 0xf
+name = "?BoundToMaximum@SsPackFileId@ui@app@@SIUValueType@123@U4123@@Z"
+type = "app::ui::TEXTURE_ID"
+
+[header]
+name = "?BoundToMaximum@SsPackFileId@ui@app@@SIUValueType@123@U4123@@Z"
+addr = 0xecf360
+type = "app::ui::TEXTURE_ID"
+
+[header.args]

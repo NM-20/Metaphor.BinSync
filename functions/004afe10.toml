@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x4afe10
+size = 0x9
+name = "??1PointListInfoItem@map@quest@camp@layout@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1PointListInfoItem@map@quest@camp@layout@ui@app@@QAI@XZ"
+addr = 0x4afe10
+type = "void"
+
+[header.args]

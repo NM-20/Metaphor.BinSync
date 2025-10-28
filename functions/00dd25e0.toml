@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278144Z
+addr = 0xdd25e0
+size = 0x12c
+name = "??0ItemMenuClassSelectChoice@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0ItemMenuClassSelectChoice@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xdd25e0
+type = "void *"
+
+[header.args]

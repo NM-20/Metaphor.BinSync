@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278144Z
+addr = 0xddc020
+size = 0x372
+name = "??0?$QuestChoiceBase@VCampQuestLayout@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$QuestChoiceBase@VCampQuestLayout@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xddc020
+type = "void *"
+
+[header.args]

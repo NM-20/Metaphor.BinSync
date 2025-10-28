@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xf390b0
+size = 0x29
+name = "??0UUIC_Common_BattleResult@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0UUIC_Common_BattleResult@ui@app@@QEAI@XZ"
+addr = 0xf390b0
+type = "void *"
+
+[header.args]

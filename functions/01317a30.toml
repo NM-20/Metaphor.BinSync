@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x1317a30
+size = 0x16
+name = "?criHnManager_Create@@SIUCriHnManagerHn@@UCriSint32@@0PEAUCriUint32@@U3@@Z"
+type = "void *"
+
+[header]
+name = "?criHnManager_Create@@SIUCriHnManagerHn@@UCriSint32@@0PEAUCriUint32@@U3@@Z"
+addr = 0x1317a30
+type = "void *"
+
+[header.args]

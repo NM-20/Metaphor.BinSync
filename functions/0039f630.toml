@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x39f630
+size = 0x7d
+name = "??1TravelersPartyDownloadData@net@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1TravelersPartyDownloadData@net@app@@QAI@XZ"
+addr = 0x39f630
+type = "void"
+
+[header.args]

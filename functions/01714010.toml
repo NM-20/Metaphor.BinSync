@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281647Z
+addr = 0x1714010
+size = 0x33
+name = "_Function"
+type = "int"
+
+[header]
+name = "_Function"
+addr = 0x1714010
+type = "int"
+
+[header.args]

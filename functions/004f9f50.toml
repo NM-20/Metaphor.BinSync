@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x4f9f50
+size = 0xc4
+name = "??$make_shared_with_deleter@VAcademiaSelectCustomSlot_Data@ope@ui@app@@@TPL@@YIV?$shared_ptr@VAcademiaSelectCustomSlot_Data@ope@ui@app@@U?$deleter_for_shared_ptr@VAcademiaSelectCustomSlot_Data@ope@ui@app@@@TPL@@@std@@XZ"
+type = "void *"
+
+[header]
+name = "??$make_shared_with_deleter@VAcademiaSelectCustomSlot_Data@ope@ui@app@@@TPL@@YIV?$shared_ptr@VAcademiaSelectCustomSlot_Data@ope@ui@app@@U?$deleter_for_shared_ptr@VAcademiaSelectCustomSlot_Data@ope@ui@app@@@TPL@@@std@@XZ"
+addr = 0x4f9f50
+type = "void *"
+
+[header.args]

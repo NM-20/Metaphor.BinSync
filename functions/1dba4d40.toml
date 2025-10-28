@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284149Z
+addr = 0x1dba4d40
+size = 0x2f7
+name = "?adler32@@YIUuLong@@U1@PEBUBytef@@UuInt@@@Z"
+type = "uLong"
+
+[header]
+name = "?adler32@@YIUuLong@@U1@PEBUBytef@@UuInt@@@Z"
+addr = 0x1dba4d40
+type = "uLong"
+
+[header.args]

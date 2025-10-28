@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x140bd80
+size = 0x116
+name = "??0PictPaneBase@ui@fw@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0PictPaneBase@ui@fw@@QAI@XZ"
+addr = 0x140bd80
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x1225820
+size = 0x5b5
+name = "?inflate_table@@YIHW4codetype@@PEAGIPEAPEAUcode@@PEAI1@Z"
+type = "int"
+
+[header]
+name = "?inflate_table@@YIHW4codetype@@PEAGIPEAPEAUcode@@PEAI1@Z"
+addr = 0x1225820
+type = "int"
+
+[header.args]

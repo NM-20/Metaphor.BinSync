@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14975d0
+size = 0x3bc
+name = "?LZ4_decompress_safe@@YIHPEBDPEADHH@Z"
+type = "int"
+
+[header]
+name = "?LZ4_decompress_safe@@YIHPEBDPEADHH@Z"
+addr = 0x14975d0
+type = "int"
+
+[header.args]

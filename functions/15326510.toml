@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283649Z
+addr = 0x15326510
+size = 0x35
+name = "??1Icon@mag_get@event@layout@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1Icon@mag_get@event@layout@ui@app@@QEAI@XZ"
+addr = 0x15326510
+type = "void"
+
+[header.args]

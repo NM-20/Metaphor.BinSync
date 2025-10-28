@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1479950
+size = 0xc4
+name = "??0Resource@TPL@@QAIPEAVResource@TPL@@$$QEAVStlString@1@Uu32@@1@Z"
+type = "TPL::Resource *"
+
+[header]
+name = "??0Resource@TPL@@QAIPEAVResource@TPL@@$$QEAVStlString@1@Uu32@@1@Z"
+addr = 0x1479950
+type = "TPL::Resource *"
+
+[header.args]

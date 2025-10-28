@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1479c70
+size = 0x4
+name = "?GetDataType@Resource@TPL@@QAIW4DataType@12@XZ"
+type = "TPL::Resource::Type"
+
+[header]
+name = "?GetDataType@Resource@TPL@@QAIW4DataType@12@XZ"
+addr = 0x1479c70
+type = "TPL::Resource::Type"
+
+[header.args]

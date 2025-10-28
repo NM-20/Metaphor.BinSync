@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeef920
+size = 0x23
+name = "?size@?$StlVector@UUvTextureData@TextureManager@ui@app@@@TPL@@QAIUsize_t@@XZ"
+type = "size_t"
+
+[header]
+name = "?size@?$StlVector@UUvTextureData@TextureManager@ui@app@@@TPL@@QAIUsize_t@@XZ"
+addr = 0xeef920
+type = "size_t"
+
+[header.args]

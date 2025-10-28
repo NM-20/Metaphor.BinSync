@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278144Z
+addr = 0xd99ba0
+size = 0x3d
+name = "??0ConfigBrightnessChoice@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0ConfigBrightnessChoice@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xd99ba0
+type = "void *"
+
+[header.args]

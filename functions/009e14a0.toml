@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9e14a0
+size = 0x650
+name = "?CreateMessage@Manager@msg@app@@SIUId@MesHandle@123@QEAUu8@@Uu32@@QEADU45123@_N@Z"
+type = "app::msg::Manager::MesHandle::Id"
+
+[header]
+name = "?CreateMessage@Manager@msg@app@@SIUId@MesHandle@123@QEAUu8@@Uu32@@QEADU45123@_N@Z"
+addr = 0x9e14a0
+type = "app::msg::Manager::MesHandle::Id"
+
+[header.args]

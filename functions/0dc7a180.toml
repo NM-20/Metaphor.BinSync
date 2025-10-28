@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xdc7a180
+size = 0x13
+name = "GetEnemyID"
+type = "std::_Ptr_base<const unsigned char>::element_type *"
+
+[header]
+name = "GetEnemyID"
+addr = 0xdc7a180
+type = "std::_Ptr_base<const unsigned char>::element_type *"
+
+[header.args]

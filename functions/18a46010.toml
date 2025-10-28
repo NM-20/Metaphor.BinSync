@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283649Z
+addr = 0x18a46010
+size = 0x75
+name = "??0UUIC_Battle_PressTurnIcon@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0UUIC_Battle_PressTurnIcon@ui@app@@QEAI@XZ"
+addr = 0x18a46010
+type = "void *"
+
+[header.args]

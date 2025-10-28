@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x720270
+size = 0xbe
+name = "??0Scheduler@scheduler@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Scheduler@scheduler@app@@QEAI@XZ"
+addr = 0x720270
+type = "void *"
+
+[header.args]

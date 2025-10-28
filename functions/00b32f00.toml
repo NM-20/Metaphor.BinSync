@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276143Z
+addr = 0xb32f00
+size = 0x5a
+name = "??1?$MultiAnimator@$01@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1?$MultiAnimator@$01@ui@app@@QEAI@XZ"
+addr = 0xb32f00
+type = "void"
+
+[header.args]

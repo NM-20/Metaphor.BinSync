@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x1273c610
+size = 0x2c
+name = "??1PaintFocusDecoPane@vertical@paint@common@layout@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1PaintFocusDecoPane@vertical@paint@common@layout@ui@app@@QEAI@XZ"
+addr = 0x1273c610
+type = "void"
+
+[header.args]

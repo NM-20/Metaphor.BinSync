@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281647Z
+addr = 0x3be4a70
+size = 0x1d
+name = "??0Bustup@dat@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Bustup@dat@app@@QAI@XZ"
+addr = 0x3be4a70
+type = "void *"
+
+[header.args]

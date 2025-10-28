@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0x10ce4350
+size = 0xc8
+name = "??0BuffIconLayout@Single@target@command@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0BuffIconLayout@Single@target@command@layout@ui@app@@QEAI@XZ"
+addr = 0x10ce4350
+type = "void *"
+
+[header.args]

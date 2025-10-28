@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1479c60
+size = 0x5
+name = "?GetDataBuffer@Resource@TPL@@QAIAEBUu8@@XZ"
+type = "const u8 *"
+
+[header]
+name = "?GetDataBuffer@Resource@TPL@@QAIAEBUu8@@XZ"
+addr = 0x1479c60
+type = "const u8 *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x397bf0
+size = 0x248
+name = "??0?$tree_ptr@VfldSave_Debug@fld@app@@@dataStructuresForFileIO@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$tree_ptr@VfldSave_Debug@fld@app@@@dataStructuresForFileIO@app@@QEAI@PEAX@Z"
+addr = 0x397bf0
+type = "void *"
+
+[header.args]

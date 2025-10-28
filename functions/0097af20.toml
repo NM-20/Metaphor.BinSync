@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274642Z
+addr = 0x97af20
+size = 0x7f
+name = "??4DataHandle@Resource@TPL@@QAIAEAU012@$$QEAU012@@Z"
+type = "TPL::Resource::DataHandle *"
+
+[header]
+name = "??4DataHandle@Resource@TPL@@QAIAEAU012@$$QEAU012@@Z"
+addr = 0x97af20
+type = "TPL::Resource::DataHandle *"
+
+[header.args]

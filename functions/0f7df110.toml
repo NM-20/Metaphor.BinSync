@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf7df110
+size = 0x12f
+name = "?InternalMakeHandleId@Manager@msg@app@@AAIUId@MesHandle@123@XZ"
+type = "app::msg::Manager::MesHandle::Id"
+
+[header]
+name = "?InternalMakeHandleId@Manager@msg@app@@AAIUId@MesHandle@123@XZ"
+addr = 0xf7df110
+type = "app::msg::Manager::MesHandle::Id"
+
+[header.args]

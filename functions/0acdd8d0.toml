@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0xacdd8d0
+size = 0x16
+name = "??0fldGallicaTalk@fld@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldGallicaTalk@fld@app@@QAI@XZ"
+addr = 0xacdd8d0
+type = "void *"
+
+[header.args]

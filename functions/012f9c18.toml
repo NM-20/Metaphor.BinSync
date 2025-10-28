@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f9c18
+size = 0x14a
+name = "?crifsloader_LoadRegisteredFile32@@SIW5CriError@@UCriFsLoaderHn@@UCriSint32@@UCriUint32@@PEBUCriUint8@@2@Z"
+type = "CriError"
+
+[header]
+name = "?crifsloader_LoadRegisteredFile32@@SIW5CriError@@UCriFsLoaderHn@@UCriSint32@@UCriUint32@@PEBUCriUint8@@2@Z"
+addr = 0x12f9c18
+type = "CriError"
+
+[header.args]

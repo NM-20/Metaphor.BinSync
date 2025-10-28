@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbcb420
+size = 0xd4
+name = "??0PopupCount@create_confirm@common@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0PopupCount@create_confirm@common@layout@ui@app@@QAI@XZ"
+addr = 0xbcb420
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x386b10
+size = 0x5
+name = "j_??0ElectionRank@dat@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0ElectionRank@dat@app@@QAI@XZ"
+addr = 0x386b10
+type = "void *"
+
+[header.args]

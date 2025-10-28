@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x13b5cf40
+size = 0x289
+name = "??0Base@window@common@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Base@window@common@layout@ui@app@@QEAI@XZ"
+addr = 0x13b5cf40
+type = "void *"
+
+[header.args]

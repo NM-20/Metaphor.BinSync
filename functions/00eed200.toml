@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeed200
+size = 0x5a2
+name = "TextureManagerUpdateFunctionMaybe"
+type = "void"
+
+[header]
+name = "TextureManagerUpdateFunctionMaybe"
+addr = 0xeed200
+type = "void"
+
+[header.args]

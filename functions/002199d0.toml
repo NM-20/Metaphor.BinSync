@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x2199d0
+size = 0x1f
+name = "?assign@StlString@TPL@@QAIAEAV12@QEBD@Z"
+type = "TPL::StlString *"
+
+[header]
+name = "?assign@StlString@TPL@@QAIAEAV12@QEBD@Z"
+addr = 0x2199d0
+type = "TPL::StlString *"
+
+[header.args]

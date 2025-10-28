@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xea7d60
+size = 0xf6
+name = "?Update@LayoutManager@ui@app@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?Update@LayoutManager@ui@app@@QEAIXXZ"
+addr = 0xea7d60
+type = "void"
+
+[header.args]

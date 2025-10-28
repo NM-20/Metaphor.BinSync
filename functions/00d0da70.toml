@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd0da70
+size = 0x5
+name = "j_??0TextureInfo@ui@app@@QEAI@XZ"
+type = "app::ui::TextureInfo *"
+
+[header]
+name = "j_??0TextureInfo@ui@app@@QEAI@XZ"
+addr = 0xd0da70
+type = "app::ui::TextureInfo *"
+
+[header.args]

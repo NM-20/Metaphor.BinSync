@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x1512aa30
+size = 0x5f
+name = "??0CaptureBgLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CaptureBgLayout@ui@app@@QEAI@XZ"
+addr = 0x1512aa30
+type = "void *"
+
+[header.args]

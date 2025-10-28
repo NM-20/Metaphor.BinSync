@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0xfcf830
+size = 0x4
+name = "?AddReference@ReferenceCounter@fw@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?AddReference@ReferenceCounter@fw@@QEAIXXZ"
+addr = 0xfcf830
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x3e15a0
+size = 0x2b
+name = "??0datWorldMap@dat@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0datWorldMap@dat@app@@QEAI@XZ"
+addr = 0x3e15a0
+type = "void *"
+
+[header.args]

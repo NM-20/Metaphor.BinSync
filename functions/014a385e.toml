@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a385e
+size = 0x6
+name = "j_?__ExceptionPtrToBool@@YA_NPEBX@Z"
+type = "bool"
+
+[header]
+name = "j_?__ExceptionPtrToBool@@YA_NPEBX@Z"
+addr = 0x14a385e
+type = "bool"
+
+[header.args]

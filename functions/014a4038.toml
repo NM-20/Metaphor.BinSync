@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a4038
+size = 0x6b
+name = "??_M@YIXPEAX_K1P6IXPEAX@Z@Z"
+type = "void"
+
+[header]
+name = "??_M@YIXPEAX_K1P6IXPEAX@Z@Z"
+addr = 0x14a4038
+type = "void"
+
+[header.args]

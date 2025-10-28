@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13ad7c1
+size = 0x6
+name = "j_?connect@Socket@shdfnd@physx@@QEAA_NPEBDGI@Z"
+type = "bool"
+
+[header]
+name = "j_?connect@Socket@shdfnd@physx@@QEAA_NPEBDGI@Z"
+addr = 0x13ad7c1
+type = "bool"
+
+[header.args]

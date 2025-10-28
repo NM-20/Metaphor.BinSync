@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeeee50
+size = 0x5
+name = "j_?RemoveAt@?$StaticArray@VEntryTextureInfo@TextureManager@ui@app@@@fw@@QAIXUSizeType@12@@Z"
+
+[header]
+name = "j_?RemoveAt@?$StaticArray@VEntryTextureInfo@TextureManager@ui@app@@@fw@@QAIXUSizeType@12@@Z"
+addr = 0xeeee50
+
+[header.args]

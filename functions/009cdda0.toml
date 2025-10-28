@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9cdda0
+size = 0x532
+name = "PopulatesVector"
+type = "std::vector<app::msg::Manager::MesHandle::DataEntry, TPL::MyAllocator<app::msg::Manager::MesHandle::DataEntry>> *"
+
+[header]
+name = "PopulatesVector"
+addr = 0x9cdda0
+type = "std::vector<app::msg::Manager::MesHandle::DataEntry, TPL::MyAllocator<app::msg::Manager::MesHandle::DataEntry>> *"
+
+[header.args]

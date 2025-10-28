@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x144df50
+size = 0x3d
+name = "?PushNull@SQVM@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?PushNull@SQVM@@QEAIXXZ"
+addr = 0x144df50
+type = "void"
+
+[header.args]

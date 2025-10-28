@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xf87390
+size = 0x2c
+name = "??0UUIC_Common_Sortie@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0UUIC_Common_Sortie@ui@app@@QEAI@XZ"
+addr = 0xf87390
+type = "void *"
+
+[header.args]

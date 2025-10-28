@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xcb04a0
+size = 0x460
+name = "??0MiniMapLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0MiniMapLayout@ui@app@@QEAI@XZ"
+addr = 0xcb04a0
+type = "void *"
+
+[header.args]

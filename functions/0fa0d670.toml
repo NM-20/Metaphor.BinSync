@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xfa0d670
+size = 0x90
+name = "FindMessageRegistrationIndex"
+type = "int"
+
+[header]
+name = "FindMessageRegistrationIndex"
+addr = 0xfa0d670
+type = "int"
+
+[header.args]

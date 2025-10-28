@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6b32
+size = 0x6
+name = "j__set_new_mode"
+type = "int"
+
+[header]
+name = "j__set_new_mode"
+addr = 0x14a6b32
+type = "int"
+
+[header.args]

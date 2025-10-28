@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecab70
+size = 0x29
+name = "??A?$StaticArray@UStlString@TPL@@$0BEHL@@fw@@QEAIUStlString@TPL@@USizeType@01@@Z"
+type = "TPL::StlString *"
+
+[header]
+name = "??A?$StaticArray@UStlString@TPL@@$0BEHL@@fw@@QEAIUStlString@TPL@@USizeType@01@@Z"
+addr = 0xecab70
+type = "TPL::StlString *"
+
+[header.args]

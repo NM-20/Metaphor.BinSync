@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9d59b0
+size = 0x5
+name = "j_??$count@X@?$StlUnorderedMap@UId@MesHandle@Manager@msg@app@@PEAV2345@@TPL@@QEBIUsize_t@@AEBUu32@@@Z"
+type = "size_t"
+
+[header]
+name = "j_??$count@X@?$StlUnorderedMap@UId@MesHandle@Manager@msg@app@@PEAV2345@@TPL@@QEBIUsize_t@@AEBUu32@@@Z"
+addr = 0x9d59b0
+type = "size_t"
+
+[header.args]

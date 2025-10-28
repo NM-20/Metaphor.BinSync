@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x12c4bff0
+size = 0x1c8
+name = "??0CampInstantMenuLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CampInstantMenuLayout@ui@app@@QEAI@XZ"
+addr = 0x12c4bff0
+type = "void *"
+
+[header.args]

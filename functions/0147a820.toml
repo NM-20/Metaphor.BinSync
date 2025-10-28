@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147a820
+size = 0xcc
+name = "??$_Find_last@UStlString@TPL@@@?$StlUnorderedMap@UStlString@TPL@@UHandle@Resource@TPL@@@TPL@@AEAIXAEBUStlString@1@Usize_t@@@Z"
+type = "std::_Hash_find_last_result<std::_List_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, std::shared_ptr<TPL::Resource>>, void *> *> *"
+
+[header]
+name = "??$_Find_last@UStlString@TPL@@@?$StlUnorderedMap@UStlString@TPL@@UHandle@Resource@TPL@@@TPL@@AEAIXAEBUStlString@1@Usize_t@@@Z"
+addr = 0x147a820
+type = "std::_Hash_find_last_result<std::_List_node<std::pair<const std::basic_string<char, std::char_traits<char>, TPL::MyAllocator<char>>, std::shared_ptr<TPL::Resource>>, void *> *> *"
+
+[header.args]

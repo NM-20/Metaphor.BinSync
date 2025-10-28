@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272140Z
+addr = 0x39c590
+size = 0x5
+name = "j_??0OpeDataAccessCache@ope@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0OpeDataAccessCache@ope@ui@app@@QAI@XZ"
+addr = 0x39c590
+type = "void *"
+
+[header.args]

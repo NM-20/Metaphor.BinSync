@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd6bbf0
+size = 0x116
+name = "??0BTL_OrderPartyReserve@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0BTL_OrderPartyReserve@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xd6bbf0
+type = "void *"
+
+[header.args]

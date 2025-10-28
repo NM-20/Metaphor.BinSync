@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0x10990a20
+size = 0x9e
+name = "??1SkillIcon@icon@common@layout@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1SkillIcon@icon@common@layout@ui@app@@QAI@XZ"
+addr = 0x10990a20
+type = "void"
+
+[header.args]

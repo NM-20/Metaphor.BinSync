@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f9a28
+size = 0x46
+name = "?criFsLoader_WaitForCompletion@@SIW5CriError@@UCriFsLoaderHn@@AEAW4CriFsLoaderStatus@@@Z"
+type = "CriError"
+
+[header]
+name = "?criFsLoader_WaitForCompletion@@SIW5CriError@@UCriFsLoaderHn@@AEAW4CriFsLoaderStatus@@@Z"
+addr = 0x12f9a28
+type = "CriError"
+
+[header.args]

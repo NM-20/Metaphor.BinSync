@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe9be40
+size = 0x29f
+name = "??0?$tree_ptr@UVariableBufferSaveData@ui@app@@@dataStructuresForFileIO@app@@QEAI@Us64@@Us32@@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$tree_ptr@UVariableBufferSaveData@ui@app@@@dataStructuresForFileIO@app@@QEAI@Us64@@Us32@@PEAX@Z"
+addr = 0xe9be40
+type = "void *"
+
+[header.args]

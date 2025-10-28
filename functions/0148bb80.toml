@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x148bb80
+size = 0x5
+name = "j_?GetPackFileDescriptorBegin@Resource@TPL@@SIAEBUu8@@UDataHandle@12@@Z"
+type = "const u8 *"
+
+[header]
+name = "j_?GetPackFileDescriptorBegin@Resource@TPL@@SIAEBUu8@@UDataHandle@12@@Z"
+addr = 0x148bb80
+type = "const u8 *"
+
+[header.args]

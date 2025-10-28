@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xcf1110
+size = 0x76
+name = "??1TitleCredit_ListInfoItem@ui@app@@QEAI@XZ"
+type = "void"
+
+[header]
+name = "??1TitleCredit_ListInfoItem@ui@app@@QEAI@XZ"
+addr = 0xcf1110
+type = "void"
+
+[header.args]

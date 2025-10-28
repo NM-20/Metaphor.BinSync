@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeefb80
+size = 0x3
+name = "nullsub_159"
+type = "void *"
+
+[header]
+name = "nullsub_159"
+addr = 0xeefb80
+type = "void *"
+
+[header.args]

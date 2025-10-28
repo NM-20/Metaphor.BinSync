@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x1317954
+size = 0xae
+name = "?criHnManager_AllocateHandle@@SIUCriFsLoaderHn@@UCriHnManagerHn@@PEAUCriUint32@@@Z"
+type = "void *"
+
+[header]
+name = "?criHnManager_AllocateHandle@@SIUCriFsLoaderHn@@UCriHnManagerHn@@PEAUCriUint32@@@Z"
+addr = 0x1317954
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0x1036c10
+size = 0x799
+name = "DialogFunc"
+type = "INT_PTR"
+
+[header]
+name = "DialogFunc"
+addr = 0x1036c10
+type = "INT_PTR"
+
+[header.args]

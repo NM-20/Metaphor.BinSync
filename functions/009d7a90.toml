@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9d7a90
+size = 0x2ae
+name = "??1Manager@msg@app@@QEAA@XZ"
+type = "void"
+
+[header]
+name = "??1Manager@msg@app@@QEAA@XZ"
+addr = 0x9d7a90
+type = "void"
+
+[header.args]

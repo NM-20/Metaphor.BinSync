@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.278144Z
+addr = 0xd99870
+size = 0x5
+name = "j_??0?$ConfigBrightnessBaseChoice@VBrightnessSelect@config@layout@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+
+[header]
+name = "j_??0?$ConfigBrightnessBaseChoice@VBrightnessSelect@config@layout@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xd99870
+
+[header.args]

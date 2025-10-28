@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283148Z
+addr = 0x13e19460
+size = 0xb9
+name = "??0FieldTargetCursorLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0FieldTargetCursorLayout@ui@app@@QEAI@XZ"
+addr = 0x13e19460
+type = "void *"
+
+[header.args]

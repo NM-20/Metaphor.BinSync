@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0x10517e0
+size = 0x190
+name = "TopLevelExceptionFilter"
+type = "LONG"
+
+[header]
+name = "TopLevelExceptionFilter"
+addr = 0x10517e0
+type = "LONG"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xf0e9840
+size = 0x9a
+name = "??0mgwTypeCamera_Fix@mgw@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0mgwTypeCamera_Fix@mgw@app@@QEAI@XZ"
+addr = 0xf0e9840
+type = "void *"
+
+[header.args]

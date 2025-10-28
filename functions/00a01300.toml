@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa01300
+size = 0x63
+name = "??0lytFileMenu@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0lytFileMenu@app@@QEAI@XZ"
+addr = 0xa01300
+type = "void *"
+
+[header.args]

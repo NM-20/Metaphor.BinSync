@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x4a5cb0
+size = 0xbe
+name = "??$make_shared_with_deleter@VEquipPartsChoice_Data@ope@ui@app@@@TPL@@YIV?$shared_ptr@VEquipPartsChoice_Data@ope@ui@app@@U?$deleter_for_shared_ptr@VEquipPartsChoice_Data@ope@ui@app@@@TPL@@@std@@XZ"
+type = "void *"
+
+[header]
+name = "??$make_shared_with_deleter@VEquipPartsChoice_Data@ope@ui@app@@@TPL@@YIV?$shared_ptr@VEquipPartsChoice_Data@ope@ui@app@@U?$deleter_for_shared_ptr@VEquipPartsChoice_Data@ope@ui@app@@@TPL@@@std@@XZ"
+addr = 0x4a5cb0
+type = "void *"
+
+[header.args]

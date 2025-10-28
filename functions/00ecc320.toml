@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecc320
+size = 0x3f
+name = "??0EntryTextureInfo@TextureManager@ui@app@@QAI@XZ"
+type = "app::ui::TextureManager::EntryTextureInfo *"
+
+[header]
+name = "??0EntryTextureInfo@TextureManager@ui@app@@QAI@XZ"
+addr = 0xecc320
+type = "app::ui::TextureManager::EntryTextureInfo *"
+
+[header.args]

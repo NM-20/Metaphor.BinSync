@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274141Z
+addr = 0x6bec20
+size = 0x5
+name = "j_??0?$StlVector@PEAUMaskBoxParam@fldMapIcon@fld@app@@@TPL@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "j_??0?$StlVector@PEAUMaskBoxParam@fldMapIcon@fld@app@@@TPL@@QEAI@XZ"
+addr = 0x6bec20
+type = "void *"
+
+[header.args]

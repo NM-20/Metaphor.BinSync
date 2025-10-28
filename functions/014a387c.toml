@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a387c
+size = 0x6
+name = "j__Cnd_wait"
+type = "int"
+
+[header]
+name = "j__Cnd_wait"
+addr = 0x14a387c
+type = "int"
+
+[header.args]

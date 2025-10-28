@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278144Z
+addr = 0xd99b60
+size = 0x37
+name = "??0?$SingleChoiceBase_WithNoNextLayout@VBrightnessSelect@config@layout@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0?$SingleChoiceBase_WithNoNextLayout@VBrightnessSelect@config@layout@ui@app@@@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xd99b60
+type = "void *"
+
+[header.args]

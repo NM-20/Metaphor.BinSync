@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278144Z
+addr = 0xda81e0
+size = 0xd9
+name = "??0CooperationSkillMenuChoice@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0CooperationSkillMenuChoice@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xda81e0
+type = "void *"
+
+[header.args]

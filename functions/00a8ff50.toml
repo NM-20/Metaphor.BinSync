@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275642Z
+addr = 0xa8ff50
+size = 0x5
+name = "??1TabIcon@skill_select@secret@academia@layout@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1TabIcon@skill_select@secret@academia@layout@ui@app@@QAI@XZ"
+addr = 0xa8ff50
+type = "void"
+
+[header.args]

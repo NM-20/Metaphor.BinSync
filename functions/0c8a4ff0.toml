@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xc8a4ff0
+size = 0x9
+name = "??$make_shared_with_deleter@VConfigMenuChoice_Data@ope@ui@app@@@TPL@@YIV?$shared_ptr@VConfigMenuChoice_Data@ope@ui@app@@U?$deleter_for_shared_ptr@VConfigMenuChoice_Data@ope@ui@app@@@TPL@@@std@@XZ"
+type = "void *"
+
+[header]
+name = "??$make_shared_with_deleter@VConfigMenuChoice_Data@ope@ui@app@@@TPL@@YIV?$shared_ptr@VConfigMenuChoice_Data@ope@ui@app@@U?$deleter_for_shared_ptr@VConfigMenuChoice_Data@ope@ui@app@@@TPL@@@std@@XZ"
+addr = 0xc8a4ff0
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x1307658
+size = 0xd3
+name = "?criFsPath_Concatenate@@SIXPEAUCriChar8@@UCriUint64@@PEBU1@2@Z"
+type = "void"
+
+[header]
+name = "?criFsPath_Concatenate@@SIXPEAUCriChar8@@UCriUint64@@PEBU1@2@Z"
+addr = 0x1307658
+type = "void"
+
+[header.args]

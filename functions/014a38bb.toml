@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a38bb
+size = 0x6
+name = "j_?_Schedule_chore@details@Concurrency@@YAHPEAU_Threadpool_chore@12@@Z"
+type = "int"
+
+[header]
+name = "j_?_Schedule_chore@details@Concurrency@@YAHPEAU_Threadpool_chore@12@@Z"
+addr = 0x14a38bb
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xd1a060
+size = 0xaa
+name = "??0SystemMagLayout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0SystemMagLayout@ui@app@@QEAI@XZ"
+addr = 0xd1a060
+type = "void *"
+
+[header.args]

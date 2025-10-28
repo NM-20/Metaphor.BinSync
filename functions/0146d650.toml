@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x146d650
+size = 0x60
+name = "??0SsPartState@ss@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0SsPartState@ss@@QEAI@XZ"
+addr = 0x146d650
+type = "void *"
+
+[header.args]

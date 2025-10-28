@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.274642Z
+addr = 0x979a30
+size = 0xb1
+name = "??$reset@PEBUu8@@P6IXPEBUu8@@@Z@DataHandle@Resource@TPL@@QAIXPEBUu8@@P6IXPEBU3@@Z@Z"
+type = "void"
+
+[header]
+name = "??$reset@PEBUu8@@P6IXPEBUu8@@@Z@DataHandle@Resource@TPL@@QAIXPEBUu8@@P6IXPEBU3@@Z@Z"
+addr = 0x979a30
+type = "void"
+
+[header.args]

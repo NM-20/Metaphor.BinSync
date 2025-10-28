@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147b990
+size = 0x2ec
+name = "?LoadPackFileEntry@ResourceManager@TPL@@QAIUHandle@Resource@2@U342@Us32@@@Z"
+type = "TPL::Resource::Handle *"
+
+[header]
+name = "?LoadPackFileEntry@ResourceManager@TPL@@QAIUHandle@Resource@2@U342@Us32@@@Z"
+addr = 0x147b990
+type = "TPL::Resource::Handle *"
+
+[header.args]

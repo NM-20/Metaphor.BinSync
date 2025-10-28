@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x4edc70
+size = 0x3
+name = "nullsub_36"
+type = "long long"
+
+[header]
+name = "nullsub_36"
+addr = 0x4edc70
+type = "long long"
+
+[header.args]

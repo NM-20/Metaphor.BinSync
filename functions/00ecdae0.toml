@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xecdae0
+size = 0x3ec
+name = "??1TextureManager@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1TextureManager@ui@app@@QAI@XZ"
+addr = 0xecdae0
+type = "void"
+
+[header.args]

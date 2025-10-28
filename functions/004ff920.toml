@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x4ff920
+size = 0x23
+name = "??0NodeInfoItem@archetype_select@tree@academia@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0NodeInfoItem@archetype_select@tree@academia@layout@ui@app@@QEAI@XZ"
+addr = 0x4ff920
+type = "void *"
+
+[header.args]

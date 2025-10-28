@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xdd99de0
+size = 0x3af
+name = "??0fldScene_QuestList@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldScene_QuestList@fld@app@@QEAI@XZ"
+addr = 0xdd99de0
+type = "void *"
+
+[header.args]

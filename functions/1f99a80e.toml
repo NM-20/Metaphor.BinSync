@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284149Z
+addr = 0x1f99a80e
+size = 0x83
+name = "?criFsLoader_LoadByFileHandle@@SIW5CriError@@UCriFsLoaderHn@@UCriFsFileHn@@PEBUCriChar8@@UCriSint64@@3PEAUCriUint8@@3@Z"
+type = "CriError"
+
+[header]
+name = "?criFsLoader_LoadByFileHandle@@SIW5CriError@@UCriFsLoaderHn@@UCriFsFileHn@@PEBUCriChar8@@UCriSint64@@3PEAUCriUint8@@3@Z"
+addr = 0x1f99a80e
+type = "CriError"
+
+[header.args]

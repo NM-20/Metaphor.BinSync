@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12649d8
+size = 0x5
+name = "j_?criSvm_Execute@@SIXXZ"
+type = "void"
+
+[header]
+name = "j_?criSvm_Execute@@SIXXZ"
+addr = 0x12649d8
+type = "void"
+
+[header.args]

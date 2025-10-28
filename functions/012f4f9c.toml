@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x12f4f9c
+size = 0x5
+name = "j_?criFsBinder_GetFileSize@@SIW5CriError@@UCriFsBinderHn@@PEBUCriChar8@@PEAUCriUint64@@@Z"
+type = "CriError"
+
+[header]
+name = "j_?criFsBinder_GetFileSize@@SIW5CriError@@UCriFsBinderHn@@PEBUCriChar8@@PEAUCriUint64@@@Z"
+addr = 0x12f4f9c
+type = "CriError"
+
+[header.args]

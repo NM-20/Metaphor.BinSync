@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x13ad707
+size = 0x6
+name = "j_?getInstance@Foundation@shdfnd@physx@@SAAEAV123@XZ"
+type = "struct physx::shdfnd::Foundation *"
+
+[header]
+name = "j_?getInstance@Foundation@shdfnd@physx@@SAAEAV123@XZ"
+addr = 0x13ad707
+type = "struct physx::shdfnd::Foundation *"
+
+[header.args]

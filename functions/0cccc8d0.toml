@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xcccc8d0
+size = 0x26
+name = "??0PaintFocusMainPane@horizon@paint@common@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0PaintFocusMainPane@horizon@paint@common@layout@ui@app@@QAI@XZ"
+addr = 0xcccc8d0
+type = "void *"
+
+[header.args]

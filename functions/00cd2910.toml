@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xcd2910
+size = 0x3
+name = "?ShouldUpdate@SpriteStudioPaneAlwaysUpdate@ui@app@@QEAI_NXZ"
+type = "bool"
+
+[header]
+name = "?ShouldUpdate@SpriteStudioPaneAlwaysUpdate@ui@app@@QEAI_NXZ"
+addr = 0xcd2910
+type = "bool"
+
+[header.args]

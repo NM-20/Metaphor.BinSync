@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9d07e0
+size = 0x5
+name = "j_?PreprocessData@Manager@msg@app@@CIXQEAUu8@@Uu32@@AEAU?$StlVector@UStlString@TPL@@@TPL@@@Z"
+type = "void"
+
+[header]
+name = "j_?PreprocessData@Manager@msg@app@@CIXQEAUu8@@Uu32@@AEAU?$StlVector@UStlString@TPL@@@TPL@@@Z"
+addr = 0x9d07e0
+type = "void"
+
+[header.args]

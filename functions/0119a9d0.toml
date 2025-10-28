@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279645Z
+addr = 0x119a9d0
+size = 0x38
+name = "InitFn"
+type = "bool"
+
+[header]
+name = "InitFn"
+addr = 0x119a9d0
+type = "bool"
+
+[header.args]

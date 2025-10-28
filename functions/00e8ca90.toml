@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe8ca90
+size = 0x14
+name = "??0CursorItemInfo@CursorManagerBase@ope@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CursorItemInfo@CursorManagerBase@ope@ui@app@@QEAI@XZ"
+addr = 0xe8ca90
+type = "void *"
+
+[header.args]

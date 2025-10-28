@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a3667
+size = 0x6
+name = "j_?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z"
+type = "long long"
+
+[header]
+name = "j_?setw@std@@YA?AU?$_Smanip@_J@1@_J@Z"
+addr = 0x14a3667
+type = "long long"
+
+[header.args]

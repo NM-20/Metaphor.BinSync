@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.278645Z
+addr = 0xe59ff0
+size = 0x50
+name = "??0CookingComfirmChoice@ope@ui@app@@QEAI@PEAX@Z"
+type = "void *"
+
+[header]
+name = "??0CookingComfirmChoice@ope@ui@app@@QEAI@PEAX@Z"
+addr = 0xe59ff0
+type = "void *"
+
+[header.args]

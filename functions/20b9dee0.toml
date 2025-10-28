@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x20b9dee0
+size = 0x1de
+name = "??0SQVM@@QEAI@PEAUSQSharedState@@@Z"
+type = "SQVM *"
+
+[header]
+name = "??0SQVM@@QEAI@PEAUSQSharedState@@@Z"
+addr = 0x20b9dee0
+type = "SQVM *"
+
+[header.args]

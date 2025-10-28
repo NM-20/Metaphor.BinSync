@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9d5af0
+size = 0x5
+name = "j_??$_Try_emplace@Us32@@PEAVMesHandle@Manager@msg@app@@@?$StlUnorderedMap@Us32@@PEAVMesHandle@Manager@msg@app@@@TPL@@AEAIU?$pair@U_Nodeptr@?$StlUnorderedMap@Us32@@PEAVMesHandle@Manager@msg@app@@@1@_K@std@@$$QEBUs32@@$$QEAPEAVMesHandle@Manager@msg@app@@@Z"
+type = "std::pair<std::_List_node<std::pair<const int, app::msg::Manager::MesHandle *>, void *>, bool> *"
+
+[header]
+name = "j_??$_Try_emplace@Us32@@PEAVMesHandle@Manager@msg@app@@@?$StlUnorderedMap@Us32@@PEAVMesHandle@Manager@msg@app@@@TPL@@AEAIU?$pair@U_Nodeptr@?$StlUnorderedMap@Us32@@PEAVMesHandle@Manager@msg@app@@@1@_K@std@@$$QEBUs32@@$$QEAPEAVMesHandle@Manager@msg@app@@@Z"
+addr = 0x9d5af0
+type = "std::pair<std::_List_node<std::pair<const int, app::msg::Manager::MesHandle *>, void *>, bool> *"
+
+[header.args]

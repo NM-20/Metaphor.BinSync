@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xca51270
+size = 0x1c
+name = "?Unknown31@LayoutBase@ui@fw@@QEAIX_N@Z"
+type = "void"
+
+[header]
+name = "?Unknown31@LayoutBase@ui@fw@@QEAIX_N@Z"
+addr = 0xca51270
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xe9ea50
+size = 0x5
+name = "j_GetPathFromInfo"
+type = "void"
+
+[header]
+name = "j_GetPathFromInfo"
+addr = 0xe9ea50
+type = "void"
+
+[header.args]

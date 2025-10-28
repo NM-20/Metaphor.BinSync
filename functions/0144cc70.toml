@@ -1,0 +1,10 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x144cc70
+size = 0x5
+name = "j_?Init@SQVM@@QEAI_NPEAU1@USQInteger@@@Z"
+
+[header]
+name = "j_?Init@SQVM@@QEAI_NPEAU1@USQInteger@@@Z"
+addr = 0x144cc70
+
+[header.args]

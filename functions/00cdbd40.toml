@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277644Z
+addr = 0xcdbd40
+size = 0xc3
+name = "??0Focus@worldmap@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Focus@worldmap@layout@ui@app@@QEAI@XZ"
+addr = 0xcdbd40
+type = "void *"
+
+[header.args]

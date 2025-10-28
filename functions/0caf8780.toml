@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xcaf8780
+size = 0x1c
+name = "?Unknown32@LayoutBase@ui@fw@@QEAIX_N@Z"
+type = "void"
+
+[header]
+name = "?Unknown32@LayoutBase@ui@fw@@QEAIX_N@Z"
+addr = 0xcaf8780
+type = "void"
+
+[header.args]

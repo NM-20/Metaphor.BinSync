@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x72737b0
+size = 0x154
+name = "??0fldAccessSpotList@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldAccessSpotList@fld@app@@QEAI@XZ"
+addr = 0x72737b0
+type = "void *"
+
+[header.args]

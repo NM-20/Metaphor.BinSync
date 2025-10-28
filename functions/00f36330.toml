@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xf36330
+size = 0x5
+name = "j_??$_Try_emplace@Vtype_index@std@@@?$StlUnorderedMap@Vtype_index@std@@PEAVUUIC_Parts_Base@ui@app@@@TPL@@AEAIU?$pair@Vtype_index@std@@PEAVUUIC_Parts_Base@ui@app@@@std@@$$QEBVtype_index@3@$$QEAPEAVUUIC_Common_MessageLog@ui@app@@@Z"
+type = "std::pair<std::_List_node<std::pair<const std::type_index, app::ui::UUIC_Parts_Base *>, void *> *, bool> *"
+
+[header]
+name = "j_??$_Try_emplace@Vtype_index@std@@@?$StlUnorderedMap@Vtype_index@std@@PEAVUUIC_Parts_Base@ui@app@@@TPL@@AEAIU?$pair@Vtype_index@std@@PEAVUUIC_Parts_Base@ui@app@@@std@@$$QEBVtype_index@3@$$QEAPEAVUUIC_Common_MessageLog@ui@app@@@Z"
+addr = 0xf36330
+type = "std::pair<std::_List_node<std::pair<const std::type_index, app::ui::UUIC_Parts_Base *>, void *> *, bool> *"
+
+[header.args]

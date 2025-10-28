@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xfa79700
+size = 0x9
+name = "??0Report@msg@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Report@msg@app@@QEAI@XZ"
+addr = 0xfa79700
+type = "void *"
+
+[header.args]

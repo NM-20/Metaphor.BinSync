@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbcaea0
+size = 0x122
+name = "??0FreeCursorLayout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0FreeCursorLayout@ui@app@@QAI@XZ"
+addr = 0xbcaea0
+type = "void *"
+
+[header.args]

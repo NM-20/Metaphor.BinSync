@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.273140Z
+addr = 0x4ef720
+size = 0x32
+name = "??0DataPoint@worldmap@fcl@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0DataPoint@worldmap@fcl@app@@QEAI@XZ"
+addr = 0x4ef720
+type = "void *"
+
+[header.args]

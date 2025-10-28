@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xcb93f0
+size = 0x67
+name = "??0?$StaticAnimatorArray@VAnimator@ui@app@@$0DC@@ui@fw@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0?$StaticAnimatorArray@VAnimator@ui@app@@$0DC@@ui@fw@@QEAI@XZ"
+addr = 0xcb93f0
+type = "void *"
+
+[header.args]

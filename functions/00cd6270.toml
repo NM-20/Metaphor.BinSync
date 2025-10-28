@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.277144Z
+addr = 0xcd6270
+size = 0xc9
+name = "??0Floor@map@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Floor@map@layout@ui@app@@QEAI@XZ"
+addr = 0xcd6270
+type = "void *"
+
+[header.args]

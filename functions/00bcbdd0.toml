@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbcbdd0
+size = 0x156
+name = "??1MaterialLine@create_confirm@common@layout@ui@app@@QAI@XZ"
+type = "void"
+
+[header]
+name = "??1MaterialLine@create_confirm@common@layout@ui@app@@QAI@XZ"
+addr = 0xbcbdd0
+type = "void"
+
+[header.args]

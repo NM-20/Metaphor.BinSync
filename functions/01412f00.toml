@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x1412f00
+size = 0x16
+name = "?_Move@?$_Func_impl_no_alloc@V_lambda_ed310aa24fce369806d0936f14af0847_@@XPEBDAEBUSSAppRenderArg@ui@fw@@@std@@AEAIPEAV?$_Func_base@XPEBDAEBUSSAppRenderArg@ui@fw@@@2@PEAX@Z"
+type = "void *"
+
+[header]
+name = "?_Move@?$_Func_impl_no_alloc@V_lambda_ed310aa24fce369806d0936f14af0847_@@XPEBDAEBUSSAppRenderArg@ui@fw@@@std@@AEAIPEAV?$_Func_base@XPEBDAEBUSSAppRenderArg@ui@fw@@@2@PEAX@Z"
+addr = 0x1412f00
+type = "void *"
+
+[header.args]

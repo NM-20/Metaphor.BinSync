@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x450870
+size = 0x140
+name = "?MultiplyMatrix@ss@@YIXPEBM00@Z"
+type = "void"
+
+[header]
+name = "?MultiplyMatrix@ss@@YIXPEBM00@Z"
+addr = 0x450870
+type = "void"
+
+[header.args]

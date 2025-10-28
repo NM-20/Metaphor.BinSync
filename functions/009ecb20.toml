@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9ecb20
+size = 0x2f0
+name = "LoadReportForLevel"
+type = "void"
+
+[header]
+name = "LoadReportForLevel"
+addr = 0x9ecb20
+type = "void"
+
+[header.args]

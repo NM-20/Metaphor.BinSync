@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.272640Z
+addr = 0x3c6310
+size = 0xbb
+name = "??0string@std@@QEAI@QEBDUsize_t@@@Z"
+type = "std::string *"
+
+[header]
+name = "??0string@std@@QEAI@QEBDUsize_t@@@Z"
+addr = 0x3c6310
+type = "std::string *"
+
+[header.args]

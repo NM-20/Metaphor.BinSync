@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a390f
+size = 0x6
+name = "j_?_LogWorkItemStarted@_TaskEventLogger@details@Concurrency@@QEAAXXZ"
+type = "void"
+
+[header]
+name = "j_?_LogWorkItemStarted@_TaskEventLogger@details@Concurrency@@QEAAXXZ"
+addr = 0x14a390f
+type = "void"
+
+[header.args]

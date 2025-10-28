@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282148Z
+addr = 0x7bd16e0
+size = 0xdb
+name = "??0fldAIManager@fld@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0fldAIManager@fld@app@@QEAI@XZ"
+addr = 0x7bd16e0
+type = "void *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.282648Z
+addr = 0xeb78340
+size = 0xe
+name = "??0UniversalCommandDomain_Common@nAppScript@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0UniversalCommandDomain_Common@nAppScript@@QEAI@XZ"
+addr = 0xeb78340
+type = "void *"
+
+[header.args]

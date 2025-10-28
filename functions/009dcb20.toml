@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0x9dcb20
+size = 0x198
+name = "GetsSomeWeirdMessageValues"
+type = "app::msg::EntryInfo *"
+
+[header]
+name = "GetsSomeWeirdMessageValues"
+addr = 0x9dcb20
+type = "app::msg::EntryInfo *"
+
+[header.args]

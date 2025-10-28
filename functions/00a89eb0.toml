@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa89eb0
+size = 0x142
+name = "??0Line@slot_select@secret@academia@layout@ui@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0Line@slot_select@secret@academia@layout@ui@app@@QEAI@XZ"
+addr = 0xa89eb0
+type = "void *"
+
+[header.args]

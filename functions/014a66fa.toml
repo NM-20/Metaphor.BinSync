@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a66fa
+size = 0x6
+name = "?__std_type_info_compare@@YIHPEBU__std_type_info_data@@0@Z"
+type = "int"
+
+[header]
+name = "?__std_type_info_compare@@YIHPEBU__std_type_info_data@@0@Z"
+addr = 0x14a66fa
+type = "int"
+
+[header.args]

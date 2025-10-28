@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280146Z
+addr = 0x130a928
+size = 0x5
+name = "?criAtomic_TestAndSet@@SIUCriSint32@@PEAU1@U1@@Z"
+type = "CriSint32"
+
+[header]
+name = "?criAtomic_TestAndSet@@SIUCriSint32@@PEAU1@U1@@Z"
+addr = 0x130a928
+type = "CriSint32"
+
+[header.args]

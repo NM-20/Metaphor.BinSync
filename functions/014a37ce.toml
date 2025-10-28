@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a37ce
+size = 0x6
+name = "j_?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ"
+type = "struct std::locale::_Locimp *"
+
+[header]
+name = "j_?_Getgloballocale@locale@std@@CAPEAV_Locimp@12@XZ"
+addr = 0x14a37ce
+type = "struct std::locale::_Locimp *"
+
+[header.args]

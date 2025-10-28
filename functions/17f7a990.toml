@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.283649Z
+addr = 0x17f7a990
+size = 0xf5
+name = "??0SpriteStudioManager@ui@app@@QAI@XZ"
+type = "app::ui::SpriteStudioManager *"
+
+[header]
+name = "??0SpriteStudioManager@ui@app@@QAI@XZ"
+addr = 0x17f7a990
+type = "app::ui::SpriteStudioManager *"
+
+[header.args]

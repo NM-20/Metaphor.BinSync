@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a38cd
+size = 0x6
+name = "j_?GetCurrentThreadId@platform@details@Concurrency@@YAJXZ"
+type = "int"
+
+[header]
+name = "j_?GetCurrentThreadId@platform@details@Concurrency@@YAJXZ"
+addr = 0x14a38cd
+type = "int"
+
+[header.args]

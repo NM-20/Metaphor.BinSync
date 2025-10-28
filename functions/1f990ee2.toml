@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284149Z
+addr = 0x1f990ee2
+size = 0xee
+name = "?criFsLoader_GetRegisteredFileSize@@SIW5CriError@@UCriFsLoaderHn@@PEAUCriFsSint@@@Z"
+type = "CriError"
+
+[header]
+name = "?criFsLoader_GetRegisteredFileSize@@SIW5CriError@@UCriFsLoaderHn@@PEAUCriFsSint@@@Z"
+addr = 0x1f990ee2
+type = "CriError"
+
+[header.args]

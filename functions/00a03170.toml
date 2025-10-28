@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.275142Z
+addr = 0xa03170
+size = 0x13c
+name = "??0LayoutTool@app@@QEAI@XZ"
+type = "void *"
+
+[header]
+name = "??0LayoutTool@app@@QEAI@XZ"
+addr = 0xa03170
+type = "void *"
+
+[header.args]

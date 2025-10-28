@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.281147Z
+addr = 0x14a6ac6
+size = 0x6
+name = "j__initialize_narrow_environment"
+type = "int"
+
+[header]
+name = "j__initialize_narrow_environment"
+addr = 0x14a6ac6
+type = "int"
+
+[header.args]

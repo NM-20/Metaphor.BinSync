@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.279145Z
+addr = 0xeef6a0
+size = 0x171
+name = "GetBufferTextureIdk"
+type = "app::ui::TextureInfo *"
+
+[header]
+name = "GetBufferTextureIdk"
+addr = 0xeef6a0
+type = "app::ui::TextureInfo *"
+
+[header.args]

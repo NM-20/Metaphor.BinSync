@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.284649Z
+addr = 0x20079fc0
+size = 0xe6
+name = "?sq_setnativeclosurename@@YIUSQRESULT@@UHSQUIRRELVM@@USQInteger@@PEBUSQChar@@@Z"
+type = "SQRESULT"
+
+[header]
+name = "?sq_setnativeclosurename@@YIUSQRESULT@@UHSQUIRRELVM@@USQInteger@@PEBUSQChar@@@Z"
+addr = 0x20079fc0
+type = "SQRESULT"
+
+[header.args]

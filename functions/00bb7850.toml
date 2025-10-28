@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.276643Z
+addr = 0xbb7850
+size = 0x209
+name = "??0CostWithPress@common@layout@ui@app@@QAI@XZ"
+type = "void *"
+
+[header]
+name = "??0CostWithPress@common@layout@ui@app@@QAI@XZ"
+addr = 0xbb7850
+type = "void *"
+
+[header.args]

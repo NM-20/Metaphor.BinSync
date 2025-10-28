@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x147bf80
+size = 0x10a
+name = "?LoadResource@ResourceManager@TPL@@QAIUSharedResource@TPL@@UStlString@TPL@@Uu32@@Uu32@@@Z"
+type = "TPL::SharedResource *"
+
+[header]
+name = "?LoadResource@ResourceManager@TPL@@QAIUSharedResource@TPL@@UStlString@TPL@@Uu32@@Uu32@@@Z"
+addr = 0x147bf80
+type = "TPL::SharedResource *"
+
+[header.args]

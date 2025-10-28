@@ -1,0 +1,12 @@
+last_change = 2025-10-28T01:57:08.280647Z
+addr = 0x142c8a0
+size = 0x88
+name = "?Matrix4RotationX@ss@@YIXPEBMM@Z"
+type = "void"
+
+[header]
+name = "?Matrix4RotationX@ss@@YIXPEBMM@Z"
+addr = 0x142c8a0
+type = "void"
+
+[header.args]

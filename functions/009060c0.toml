@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9060c0
+size = 0xfa
+name = "?Savedata_SaveStart@@QEAIXXZ"
+
+[header]
+name = "?Savedata_SaveStart@@QEAIXXZ"
+addr = 0x9060c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d5d70
+size = 0x46
+name = "?FldGmcSetAtkDirForce@@QEAIXXZ"
+
+[header]
+name = "?FldGmcSetAtkDirForce@@QEAIXXZ"
+addr = 0x8d5d70
+
+[header.args]

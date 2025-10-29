@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d4be0
+size = 0x19
+name = "?FldFollowerIsLayoutForFollowerScenario@@QEAIXXZ"
+
+[header]
+name = "?FldFollowerIsLayoutForFollowerScenario@@QEAIXXZ"
+addr = 0x8d4be0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906890
+size = 0x1bd
+name = "?Savedata_SystemSaveExecute@@QEAIXXZ"
+
+[header]
+name = "?Savedata_SystemSaveExecute@@QEAIXXZ"
+addr = 0x906890
+
+[header.args]

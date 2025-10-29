@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x900f60
+size = 0x3f7
+name = "?GetPartyLearnedClassNum@@QEAIXXZ"
+
+[header]
+name = "?GetPartyLearnedClassNum@@QEAIXXZ"
+addr = 0x900f60
+
+[header.args]

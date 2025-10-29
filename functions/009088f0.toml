@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x9088f0
+size = 0x6f
+name = "?SortieMapUI_SetHapeningOccurred@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_SetHapeningOccurred@@QEAIXXZ"
+addr = 0x9088f0
+
+[header.args]

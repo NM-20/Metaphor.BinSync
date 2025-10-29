@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9043d0
+size = 0x5
+name = "?PostLoadSetVisibleByGidInObj@@QEAIXXZ"
+
+[header]
+name = "?PostLoadSetVisibleByGidInObj@@QEAIXXZ"
+addr = 0x9043d0
+
+[header.args]

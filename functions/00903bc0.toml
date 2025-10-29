@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x903bc0
+size = 0x5
+name = "?PadRumbleStop@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?PadRumbleStop@@QEAIXXZ"
+addr = 0x903bc0
+type = "void"
+
+[header.args]

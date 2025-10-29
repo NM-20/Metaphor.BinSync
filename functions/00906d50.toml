@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906d50
+size = 0x5
+name = "?SeqFieldIsCanUseCommand@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?SeqFieldIsCanUseCommand@@QEAIXXZ"
+addr = 0x906d50
+type = "bool"
+
+[header.args]

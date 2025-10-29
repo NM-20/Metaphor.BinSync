@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906680
+size = 0x5
+name = "?Savedata_ScriptLoadIsEnd@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?Savedata_ScriptLoadIsEnd@@QEAIXXZ"
+addr = 0x906680
+type = "bool"
+
+[header.args]

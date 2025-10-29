@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908830
+size = 0x6b
+name = "?SortieMapUI_Open_SelectDestinationPoint@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_Open_SelectDestinationPoint@@QEAIXXZ"
+addr = 0x908830
+
+[header.args]

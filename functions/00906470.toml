@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906470
+size = 0x1a7
+name = "?Savedata_SaveStart_NameID_Fade@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?Savedata_SaveStart_NameID_Fade@@QEAIXXZ"
+addr = 0x906470
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa390
+size = 0x2d
+name = "?BountyUI_Open_Accept@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?BountyUI_Open_Accept@@QEAIXXZ"
+addr = 0x8fa390
+type = "void"
+
+[header.args]

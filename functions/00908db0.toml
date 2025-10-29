@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908db0
+size = 0x2c
+name = "?SortieUI_Open@@QEAIXXZ"
+
+[header]
+name = "?SortieUI_Open@@QEAIXXZ"
+addr = 0x908db0
+
+[header.args]

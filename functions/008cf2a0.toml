@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8cf2a0
+size = 0x172
+name = "?FldCameraGetRelativeToPlayerDir_Yaw@@QEAIXXZ"
+
+[header]
+name = "?FldCameraGetRelativeToPlayerDir_Yaw@@QEAIXXZ"
+addr = 0x8cf2a0
+
+[header.args]

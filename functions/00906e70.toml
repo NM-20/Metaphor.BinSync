@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906e70
+size = 0xe
+name = "?SetCalendarWeather@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?SetCalendarWeather@@QEAIXXZ"
+addr = 0x906e70
+type = "void"
+
+[header.args]

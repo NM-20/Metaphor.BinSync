@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x905070
+size = 0x7c
+name = "?ResrcReadEventBaseAnimation@@QEAIXXZ"
+
+[header]
+name = "?ResrcReadEventBaseAnimation@@QEAIXXZ"
+addr = 0x905070
+
+[header.args]

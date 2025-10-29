@@ -1,11 +1,11 @@
-last_change = 2025-10-28T01:57:08.274642Z
+last_change = 2025-10-29T02:14:22.286899Z
 addr = 0x903bd0
 size = 0x5
-name = "j_CreatesMessageLogSaveData"
+name = "?PartyPreset@@QEAIXXZ"
 type = "void"
 
 [header]
-name = "j_CreatesMessageLogSaveData"
+name = "?PartyPreset@@QEAIXXZ"
 addr = 0x903bd0
 type = "void"
 

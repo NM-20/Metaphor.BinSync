@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.301410Z
+addr = 0x1433330
+size = 0x14c
+name = "?play@Player@ss@@QEAIXAEBUStlString@TPL@@HM@Z"
+type = "void"
+
+[header]
+name = "?play@Player@ss@@QEAIXAEBUStlString@TPL@@HM@Z"
+addr = 0x1433330
+type = "void"
+
+[header.args]

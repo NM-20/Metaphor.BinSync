@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x907450
+size = 0x42
+name = "?SortieMapUIEffect_OpenPlayerAnimeIntercity@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUIEffect_OpenPlayerAnimeIntercity@@QEAIXXZ"
+addr = 0x907450
+
+[header.args]

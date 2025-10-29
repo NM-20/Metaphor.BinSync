@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9070d0
+size = 0x5
+name = "?SndPlayBgm@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?SndPlayBgm@@QEAIXXZ"
+addr = 0x9070d0
+type = "void"
+
+[header.args]

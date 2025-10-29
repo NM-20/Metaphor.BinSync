@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906b40
+size = 0x5
+name = "?SeqCallField_BgID@@QEAIXXZ"
+
+[header]
+name = "?SeqCallField_BgID@@QEAIXXZ"
+addr = 0x906b40
+
+[header.args]

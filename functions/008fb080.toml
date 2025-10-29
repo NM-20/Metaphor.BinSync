@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fb080
+size = 0x58
+name = "?CloseMoneyUI@@QEAIXXZ"
+
+[header]
+name = "?CloseMoneyUI@@QEAIXXZ"
+addr = 0x8fb080
+
+[header.args]

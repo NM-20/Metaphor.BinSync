@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8ceb60
+size = 0x29
+name = "?FldBgSetVisible@@QEAIXXZ"
+
+[header]
+name = "?FldBgSetVisible@@QEAIXXZ"
+addr = 0x8ceb60
+
+[header.args]

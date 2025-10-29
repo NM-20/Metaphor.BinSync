@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dc560
+size = 0xa2
+name = "?FldPlayerRunToPosParam@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerRunToPosParam@@QEAIXXZ"
+addr = 0x8dc560
+
+[header.args]

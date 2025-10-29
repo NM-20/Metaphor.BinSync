@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fdca0
+size = 0x36
+name = "?FldTravelGetQuestID@@QEAIXXZ"
+type = "long long"
+
+[header]
+name = "?FldTravelGetQuestID@@QEAIXXZ"
+addr = 0x8fdca0
+type = "long long"
+
+[header.args]

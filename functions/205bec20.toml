@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.310417Z
+addr = 0x205bec20
+size = 0x20
+name = "?SetPlayEndCallback@SpriteStudioPane@app@@QEAIPEAV12@AEBV?$function@PEAVPlayer@ss@@@std@@@Z"
+type = "app::ui::SpriteStudioPane *"
+
+[header]
+name = "?SetPlayEndCallback@SpriteStudioPane@app@@QEAIPEAV12@AEBV?$function@PEAVPlayer@ss@@@std@@@Z"
+addr = 0x205bec20
+type = "app::ui::SpriteStudioPane *"
+
+[header.args]

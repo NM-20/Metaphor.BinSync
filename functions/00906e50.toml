@@ -1,11 +1,11 @@
-last_change = 2025-10-28T01:57:08.274642Z
+last_change = 2025-10-29T02:14:22.286899Z
 addr = 0x906e50
 size = 0x3
-name = "nullsub_105"
+name = "?SetCalendarRegion@@QEAIXXZ"
 type = "void"
 
 [header]
-name = "nullsub_105"
+name = "?SetCalendarRegion@@QEAIXXZ"
 addr = 0x906e50
 type = "void"
 

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x9021d0
+size = 0x5
+name = "?Lotto_CalcWinningAmount@@QEAIXXZ"
+
+[header]
+name = "?Lotto_CalcWinningAmount@@QEAIXXZ"
+addr = 0x9021d0
+
+[header.args]

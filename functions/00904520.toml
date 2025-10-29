@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904520
+size = 0x5
+name = "?Quest_Change_RewardMoney_Type@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?Quest_Change_RewardMoney_Type@@QEAIXXZ"
+addr = 0x904520
+type = "void"
+
+[header.args]

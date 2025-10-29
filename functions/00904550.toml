@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904550
+size = 0x1b
+name = "?Quest_GetNum_ReadyToDebrief@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?Quest_GetNum_ReadyToDebrief@@QEAIXXZ"
+addr = 0x904550
+type = "SQInteger"
+
+[header.args]

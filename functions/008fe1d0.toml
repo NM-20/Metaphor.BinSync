@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fe1d0
+size = 0xc
+name = "?Gameover_DestroyUI@@QEAIXXZ"
+
+[header]
+name = "?Gameover_DestroyUI@@QEAIXXZ"
+addr = 0x8fe1d0
+
+[header.args]

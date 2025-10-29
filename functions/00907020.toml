@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x907020
+size = 0x5
+name = "?SetPartyHeroOnly@@QEAIXXZ"
+
+[header]
+name = "?SetPartyHeroOnly@@QEAIXXZ"
+addr = 0x907020
+
+[header.args]

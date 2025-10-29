@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909790
+size = 0x15
+name = "?WipeIsEnd@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?WipeIsEnd@@QEAIXXZ"
+addr = 0x909790
+type = "bool"
+
+[header.args]

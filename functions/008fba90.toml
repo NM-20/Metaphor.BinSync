@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fba90
+size = 0x12
+name = "?Election_SetRank@@QEAIXXZ"
+
+[header]
+name = "?Election_SetRank@@QEAIXXZ"
+addr = 0x8fba90
+
+[header.args]

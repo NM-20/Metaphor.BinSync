@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d6680
+size = 0x5
+name = "?FldKeyFreeHintIsNeedQuestWarning@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?FldKeyFreeHintIsNeedQuestWarning@@QEAIXXZ"
+addr = 0x8d6680
+type = "bool"
+
+[header.args]

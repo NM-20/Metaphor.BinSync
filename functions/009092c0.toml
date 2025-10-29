@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x9092c0
+size = 0x2c
+name = "?TutorialWindowEnd@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?TutorialWindowEnd@@QEAIXXZ"
+addr = 0x9092c0
+type = "void"
+
+[header.args]

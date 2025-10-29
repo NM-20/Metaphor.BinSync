@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x907920
+size = 0x248
+name = "?SortieMapUI_GetLoadPrereadData@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_GetLoadPrereadData@@QEAIXXZ"
+addr = 0x907920
+
+[header.args]

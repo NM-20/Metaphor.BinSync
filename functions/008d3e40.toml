@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d3e40
+size = 0x4b
+name = "?FldEnemySetVisible@@QEAIXXZ"
+
+[header]
+name = "?FldEnemySetVisible@@QEAIXXZ"
+addr = 0x8d3e40
+
+[header.args]

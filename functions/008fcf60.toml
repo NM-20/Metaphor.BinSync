@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fcf60
+size = 0xc0
+name = "?FclRecruitmentStart@@QEAIXXZ"
+
+[header]
+name = "?FclRecruitmentStart@@QEAIXXZ"
+addr = 0x8fcf60
+
+[header.args]

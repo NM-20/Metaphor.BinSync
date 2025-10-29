@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa110
+size = 0x63
+name = "?AddNotCompanionCharaEquip@@QEAIXXZ"
+
+[header]
+name = "?AddNotCompanionCharaEquip@@QEAIXXZ"
+addr = 0x8fa110
+
+[header.args]

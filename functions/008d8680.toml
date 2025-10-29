@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d8680
+size = 0x3c
+name = "?FldMemberSetPos@@QEAIXXZ"
+
+[header]
+name = "?FldMemberSetPos@@QEAIXXZ"
+addr = 0x8d8680
+
+[header.args]

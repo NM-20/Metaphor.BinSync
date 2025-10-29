@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8ce1b0
+size = 0xa4
+name = "?FldActionHitGetUidByLayoutName@@QEAIXXZ"
+
+[header]
+name = "?FldActionHitGetUidByLayoutName@@QEAIXXZ"
+addr = 0x8ce1b0
+
+[header.args]

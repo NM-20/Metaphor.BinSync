@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8d13a0
+size = 0xe3
+name = "?FldDinnerSetObjTransformTmpByResrcUid@@QEAIXXZ"
+
+[header]
+name = "?FldDinnerSetObjTransformTmpByResrcUid@@QEAIXXZ"
+addr = 0x8d13a0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8cf060
+size = 0x239
+name = "?FldCameraGetRelativeToPlayerDir_Pitch@@QEAIXXZ"
+
+[header]
+name = "?FldCameraGetRelativeToPlayerDir_Pitch@@QEAIXXZ"
+addr = 0x8cf060
+
+[header.args]

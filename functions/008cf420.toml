@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8cf420
+size = 0x13
+name = "?FldCameraIsTypeFollow@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?FldCameraIsTypeFollow@@QEAIXXZ"
+addr = 0x8cf420
+type = "bool"
+
+[header.args]

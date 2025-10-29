@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa070
+size = 0x5
+name = "?AddContent_StartCheckEnabledContent@@QEAIXXZ"
+
+[header]
+name = "?AddContent_StartCheckEnabledContent@@QEAIXXZ"
+addr = 0x8fa070
+
+[header.args]

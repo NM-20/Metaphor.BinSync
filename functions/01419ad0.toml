@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.300910Z
+addr = 0x1419ad0
+size = 0x3
+name = "?CMD_GET_MAX@@QEAIXXZ"
+
+[header]
+name = "?CMD_GET_MAX@@QEAIXXZ"
+addr = 0x1419ad0
+
+[header.args]

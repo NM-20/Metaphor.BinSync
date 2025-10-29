@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908f90
+size = 0xc
+name = "?Staffroll_DestroyUI@@QEAIXXZ"
+
+[header]
+name = "?Staffroll_DestroyUI@@QEAIXXZ"
+addr = 0x908f90
+
+[header.args]

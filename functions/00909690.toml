@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909690
+size = 0xf4
+name = "?WipeAreaChangeStartBoat@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?WipeAreaChangeStartBoat@@QEAIXXZ"
+addr = 0x909690
+type = "void"
+
+[header.args]

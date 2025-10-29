@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x9092f0
+size = 0x17
+name = "?TutorialWindowIsEnd@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?TutorialWindowIsEnd@@QEAIXXZ"
+addr = 0x9092f0
+type = "bool"
+
+[header.args]

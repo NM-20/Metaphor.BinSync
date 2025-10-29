@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8da3f0
+size = 0x3d
+name = "?FldNpcLookAtSetSpeedType@@QEAIXXZ"
+
+[header]
+name = "?FldNpcLookAtSetSpeedType@@QEAIXXZ"
+addr = 0x8da3f0
+
+[header.args]

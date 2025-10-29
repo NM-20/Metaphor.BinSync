@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dba60
+size = 0x1a
+name = "?FldPlayerGetAttackID@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerGetAttackID@@QEAIXXZ"
+addr = 0x8dba60
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x905190
+size = 0x47
+name = "?ResrcRebuildColObject@@QEAIXXZ"
+
+[header]
+name = "?ResrcRebuildColObject@@QEAIXXZ"
+addr = 0x905190
+
+[header.args]

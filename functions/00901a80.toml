@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x901a80
+size = 0x18
+name = "?IsCalendarHoliday@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?IsCalendarHoliday@@QEAIXXZ"
+addr = 0x901a80
+type = "SQInteger"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904570
+size = 0x5
+name = "?Quest_GetProgression@@QEAIXXZ"
+
+[header]
+name = "?Quest_GetProgression@@QEAIXXZ"
+addr = 0x904570
+
+[header.args]

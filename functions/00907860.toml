@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x907860
+size = 0x5
+name = "?SortieMapUI_CheckInsertPointIntoRoute@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_CheckInsertPointIntoRoute@@QEAIXXZ"
+addr = 0x907860
+
+[header.args]

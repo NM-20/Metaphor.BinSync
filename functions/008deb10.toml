@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8deb10
+size = 0x55
+name = "?FldPlayerSetIsMoveFollowCamera@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetIsMoveFollowCamera@@QEAIXXZ"
+addr = 0x8deb10
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa000
+size = 0x5
+name = "?AddBagItem@@QEAIXXZ"
+
+[header]
+name = "?AddBagItem@@QEAIXXZ"
+addr = 0x8fa000
+
+[header.args]

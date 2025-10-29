@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fc760
+size = 0x23
+name = "?EventWipeIsInEnd@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?EventWipeIsInEnd@@QEAIXXZ"
+addr = 0x8fc760
+type = "bool"
+
+[header.args]

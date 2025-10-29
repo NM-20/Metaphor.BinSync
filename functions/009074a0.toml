@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9074a0
+size = 0x96
+name = "?SortieMapUIEffect_Start@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUIEffect_Start@@QEAIXXZ"
+addr = 0x9074a0
+
+[header.args]

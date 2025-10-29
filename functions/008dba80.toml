@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dba80
+size = 0x18
+name = "?FldPlayerGetBasePose@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?FldPlayerGetBasePose@@QEAIXXZ"
+addr = 0x8dba80
+type = "SQInteger"
+
+[header.args]

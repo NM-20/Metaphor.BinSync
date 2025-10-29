@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8da950
+size = 0x47
+name = "?FldNpcSetActionAsAutoCtrl@@QEAIXXZ"
+
+[header]
+name = "?FldNpcSetActionAsAutoCtrl@@QEAIXXZ"
+addr = 0x8da950
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x905800
+size = 0x29
+name = "?ResrcSyncAnim@@QEAIXXZ"
+
+[header]
+name = "?ResrcSyncAnim@@QEAIXXZ"
+addr = 0x905800
+
+[header.args]

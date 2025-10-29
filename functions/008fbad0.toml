@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fbad0
+size = 0x15
+name = "?Ending_BG_Close1st@@QEAIXXZ"
+
+[header]
+name = "?Ending_BG_Close1st@@QEAIXXZ"
+addr = 0x8fbad0
+
+[header.args]

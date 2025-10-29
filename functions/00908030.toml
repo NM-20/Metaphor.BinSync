@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x908030
+size = 0x11
+name = "?SortieMapUI_GetPointID@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?SortieMapUI_GetPointID@@QEAIXXZ"
+addr = 0x908030
+type = "SQInteger"
+
+[header.args]

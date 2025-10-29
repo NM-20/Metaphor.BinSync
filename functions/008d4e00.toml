@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d4e00
+size = 0x8c
+name = "?FldGatherGetUidByLayoutID@@QEAIXXZ"
+
+[header]
+name = "?FldGatherGetUidByLayoutID@@QEAIXXZ"
+addr = 0x8d4e00
+
+[header.args]

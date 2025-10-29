@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dbc50
+size = 0x45
+name = "?FldPlayerIsWaitAction@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?FldPlayerIsWaitAction@@QEAIXXZ"
+addr = 0x8dbc50
+type = "bool"
+
+[header.args]

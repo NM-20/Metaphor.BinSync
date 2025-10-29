@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8df3b0
+size = 0x29
+name = "?FldPlayerStartFade@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerStartFade@@QEAIXXZ"
+addr = 0x8df3b0
+
+[header.args]

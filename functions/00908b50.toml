@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908b50
+size = 0x6c
+name = "?SortieMapUI_UpdateSortieTownMap@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_UpdateSortieTownMap@@QEAIXXZ"
+addr = 0x908b50
+
+[header.args]

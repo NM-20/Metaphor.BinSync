@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dd330
+size = 0x297
+name = "?FldPlayerSetByEnemy@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetByEnemy@@QEAIXXZ"
+addr = 0x8dd330
+
+[header.args]

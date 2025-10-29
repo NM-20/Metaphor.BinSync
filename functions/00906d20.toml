@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906d20
+size = 0x28
+name = "?SeqFieldFadeInLockOff@@QEAIXXZ"
+
+[header]
+name = "?SeqFieldFadeInLockOff@@QEAIXXZ"
+addr = 0x906d20
+
+[header.args]

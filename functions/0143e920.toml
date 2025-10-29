@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.301410Z
+addr = 0x143e920
+size = 0x3
+name = "?CMD_MOVIE_SYNC@@QEAIXXZ"
+
+[header]
+name = "?CMD_MOVIE_SYNC@@QEAIXXZ"
+addr = 0x143e920
+
+[header.args]

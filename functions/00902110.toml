@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x902110
+size = 0x45
+name = "?JoinPartyAsGuest@@QEAIXXZ"
+
+[header]
+name = "?JoinPartyAsGuest@@QEAIXXZ"
+addr = 0x902110
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x907310
+size = 0x17
+name = "?SortieMapUIEffect_IsClosed@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?SortieMapUIEffect_IsClosed@@QEAIXXZ"
+addr = 0x907310
+type = "bool"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906aa0
+size = 0x5
+name = "?SeqCallBattle@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?SeqCallBattle@@QEAIXXZ"
+addr = 0x906aa0
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d7450
+size = 0x3c
+name = "?FldMemberIsInCamera@@QEAIXXZ"
+
+[header]
+name = "?FldMemberIsInCamera@@QEAIXXZ"
+addr = 0x8d7450
+
+[header.args]

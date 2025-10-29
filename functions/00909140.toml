@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909140
+size = 0x8a
+name = "?Timer_Pause@@QEAIXXZ"
+
+[header]
+name = "?Timer_Pause@@QEAIXXZ"
+addr = 0x909140
+
+[header.args]

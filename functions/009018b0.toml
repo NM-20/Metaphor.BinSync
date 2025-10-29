@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x9018b0
+size = 0x58
+name = "?IllustrationUI_Close@@QEAIXXZ"
+
+[header]
+name = "?IllustrationUI_Close@@QEAIXXZ"
+addr = 0x9018b0
+
+[header.args]

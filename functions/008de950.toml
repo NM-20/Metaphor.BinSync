@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8de950
+size = 0x1c
+name = "?FldPlayerSetInputLock@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetInputLock@@QEAIXXZ"
+addr = 0x8de950
+
+[header.args]

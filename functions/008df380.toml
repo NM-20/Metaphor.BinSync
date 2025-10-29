@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8df380
+size = 0x2a
+name = "?FldPlayerSetVisible@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetVisible@@QEAIXXZ"
+addr = 0x8df380
+
+[header.args]

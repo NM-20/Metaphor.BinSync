@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dc2d0
+size = 0xf0
+name = "?FldPlayerRunToBackByHitCollis@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerRunToBackByHitCollis@@QEAIXXZ"
+addr = 0x8dc2d0
+
+[header.args]

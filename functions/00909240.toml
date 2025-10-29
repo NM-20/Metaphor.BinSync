@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909240
+size = 0x5
+name = "?TravelersVoiceAddValue@@QEAIXXZ"
+
+[header]
+name = "?TravelersVoiceAddValue@@QEAIXXZ"
+addr = 0x909240
+
+[header.args]

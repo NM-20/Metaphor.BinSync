@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x9088b0
+size = 0x14
+name = "?SortieMapUI_RequestFollowerHelpMsg@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?SortieMapUI_RequestFollowerHelpMsg@@QEAIXXZ"
+addr = 0x9088b0
+type = "void"
+
+[header.args]

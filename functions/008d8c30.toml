@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d8c30
+size = 0x5
+name = "?FldMorningIsNeed@@QEAIXXZ"
+
+[header]
+name = "?FldMorningIsNeed@@QEAIXXZ"
+addr = 0x8d8c30
+
+[header.args]

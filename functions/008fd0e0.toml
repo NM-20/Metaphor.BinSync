@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fd0e0
+size = 0x6c
+name = "?FclShopExit@@QEAIXXZ"
+
+[header]
+name = "?FclShopExit@@QEAIXXZ"
+addr = 0x8fd0e0
+
+[header.args]

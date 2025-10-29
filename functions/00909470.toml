@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909470
+size = 0x5
+name = "?UnitGetMaxHP@@QEAIXXZ"
+
+[header]
+name = "?UnitGetMaxHP@@QEAIXXZ"
+addr = 0x909470
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fb3a0
+size = 0x15
+name = "?Cooking_IsGetSpecialRecipe@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?Cooking_IsGetSpecialRecipe@@QEAIXXZ"
+addr = 0x8fb3a0
+type = "bool"
+
+[header.args]

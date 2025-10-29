@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x900f50
+size = 0xc
+name = "?GetMonth@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?GetMonth@@QEAIXXZ"
+addr = 0x900f50
+type = "SQInteger"
+
+[header.args]

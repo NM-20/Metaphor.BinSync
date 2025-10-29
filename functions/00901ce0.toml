@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x901ce0
+size = 0x13
+name = "?IsTimeProgressUI@@QEAIXXZ"
+
+[header]
+name = "?IsTimeProgressUI@@QEAIXXZ"
+addr = 0x901ce0
+
+[header.args]

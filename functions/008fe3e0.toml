@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fe3e0
+size = 0x21
+name = "?GetFollowerRank_OnRankUpScript@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?GetFollowerRank_OnRankUpScript@@QEAIXXZ"
+addr = 0x8fe3e0
+type = "SQInteger"
+
+[header.args]

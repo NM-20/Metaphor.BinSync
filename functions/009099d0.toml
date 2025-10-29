@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x9099d0
+size = 0x11
+name = "?WorldMapGetSelected@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?WorldMapGetSelected@@QEAIXXZ"
+addr = 0x9099d0
+type = "SQInteger"
+
+[header.args]

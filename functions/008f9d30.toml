@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8f9d30
+size = 0x2c
+name = "?AcademiaLearnTalk_SetVariableBufferClass@@QEAIXXZ"
+
+[header]
+name = "?AcademiaLearnTalk_SetVariableBufferClass@@QEAIXXZ"
+addr = 0x8f9d30
+
+[header.args]

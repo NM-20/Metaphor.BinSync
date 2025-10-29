@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x902800
+size = 0x5
+name = "?MsgBustupSetOFF@@QEAIXXZ"
+
+[header]
+name = "?MsgBustupSetOFF@@QEAIXXZ"
+addr = 0x902800
+
+[header.args]

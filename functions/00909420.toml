@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909420
+size = 0x5
+name = "?UnitGetEquipArmorParam@@QEAIXXZ"
+
+[header]
+name = "?UnitGetEquipArmorParam@@QEAIXXZ"
+addr = 0x909420
+
+[header.args]

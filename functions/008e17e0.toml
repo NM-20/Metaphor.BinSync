@@ -1,10 +1,10 @@
-last_change = 2025-10-28T01:57:08.274642Z
+last_change = 2025-10-29T02:14:22.285898Z
 addr = 0x8e17e0
 size = 0x3
-name = "nullsub_85"
+name = "?fldChallengeUIStart@@QEAIXXZ"
 
 [header]
-name = "nullsub_85"
+name = "?fldChallengeUIStart@@QEAIXXZ"
 addr = 0x8e17e0
 
 [header.args]

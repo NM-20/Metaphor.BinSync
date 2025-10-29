@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d8f00
+size = 0x33
+name = "?FldMsgReportCarWeather@@QEAIXXZ"
+
+[header]
+name = "?FldMsgReportCarWeather@@QEAIXXZ"
+addr = 0x8d8f00
+
+[header.args]

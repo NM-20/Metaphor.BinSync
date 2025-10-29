@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fbe30
+size = 0x17
+name = "?Ending_Message_IsReadyUI@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?Ending_Message_IsReadyUI@@QEAIXXZ"
+addr = 0x8fbe30
+type = "bool"
+
+[header.args]

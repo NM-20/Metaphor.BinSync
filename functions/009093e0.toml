@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x9093e0
+size = 0x14
+name = "?UnitGetAffinity@@QEAIXXZ"
+
+[header]
+name = "?UnitGetAffinity@@QEAIXXZ"
+addr = 0x9093e0
+
+[header.args]

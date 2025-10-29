@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906d80
+size = 0x15
+name = "?SeqReadyField@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?SeqReadyField@@QEAIXXZ"
+addr = 0x906d80
+type = "bool"
+
+[header.args]

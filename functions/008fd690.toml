@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fd690
+size = 0x14
+name = "?FldEventRewardGet_QuestID@@QEAIXXZ"
+
+[header]
+name = "?FldEventRewardGet_QuestID@@QEAIXXZ"
+addr = 0x8fd690
+
+[header.args]

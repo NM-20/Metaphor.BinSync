@@ -1,12 +1,10 @@
-last_change = 2025-10-28T01:57:08.280647Z
+last_change = 2025-10-29T02:14:22.301410Z
 addr = 0x142b530
 size = 0x5
-name = "j_FunctionAssignmentMaybe"
-type = "ss::Player::PlayEndCallback *"
+name = "j_??4?$function@P6IXPEAVPlayer@ss@@@Z@std@@QEAIAEAV01@AEBV01@@Z"
 
 [header]
-name = "j_FunctionAssignmentMaybe"
+name = "j_??4?$function@P6IXPEAVPlayer@ss@@@Z@std@@QEAIAEAV01@AEBV01@@Z"
 addr = 0x142b530
-type = "ss::Player::PlayEndCallback *"
 
 [header.args]

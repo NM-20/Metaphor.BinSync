@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d5150
+size = 0x56
+name = "?FldGetEnableBgDataName@@QEAIXXZ"
+
+[header]
+name = "?FldGetEnableBgDataName@@QEAIXXZ"
+addr = 0x8d5150
+
+[header.args]

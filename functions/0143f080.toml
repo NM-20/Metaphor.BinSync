@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.301410Z
+addr = 0x143f080
+size = 0x3
+name = "?CMD_FADEEND_CHECK@@QEAIXXZ"
+
+[header]
+name = "?CMD_FADEEND_CHECK@@QEAIXXZ"
+addr = 0x143f080
+
+[header.args]

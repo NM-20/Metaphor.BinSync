@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908bc0
+size = 0xc
+name = "?SortieMeeting_End@@QEAIXXZ"
+
+[header]
+name = "?SortieMeeting_End@@QEAIXXZ"
+addr = 0x908bc0
+
+[header.args]

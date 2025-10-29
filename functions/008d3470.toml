@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d3470
+size = 0x41
+name = "?FldEnemySetAIActive@@QEAIXXZ"
+
+[header]
+name = "?FldEnemySetAIActive@@QEAIXXZ"
+addr = 0x8d3470
+
+[header.args]

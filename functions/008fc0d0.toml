@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fc0d0
+size = 0xee
+name = "?EventFadeOut_Plain@@QEAIXXZ"
+
+[header]
+name = "?EventFadeOut_Plain@@QEAIXXZ"
+addr = 0x8fc0d0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904240
+size = 0x5
+name = "?PostLoadSearchByUidInDoor@@QEAIXXZ"
+
+[header]
+name = "?PostLoadSearchByUidInDoor@@QEAIXXZ"
+addr = 0x904240
+
+[header.args]

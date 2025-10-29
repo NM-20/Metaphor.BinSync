@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fb250
+size = 0x1c
+name = "?Cooking_GetItem@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?Cooking_GetItem@@QEAIXXZ"
+addr = 0x8fb250
+type = "SQInteger"
+
+[header.args]

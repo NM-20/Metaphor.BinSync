@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dea30
+size = 0x57
+name = "?FldPlayerSetIsForceMove@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetIsForceMove@@QEAIXXZ"
+addr = 0x8dea30
+
+[header.args]

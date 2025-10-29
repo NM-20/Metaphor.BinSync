@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904c70
+size = 0x49
+name = "?ResrcGetFaceObjectNum@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?ResrcGetFaceObjectNum@@QEAIXXZ"
+addr = 0x904c70
+type = "SQInteger"
+
+[header.args]

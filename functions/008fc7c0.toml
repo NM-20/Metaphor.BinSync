@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fc7c0
+size = 0x23
+name = "?EventWipeIsOutPlayEnd@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?EventWipeIsOutPlayEnd@@QEAIXXZ"
+addr = 0x8fc7c0
+type = "bool"
+
+[header.args]

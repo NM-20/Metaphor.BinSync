@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8ce770
+size = 0x20
+name = "?FldBgEffectGetNum@@QEAIXXZ"
+
+[header]
+name = "?FldBgEffectGetNum@@QEAIXXZ"
+addr = 0x8ce770
+
+[header.args]

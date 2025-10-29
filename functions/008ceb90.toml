@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8ceb90
+size = 0x35
+name = "?FldBgmResetOverride@@QEAIXXZ"
+
+[header]
+name = "?FldBgmResetOverride@@QEAIXXZ"
+addr = 0x8ceb90
+
+[header.args]

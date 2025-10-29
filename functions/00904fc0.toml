@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904fc0
+size = 0xa9
+name = "?ResrcReadBaseAnimation@@QEAIXXZ"
+
+[header]
+name = "?ResrcReadBaseAnimation@@QEAIXXZ"
+addr = 0x904fc0
+
+[header.args]

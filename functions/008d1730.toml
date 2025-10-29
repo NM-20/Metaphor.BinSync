@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8d1730
+size = 0x3d
+name = "?FldDoorGetType@@QEAIXXZ"
+
+[header]
+name = "?FldDoorGetType@@QEAIXXZ"
+addr = 0x8d1730
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x901aa0
+size = 0x11
+name = "?IsCalendarOverwriteWeatherEnable@@QEAIXXZ"
+
+[header]
+name = "?IsCalendarOverwriteWeatherEnable@@QEAIXXZ"
+addr = 0x901aa0
+
+[header.args]

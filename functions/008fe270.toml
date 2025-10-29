@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fe270
+size = 0xc
+name = "?GetCalendarDay@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?GetCalendarDay@@QEAIXXZ"
+addr = 0x8fe270
+type = "SQInteger"
+
+[header.args]

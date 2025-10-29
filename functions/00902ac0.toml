@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x902ac0
+size = 0x41
+name = "?MsgGreetingRequestID@@QEAIXXZ"
+
+[header]
+name = "?MsgGreetingRequestID@@QEAIXXZ"
+addr = 0x902ac0
+
+[header.args]

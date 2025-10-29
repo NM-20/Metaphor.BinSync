@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8df400
+size = 0x1f
+name = "?FldPlayerStopIcon@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerStopIcon@@QEAIXXZ"
+addr = 0x8df400
+
+[header.args]

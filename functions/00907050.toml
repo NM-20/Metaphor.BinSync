@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x907050
+size = 0xa
+name = "?SetSchedulerAutoProceedTime@@QEAIXXZ"
+
+[header]
+name = "?SetSchedulerAutoProceedTime@@QEAIXXZ"
+addr = 0x907050
+
+[header.args]

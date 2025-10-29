@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9045a0
+size = 0x5
+name = "?Quest_GetStatus@@QEAIXXZ"
+
+[header]
+name = "?Quest_GetStatus@@QEAIXXZ"
+addr = 0x9045a0
+
+[header.args]

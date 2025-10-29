@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa500
+size = 0xb5
+name = "?CampStatus_Open@@QEAIXXZ"
+
+[header]
+name = "?CampStatus_Open@@QEAIXXZ"
+addr = 0x8fa500
+
+[header.args]

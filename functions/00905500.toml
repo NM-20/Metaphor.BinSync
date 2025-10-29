@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x905500
+size = 0xa5
+name = "?ResrcSetRotate@@QEAIXXZ"
+
+[header]
+name = "?ResrcSetRotate@@QEAIXXZ"
+addr = 0x905500
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x907200
+size = 0x5
+name = "?SndStopBgm@@QEAIXXZ"
+
+[header]
+name = "?SndStopBgm@@QEAIXXZ"
+addr = 0x907200
+
+[header.args]

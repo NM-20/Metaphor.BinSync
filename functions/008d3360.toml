@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d3360
+size = 0x3c
+name = "?FldEnemyRunToPos@@QEAIXXZ"
+
+[header]
+name = "?FldEnemyRunToPos@@QEAIXXZ"
+addr = 0x8d3360
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8ddd40
+size = 0x3aa
+name = "?FldPlayerSetByLadder@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetByLadder@@QEAIXXZ"
+addr = 0x8ddd40
+
+[header.args]

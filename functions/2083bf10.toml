@@ -1,12 +1,12 @@
-last_change = 2025-10-28T01:57:08.284649Z
+last_change = 2025-10-29T02:14:22.310918Z
 addr = 0x2083bf10
 size = 0x190
-name = "FunctionAssignmentMaybe"
-type = "ss::Player::PlayEndCallback *"
+name = "??4?$function@P6IXPEAVPlayer@ss@@@Z@std@@QEAIAEAV01@AEBV01@@Z"
+type = "std::function<void (ss::Player *)> *"
 
 [header]
-name = "FunctionAssignmentMaybe"
+name = "??4?$function@P6IXPEAVPlayer@ss@@@Z@std@@QEAIAEAV01@AEBV01@@Z"
 addr = 0x2083bf10
-type = "ss::Player::PlayEndCallback *"
+type = "std::function<void (ss::Player *)> *"
 
 [header.args]

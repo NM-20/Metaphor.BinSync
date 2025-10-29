@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8cfca0
+size = 0x51
+name = "?FldCameraSetToParam_NearClip@@QEAIXXZ"
+
+[header]
+name = "?FldCameraSetToParam_NearClip@@QEAIXXZ"
+addr = 0x8cfca0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8dfdb0
+size = 0x93
+name = "?FldScriptEventAssistSetCameraParam_Rotate@@QEAIXXZ"
+
+[header]
+name = "?FldScriptEventAssistSetCameraParam_Rotate@@QEAIXXZ"
+addr = 0x8dfdb0
+
+[header.args]

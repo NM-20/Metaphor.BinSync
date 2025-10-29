@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d4fe0
+size = 0xa4
+name = "?FldGayaHitGetUidByLayoutName@@QEAIXXZ"
+
+[header]
+name = "?FldGayaHitGetUidByLayoutName@@QEAIXXZ"
+addr = 0x8d4fe0
+
+[header.args]

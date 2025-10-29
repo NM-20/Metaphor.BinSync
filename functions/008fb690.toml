@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fb690
+size = 0x17
+name = "?DifficultySelectIsReady@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?DifficultySelectIsReady@@QEAIXXZ"
+addr = 0x8fb690
+type = "bool"
+
+[header.args]

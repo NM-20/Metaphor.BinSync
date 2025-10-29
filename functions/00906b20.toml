@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906b20
+size = 0x10
+name = "?SeqCallCamp@@QEAIXXZ"
+
+[header]
+name = "?SeqCallCamp@@QEAIXXZ"
+addr = 0x906b20
+
+[header.args]

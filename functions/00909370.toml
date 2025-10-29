@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909370
+size = 0x31
+name = "?UnitBadStatusRecoveryAll@@QEAIXXZ"
+
+[header]
+name = "?UnitBadStatusRecoveryAll@@QEAIXXZ"
+addr = 0x909370
+
+[header.args]

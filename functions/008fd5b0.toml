@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fd5b0
+size = 0x14
+name = "?FldEventRewardGet_MaxHP@@QEAIXXZ"
+
+[header]
+name = "?FldEventRewardGet_MaxHP@@QEAIXXZ"
+addr = 0x8fd5b0
+
+[header.args]

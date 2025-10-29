@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dfc70
+size = 0x5
+name = "?FldQuestIsExistCanDebrief@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?FldQuestIsExistCanDebrief@@QEAIXXZ"
+addr = 0x8dfc70
+type = "bool"
+
+[header.args]

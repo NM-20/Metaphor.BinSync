@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8f9ff0
+size = 0x5
+name = "?ActivityStart@@QEAIXXZ"
+
+[header]
+name = "?ActivityStart@@QEAIXXZ"
+addr = 0x8f9ff0
+
+[header.args]

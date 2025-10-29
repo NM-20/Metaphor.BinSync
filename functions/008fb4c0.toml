@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fb4c0
+size = 0x5
+name = "?DateProgressUI_Start@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?DateProgressUI_Start@@QEAIXXZ"
+addr = 0x8fb4c0
+type = "void"
+
+[header.args]

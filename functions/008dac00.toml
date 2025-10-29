@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dac00
+size = 0x69
+name = "?FldNpcSetAnimParamImmidiately@@QEAIXXZ"
+
+[header]
+name = "?FldNpcSetAnimParamImmidiately@@QEAIXXZ"
+addr = 0x8dac00
+
+[header.args]

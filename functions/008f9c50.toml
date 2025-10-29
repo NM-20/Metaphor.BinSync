@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8f9c50
+size = 0x69
+name = "?AcademiaLearnTalk_GetNeedMag@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?AcademiaLearnTalk_GetNeedMag@@QEAIXXZ"
+addr = 0x8f9c50
+type = "SQInteger"
+
+[header.args]

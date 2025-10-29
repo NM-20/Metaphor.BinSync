@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fd5f0
+size = 0x11
+name = "?FldEventRewardGet_Money@@QEAIXXZ"
+type = "long long"
+
+[header]
+name = "?FldEventRewardGet_Money@@QEAIXXZ"
+addr = 0x8fd5f0
+type = "long long"
+
+[header.args]

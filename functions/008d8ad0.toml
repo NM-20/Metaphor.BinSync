@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d8ad0
+size = 0x3c
+name = "?FldMemberWalkToPos@@QEAIXXZ"
+
+[header]
+name = "?FldMemberWalkToPos@@QEAIXXZ"
+addr = 0x8d8ad0
+
+[header.args]

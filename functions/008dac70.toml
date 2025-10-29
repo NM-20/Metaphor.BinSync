@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dac70
+size = 0x41
+name = "?FldNpcSetAnimSoundActive@@QEAIXXZ"
+
+[header]
+name = "?FldNpcSetAnimSoundActive@@QEAIXXZ"
+addr = 0x8dac70
+
+[header.args]

@@ -1,11 +1,11 @@
-last_change = 2025-10-28T01:57:08.284649Z
+last_change = 2025-10-29T02:14:22.310417Z
 addr = 0x20595320
 size = 0x10b
-name = "PlaySpriteSeq"
+name = "?PlayAnime@SpriteStudioPane@ui@app@@QEAIAEAV123@PEBD0_N_N_N_N@Z"
 type = "app::ui::SpriteStudioPane *"
 
 [header]
-name = "PlaySpriteSeq"
+name = "?PlayAnime@SpriteStudioPane@ui@app@@QEAIAEAV123@PEBD0_N_N_N_N@Z"
 addr = 0x20595320
 type = "app::ui::SpriteStudioPane *"
 

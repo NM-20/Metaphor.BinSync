@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fba80
+size = 0x5
+name = "?Election_IsHighestRank@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?Election_IsHighestRank@@QEAIXXZ"
+addr = 0x8fba80
+type = "bool"
+
+[header.args]

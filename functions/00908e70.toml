@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908e70
+size = 0x5
+name = "?Sqrt@@QEAIXXZ"
+
+[header]
+name = "?Sqrt@@QEAIXXZ"
+addr = 0x908e70
+
+[header.args]

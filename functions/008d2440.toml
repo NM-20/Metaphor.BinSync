@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8d2440
+size = 0x59
+name = "?FldEnemyAllSetAnimPause@@QEAIXXZ"
+
+[header]
+name = "?FldEnemyAllSetAnimPause@@QEAIXXZ"
+addr = 0x8d2440
+
+[header.args]

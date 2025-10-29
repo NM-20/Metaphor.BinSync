@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d96a0
+size = 0x42
+name = "?FldNpcGetBasePose@@QEAIXXZ"
+
+[header]
+name = "?FldNpcGetBasePose@@QEAIXXZ"
+addr = 0x8d96a0
+
+[header.args]

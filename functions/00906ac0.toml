@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906ac0
+size = 0x5
+name = "?SeqCallCalendar@@QEAIXXZ"
+
+[header]
+name = "?SeqCallCalendar@@QEAIXXZ"
+addr = 0x906ac0
+
+[header.args]

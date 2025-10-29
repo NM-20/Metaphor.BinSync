@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9080b0
+size = 0x55
+name = "?SortieMapUI_GetPointType@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_GetPointType@@QEAIXXZ"
+addr = 0x9080b0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x903b20
+size = 0x9a
+name = "?PadRumbleStart@@QEAIXXZ"
+
+[header]
+name = "?PadRumbleStart@@QEAIXXZ"
+addr = 0x903b20
+
+[header.args]

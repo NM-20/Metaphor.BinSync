@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909ad0
+size = 0x82
+name = "?WorldMapStart@@QEAIXXZ"
+
+[header]
+name = "?WorldMapStart@@QEAIXXZ"
+addr = 0x909ad0
+
+[header.args]

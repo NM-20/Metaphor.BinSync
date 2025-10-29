@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8d25c0
+size = 0xaa
+name = "?FldEnemyCreateBySetDeg@@QEAIXXZ"
+
+[header]
+name = "?FldEnemyCreateBySetDeg@@QEAIXXZ"
+addr = 0x8d25c0
+
+[header.args]

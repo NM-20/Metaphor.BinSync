@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x903d00
+size = 0x204
+name = "?PostLoadAdjustGpPos@@QEAIXXZ"
+
+[header]
+name = "?PostLoadAdjustGpPos@@QEAIXXZ"
+addr = 0x903d00
+
+[header.args]

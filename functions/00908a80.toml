@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908a80
+size = 0x8b
+name = "?SortieMapUI_StartRouteSelect@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_StartRouteSelect@@QEAIXXZ"
+addr = 0x908a80
+
+[header.args]

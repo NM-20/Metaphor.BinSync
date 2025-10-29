@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8d12f0
+size = 0x19
+name = "?FldDinnerIsOccurredYestoday@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?FldDinnerIsOccurredYestoday@@QEAIXXZ"
+addr = 0x8d12f0
+type = "bool"
+
+[header.args]

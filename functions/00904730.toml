@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904730
+size = 0x66
+name = "?ResrcAddColObject@@QEAIXXZ"
+
+[header]
+name = "?ResrcAddColObject@@QEAIXXZ"
+addr = 0x904730
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8da370
+size = 0x72
+name = "?FldNpcLookAtSetPos@@QEAIXXZ"
+
+[header]
+name = "?FldNpcLookAtSetPos@@QEAIXXZ"
+addr = 0x8da370
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.310918Z
+addr = 0x20a2dbf0
+size = 0x6d
+name = "?setPlayEndCallback@Player@ss@@QEAIXAEBV?$function@PEAVPlayer@ss@@@std@@@Z"
+type = "void"
+
+[header]
+name = "?setPlayEndCallback@Player@ss@@QEAIXAEBV?$function@PEAVPlayer@ss@@@std@@@Z"
+addr = 0x20a2dbf0
+type = "void"
+
+[header.args]

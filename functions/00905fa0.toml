@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x905fa0
+size = 0x5
+name = "?SavedataForExpired_SaveStart@@QEAIXXZ"
+
+[header]
+name = "?SavedataForExpired_SaveStart@@QEAIXXZ"
+addr = 0x905fa0
+
+[header.args]

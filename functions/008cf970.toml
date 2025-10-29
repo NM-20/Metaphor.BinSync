@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8cf970
+size = 0x19
+name = "?FldCameraSetToExcel@@QEAIXXZ"
+
+[header]
+name = "?FldCameraSetToExcel@@QEAIXXZ"
+addr = 0x8cf970
+
+[header.args]

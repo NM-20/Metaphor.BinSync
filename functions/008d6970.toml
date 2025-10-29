@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d6970
+size = 0x11
+name = "?FldLargeMapOpen@@QEAIXXZ"
+
+[header]
+name = "?FldLargeMapOpen@@QEAIXXZ"
+addr = 0x8d6970
+
+[header.args]

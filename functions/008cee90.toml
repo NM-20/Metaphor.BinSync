@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8cee90
+size = 0x55
+name = "?FldCameraFollow_SetYaw@@QEAIXXZ"
+
+[header]
+name = "?FldCameraFollow_SetYaw@@QEAIXXZ"
+addr = 0x8cee90
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x9091d0
+size = 0x29
+name = "?Timer_SetPinchTime@@QEAIXXZ"
+
+[header]
+name = "?Timer_SetPinchTime@@QEAIXXZ"
+addr = 0x9091d0
+
+[header.args]

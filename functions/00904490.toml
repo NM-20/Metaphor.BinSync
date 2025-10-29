@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904490
+size = 0xc
+name = "?QuestUI_IsReady@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?QuestUI_IsReady@@QEAIXXZ"
+addr = 0x904490
+type = "bool"
+
+[header.args]

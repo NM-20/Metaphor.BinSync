@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fd830
+size = 0x5
+name = "?FldPreKeyFreeUIOpen@@QEAIXXZ"
+
+[header]
+name = "?FldPreKeyFreeUIOpen@@QEAIXXZ"
+addr = 0x8fd830
+
+[header.args]

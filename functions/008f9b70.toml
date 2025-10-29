@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8f9b70
+size = 0x6f
+name = "?AcademiaLearnTalk_GetCharaID@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?AcademiaLearnTalk_GetCharaID@@QEAIXXZ"
+addr = 0x8f9b70
+type = "SQInteger"
+
+[header.args]

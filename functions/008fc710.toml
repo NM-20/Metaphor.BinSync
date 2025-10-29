@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fc710
+size = 0x19
+name = "?EventUIBegin@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?EventUIBegin@@QEAIXXZ"
+addr = 0x8fc710
+type = "void"
+
+[header.args]

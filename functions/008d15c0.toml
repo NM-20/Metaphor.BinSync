@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8d15c0
+size = 0x5
+name = "?FldDinnerUpdateQuestStatus@@QEAIXXZ"
+
+[header]
+name = "?FldDinnerUpdateQuestStatus@@QEAIXXZ"
+addr = 0x8d15c0
+
+[header.args]

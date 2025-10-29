@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906c90
+size = 0x14
+name = "?SeqEndWait@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?SeqEndWait@@QEAIXXZ"
+addr = 0x906c90
+type = "bool"
+
+[header.args]

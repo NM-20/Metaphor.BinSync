@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d4c60
+size = 0x13
+name = "?FldFollowerSetVoiceResult@@QEAIXXZ"
+
+[header]
+name = "?FldFollowerSetVoiceResult@@QEAIXXZ"
+addr = 0x8d4c60
+
+[header.args]

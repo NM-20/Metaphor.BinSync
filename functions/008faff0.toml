@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8faff0
+size = 0xc
+name = "?ClearCalendarGFakeWeather@@QEAIXXZ"
+
+[header]
+name = "?ClearCalendarGFakeWeather@@QEAIXXZ"
+addr = 0x8faff0
+
+[header.args]

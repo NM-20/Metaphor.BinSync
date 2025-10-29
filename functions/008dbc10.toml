@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dbc10
+size = 0x19
+name = "?FldPlayerIsInputLock@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?FldPlayerIsInputLock@@QEAIXXZ"
+addr = 0x8dbc10
+type = "bool"
+
+[header.args]

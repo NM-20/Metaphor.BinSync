@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fd240
+size = 0xa
+name = "?FclShopGetSelectedMenu@@QEAIXXZ"
+
+[header]
+name = "?FclShopGetSelectedMenu@@QEAIXXZ"
+addr = 0x8fd240
+
+[header.args]

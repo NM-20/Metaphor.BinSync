@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d4af0
+size = 0x24
+name = "?FldFastBtlGetAttackRefParameterID@@QEAIXXZ"
+
+[header]
+name = "?FldFastBtlGetAttackRefParameterID@@QEAIXXZ"
+addr = 0x8d4af0
+
+[header.args]

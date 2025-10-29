@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906650
+size = 0x29
+name = "?Savedata_ScriptLoadExecuteSlot@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?Savedata_ScriptLoadExecuteSlot@@QEAIXXZ"
+addr = 0x906650
+type = "void"
+
+[header.args]

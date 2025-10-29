@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fe220
+size = 0x1d
+name = "?Gameover_Open@@QEAIXXZ"
+
+[header]
+name = "?Gameover_Open@@QEAIXXZ"
+addr = 0x8fe220
+
+[header.args]

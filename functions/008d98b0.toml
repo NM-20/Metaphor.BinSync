@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d98b0
+size = 0x4d
+name = "?FldNpcGetUid@@QEAIXXZ"
+
+[header]
+name = "?FldNpcGetUid@@QEAIXXZ"
+addr = 0x8d98b0
+
+[header.args]

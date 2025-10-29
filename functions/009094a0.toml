@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x9094a0
+size = 0x3e
+name = "?UnitHPRecoveryAll@@QEAIXXZ"
+
+[header]
+name = "?UnitHPRecoveryAll@@QEAIXXZ"
+addr = 0x9094a0
+
+[header.args]

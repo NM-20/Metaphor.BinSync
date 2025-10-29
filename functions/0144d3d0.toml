@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.301410Z
+addr = 0x144d3d0
+size = 0x3bf
+name = "?NewSlot@SQVM@@QEAI_NAEBUSQObjectPtr@@00_N@Z"
+type = "bool"
+
+[header]
+name = "?NewSlot@SQVM@@QEAI_NAEBUSQObjectPtr@@00_N@Z"
+addr = 0x144d3d0
+type = "bool"
+
+[header.args]

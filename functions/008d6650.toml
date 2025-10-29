@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d6650
+size = 0x5
+name = "?FldIsCanUseCommand@@QEAIXXZ"
+
+[header]
+name = "?FldIsCanUseCommand@@QEAIXXZ"
+addr = 0x8d6650
+
+[header.args]

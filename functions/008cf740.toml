@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8cf740
+size = 0x3d
+name = "?FldCameraSetTgt_Gimmick@@QEAIXXZ"
+
+[header]
+name = "?FldCameraSetTgt_Gimmick@@QEAIXXZ"
+addr = 0x8cf740
+
+[header.args]

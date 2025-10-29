@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fde00
+size = 0xd
+name = "?FldVoicePackSetActive@@QEAIXXZ"
+
+[header]
+name = "?FldVoicePackSetActive@@QEAIXXZ"
+addr = 0x8fde00
+
+[header.args]

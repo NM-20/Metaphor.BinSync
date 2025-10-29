@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fd6f0
+size = 0x34
+name = "?FldGetCurrentMapZoneID@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?FldGetCurrentMapZoneID@@QEAIXXZ"
+addr = 0x8fd6f0
+type = "SQInteger"
+
+[header.args]

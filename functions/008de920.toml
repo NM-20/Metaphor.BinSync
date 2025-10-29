@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8de920
+size = 0x2f
+name = "?FldPlayerSetDrawSword@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetDrawSword@@QEAIXXZ"
+addr = 0x8de920
+
+[header.args]

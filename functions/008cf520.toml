@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8cf520
+size = 0x17
+name = "?FldCameraSetHeightMode@@QEAIXXZ"
+
+[header]
+name = "?FldCameraSetHeightMode@@QEAIXXZ"
+addr = 0x8cf520
+
+[header.args]

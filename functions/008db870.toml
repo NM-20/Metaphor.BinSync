@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8db870
+size = 0x3f
+name = "?FldObjResetBreak@@QEAIXXZ"
+
+[header]
+name = "?FldObjResetBreak@@QEAIXXZ"
+addr = 0x8db870
+
+[header.args]

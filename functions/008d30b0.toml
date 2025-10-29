@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d30b0
+size = 0x65
+name = "?FldEnemyPopByPreLoad@@QEAIXXZ"
+
+[header]
+name = "?FldEnemyPopByPreLoad@@QEAIXXZ"
+addr = 0x8d30b0
+
+[header.args]

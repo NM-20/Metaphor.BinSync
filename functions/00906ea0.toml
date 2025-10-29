@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906ea0
+size = 0x5
+name = "?SetLearnedClassRateRewardItemRecieved@@QEAIXXZ"
+
+[header]
+name = "?SetLearnedClassRateRewardItemRecieved@@QEAIXXZ"
+addr = 0x906ea0
+
+[header.args]

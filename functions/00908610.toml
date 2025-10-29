@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x908610
+size = 0x2c
+name = "?SortieMapUI_MoveAutoCursor@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?SortieMapUI_MoveAutoCursor@@QEAIXXZ"
+addr = 0x908610
+type = "void"
+
+[header.args]

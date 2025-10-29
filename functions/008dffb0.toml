@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8dffb0
+size = 0x38
+name = "?FldSetEnableBgLightId@@QEAIXXZ"
+
+[header]
+name = "?FldSetEnableBgLightId@@QEAIXXZ"
+addr = 0x8dffb0
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa8a0
+size = 0x1d
+name = "?CharaAddMaxHP@@QEAIXXZ"
+type = "long long"
+
+[header]
+name = "?CharaAddMaxHP@@QEAIXXZ"
+addr = 0x8fa8a0
+type = "long long"
+
+[header.args]

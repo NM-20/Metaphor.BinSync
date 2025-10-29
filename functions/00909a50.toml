@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909a50
+size = 0x31
+name = "?WorldMapOpen@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?WorldMapOpen@@QEAIXXZ"
+addr = 0x909a50
+type = "void"
+
+[header.args]

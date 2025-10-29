@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dec10
+size = 0x2d
+name = "?FldPlayerSetMebikaCustom@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetMebikaCustom@@QEAIXXZ"
+addr = 0x8dec10
+
+[header.args]

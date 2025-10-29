@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x9024b0
+size = 0x19d
+name = "?MoviePlay@@QEAIXXZ"
+
+[header]
+name = "?MoviePlay@@QEAIXXZ"
+addr = 0x9024b0
+
+[header.args]

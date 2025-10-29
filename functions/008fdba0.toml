@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fdba0
+size = 0x4e
+name = "?FldSetMapEntered@@QEAIXXZ"
+
+[header]
+name = "?FldSetMapEntered@@QEAIXXZ"
+addr = 0x8fdba0
+
+[header.args]

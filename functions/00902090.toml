@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x902090
+size = 0x36
+name = "?ItemGetWindowIsEnd@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?ItemGetWindowIsEnd@@QEAIXXZ"
+addr = 0x902090
+type = "bool"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa490
+size = 0x5
+name = "?CameraShakeAnimSetSpeed@@QEAIXXZ"
+
+[header]
+name = "?CameraShakeAnimSetSpeed@@QEAIXXZ"
+addr = 0x8fa490
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fe2a0
+size = 0xc
+name = "?GetCalendarOverwriteWeatherEndTotalDay@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?GetCalendarOverwriteWeatherEndTotalDay@@QEAIXXZ"
+addr = 0x8fe2a0
+type = "SQInteger"
+
+[header.args]

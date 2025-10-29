@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dc3c0
+size = 0xd3
+name = "?FldPlayerRunToFrontByDoor@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerRunToFrontByDoor@@QEAIXXZ"
+addr = 0x8dc3c0
+
+[header.args]

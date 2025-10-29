@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x907040
+size = 0xa
+name = "?SetPartyMemberAwakened@@QEAIXXZ"
+
+[header]
+name = "?SetPartyMemberAwakened@@QEAIXXZ"
+addr = 0x907040
+
+[header.args]

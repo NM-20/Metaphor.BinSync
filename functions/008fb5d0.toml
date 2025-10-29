@@ -1,10 +1,10 @@
-last_change = 2025-10-28T01:57:08.274642Z
+last_change = 2025-10-29T02:14:22.285898Z
 addr = 0x8fb5d0
 size = 0x3
-name = "nullsub_91"
+name = "?DebugDrawTexture_End@@QEAIXXZ"
 
 [header]
-name = "nullsub_91"
+name = "?DebugDrawTexture_End@@QEAIXXZ"
 addr = 0x8fb5d0
 
 [header.args]

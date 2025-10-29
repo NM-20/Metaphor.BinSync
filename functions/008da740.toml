@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8da740
+size = 0x6b
+name = "?FldNpcRun@@QEAIXXZ"
+
+[header]
+name = "?FldNpcRun@@QEAIXXZ"
+addr = 0x8da740
+
+[header.args]

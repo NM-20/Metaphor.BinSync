@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904b90
+size = 0x2b
+name = "?ResrcGetAnimDuration@@QEAIXXZ"
+
+[header]
+name = "?ResrcGetAnimDuration@@QEAIXXZ"
+addr = 0x904b90
+
+[header.args]

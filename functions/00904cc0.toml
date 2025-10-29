@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904cc0
+size = 0x54
+name = "?ResrcGetGroupId@@QEAIXXZ"
+
+[header]
+name = "?ResrcGetGroupId@@QEAIXXZ"
+addr = 0x904cc0
+
+[header.args]

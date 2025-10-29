@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.300409Z
+addr = 0x13b95a0
+size = 0xd3
+name = "?Create@SQNativeClosure@@SIPEAU1@PEAUSQSharedState@@USQFUNCTION@@USQInteger@@@Z"
+type = "SQNativeClosure *"
+
+[header]
+name = "?Create@SQNativeClosure@@SIPEAU1@PEAUSQSharedState@@USQFUNCTION@@USQInteger@@@Z"
+addr = 0x13b95a0
+type = "SQNativeClosure *"
+
+[header.args]

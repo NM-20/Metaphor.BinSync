@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa930
+size = 0x25
+name = "?CharaRecoveryHP@@QEAIXXZ"
+
+[header]
+name = "?CharaRecoveryHP@@QEAIXXZ"
+addr = 0x8fa930
+
+[header.args]

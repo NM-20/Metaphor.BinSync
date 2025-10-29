@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d9d90
+size = 0x69
+name = "?FldNpcIsExistByNpcID@@QEAIXXZ"
+
+[header]
+name = "?FldNpcIsExistByNpcID@@QEAIXXZ"
+addr = 0x8d9d90
+
+[header.args]

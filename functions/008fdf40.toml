@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fdf40
+size = 0x115
+name = "?FollowerUI_Start@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?FollowerUI_Start@@QEAIXXZ"
+addr = 0x8fdf40
+type = "void"
+
+[header.args]

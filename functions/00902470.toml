@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x902470
+size = 0x32
+name = "?MapOpenWithID@@QEAIXXZ"
+
+[header]
+name = "?MapOpenWithID@@QEAIXXZ"
+addr = 0x902470
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.297407Z
+addr = 0xeb8a90
+size = 0x10748
+name = "FillsStringViewCollectionInSpriteStudioManager"
+type = "unsigned long long *"
+
+[header]
+name = "FillsStringViewCollectionInSpriteStudioManager"
+addr = 0xeb8a90
+type = "unsigned long long *"
+
+[header.args]

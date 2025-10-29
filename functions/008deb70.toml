@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8deb70
+size = 0x6e
+name = "?FldPlayerSetIsMoveFollowCurve@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetIsMoveFollowCurve@@QEAIXXZ"
+addr = 0x8deb70
+
+[header.args]

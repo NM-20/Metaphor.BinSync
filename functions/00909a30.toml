@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x909a30
+size = 0x17
+name = "?WorldMapIsReady@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?WorldMapIsReady@@QEAIXXZ"
+addr = 0x909a30
+type = "bool"
+
+[header.args]

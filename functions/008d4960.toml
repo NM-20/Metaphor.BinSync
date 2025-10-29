@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d4960
+size = 0x20
+name = "?FldEnvIsEndLoadOverride@@QEAIXXZ"
+
+[header]
+name = "?FldEnvIsEndLoadOverride@@QEAIXXZ"
+addr = 0x8d4960
+
+[header.args]

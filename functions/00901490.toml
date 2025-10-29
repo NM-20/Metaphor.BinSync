@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x901490
+size = 0x15
+name = "?GetShortcutPositionID@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?GetShortcutPositionID@@QEAIXXZ"
+addr = 0x901490
+type = "SQInteger"
+
+[header.args]

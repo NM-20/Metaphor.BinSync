@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d8e10
+size = 0x81
+name = "?FldMorningSetupItem@@QEAIXXZ"
+
+[header]
+name = "?FldMorningSetupItem@@QEAIXXZ"
+addr = 0x8d8e10
+
+[header.args]

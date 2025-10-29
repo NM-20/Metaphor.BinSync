@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9041a0
+size = 0x97
+name = "?PostLoadGetGidNum@@QEAIXXZ"
+
+[header]
+name = "?PostLoadGetGidNum@@QEAIXXZ"
+addr = 0x9041a0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fdd90
+size = 0x5
+name = "?FldTravelResetTimeZoneTransitionExecutionHistory@@QEAIXXZ"
+
+[header]
+name = "?FldTravelResetTimeZoneTransitionExecutionHistory@@QEAIXXZ"
+addr = 0x8fdd90
+
+[header.args]

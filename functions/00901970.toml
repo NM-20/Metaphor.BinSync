@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x901970
+size = 0x36
+name = "?IllustrationUI_IsReady@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?IllustrationUI_IsReady@@QEAIXXZ"
+addr = 0x901970
+type = "bool"
+
+[header.args]

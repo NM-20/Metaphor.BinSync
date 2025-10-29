@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908bf0
+size = 0x17
+name = "?SortieMeeting_IsReady@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?SortieMeeting_IsReady@@QEAIXXZ"
+addr = 0x908bf0
+type = "bool"
+
+[header.args]

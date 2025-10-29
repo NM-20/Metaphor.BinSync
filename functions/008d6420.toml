@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d6420
+size = 0xa4
+name = "?FldHitCollisGetUidByLayoutName@@QEAIXXZ"
+
+[header]
+name = "?FldHitCollisGetUidByLayoutName@@QEAIXXZ"
+addr = 0x8d6420
+
+[header.args]

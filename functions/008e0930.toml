@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8e0930
+size = 0x4
+name = "?XE_AAAAA@@QEAIXXZ"
+
+[header]
+name = "?XE_AAAAA@@QEAIXXZ"
+addr = 0x8e0930
+
+[header.args]

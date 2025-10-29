@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa190
+size = 0xcd
+name = "?AnimFadeOut@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?AnimFadeOut@@QEAIXXZ"
+addr = 0x8fa190
+type = "void"
+
+[header.args]

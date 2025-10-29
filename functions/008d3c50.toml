@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d3c50
+size = 0x6b
+name = "?FldEnemySetIsAIRouteLoop@@QEAIXXZ"
+
+[header]
+name = "?FldEnemySetIsAIRouteLoop@@QEAIXXZ"
+addr = 0x8d3c50
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fc1f0
+size = 0x184
+name = "?EventGuideClose@@QEAIXXZ"
+
+[header]
+name = "?EventGuideClose@@QEAIXXZ"
+addr = 0x8fc1f0
+
+[header.args]

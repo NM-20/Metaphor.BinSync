@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908970
+size = 0x3b
+name = "?SortieMapUI_SetPlayedPathEffect@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_SetPlayedPathEffect@@QEAIXXZ"
+addr = 0x908970
+
+[header.args]

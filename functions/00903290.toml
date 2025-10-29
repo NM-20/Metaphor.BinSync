@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x903290
+size = 0x41
+name = "?MsgRequestSubtitlesAuto@@QEAIXXZ"
+
+[header]
+name = "?MsgRequestSubtitlesAuto@@QEAIXXZ"
+addr = 0x903290
+
+[header.args]

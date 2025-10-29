@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8da650
+size = 0x98
+name = "?FldNpcPlayIcon@@QEAIXXZ"
+
+[header]
+name = "?FldNpcPlayIcon@@QEAIXXZ"
+addr = 0x8da650
+
+[header.args]

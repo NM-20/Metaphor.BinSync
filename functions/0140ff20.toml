@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.300910Z
+addr = 0x140ff20
+size = 0x5
+name = "j_?PlayAnime@SpriteStudioPane@ui@app@@QEAIAEAV123@PEBD_N@Z"
+type = "app::ui::SpriteStudioPane *"
+
+[header]
+name = "j_?PlayAnime@SpriteStudioPane@ui@app@@QEAIAEAV123@PEBD_N@Z"
+addr = 0x140ff20
+type = "app::ui::SpriteStudioPane *"
+
+[header.args]

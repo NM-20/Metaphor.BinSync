@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x907e10
+size = 0x50
+name = "?SortieMapUI_GetMapIDByPoint@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_GetMapIDByPoint@@QEAIXXZ"
+addr = 0x907e10
+
+[header.args]

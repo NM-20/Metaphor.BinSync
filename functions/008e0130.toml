@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8e0130
+size = 0x70
+name = "?FldTboxGetItemID@@QEAIXXZ"
+
+[header]
+name = "?FldTboxGetItemID@@QEAIXXZ"
+addr = 0x8e0130
+
+[header.args]

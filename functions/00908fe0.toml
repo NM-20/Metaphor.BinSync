@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x908fe0
+size = 0x15
+name = "?Staffroll_Open@@QEAIXXZ"
+
+[header]
+name = "?Staffroll_Open@@QEAIXXZ"
+addr = 0x908fe0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x902d30
+size = 0x80
+name = "?MsgReportOpenEx@@QEAIXXZ"
+
+[header]
+name = "?MsgReportOpenEx@@QEAIXXZ"
+addr = 0x902d30
+
+[header.args]

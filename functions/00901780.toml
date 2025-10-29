@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x901780
+size = 0xb3
+name = "?HumanParamUP2@@QEAIXXZ"
+
+[header]
+name = "?HumanParamUP2@@QEAIXXZ"
+addr = 0x901780
+
+[header.args]

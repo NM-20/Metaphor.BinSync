@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x904090
+size = 0x3e
+name = "?PostLoadGetEffectByIndex@@QEAIXXZ"
+
+[header]
+name = "?PostLoadGetEffectByIndex@@QEAIXXZ"
+addr = 0x904090
+
+[header.args]

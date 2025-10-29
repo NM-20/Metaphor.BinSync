@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fa380
+size = 0xc
+name = "?BountyUI_IsReady@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?BountyUI_IsReady@@QEAIXXZ"
+addr = 0x8fa380
+type = "bool"
+
+[header.args]

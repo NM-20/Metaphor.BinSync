@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x903c50
+size = 0x8
+name = "?PlayGo_OpenProgressBar_IsEndProc@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?PlayGo_OpenProgressBar_IsEndProc@@QEAIXXZ"
+addr = 0x903c50
+type = "bool"
+
+[header.args]

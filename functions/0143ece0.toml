@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.301410Z
+addr = 0x143ece0
+size = 0x3
+name = "?CMD_PAD_PRESS@@QEAIXXZ"
+
+[header]
+name = "?CMD_PAD_PRESS@@QEAIXXZ"
+addr = 0x143ece0
+
+[header.args]

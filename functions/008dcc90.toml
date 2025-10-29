@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dcc90
+size = 0x5
+name = "?FldPlayerSetBasePose@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?FldPlayerSetBasePose@@QEAIXXZ"
+addr = 0x8dcc90
+type = "void"
+
+[header.args]

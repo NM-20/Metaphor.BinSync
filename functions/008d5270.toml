@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d5270
+size = 0x59
+name = "?FldGetFollowerID@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?FldGetFollowerID@@QEAIXXZ"
+addr = 0x8d5270
+type = "SQInteger"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d9b50
+size = 0x43
+name = "?FldNpcIsAnimEnd@@QEAIXXZ"
+
+[header]
+name = "?FldNpcIsAnimEnd@@QEAIXXZ"
+addr = 0x8d9b50
+
+[header.args]

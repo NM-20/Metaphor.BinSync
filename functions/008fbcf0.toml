@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fbcf0
+size = 0x10a
+name = "?Ending_Message_CreateUI@@QEAIXXZ"
+
+[header]
+name = "?Ending_Message_CreateUI@@QEAIXXZ"
+addr = 0x8fbcf0
+
+[header.args]

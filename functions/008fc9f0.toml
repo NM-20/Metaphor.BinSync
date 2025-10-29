@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fc9f0
+size = 0x54
+name = "?Exp_Add_Class_Category_Hero@@QEAIXXZ"
+
+[header]
+name = "?Exp_Add_Class_Category_Hero@@QEAIXXZ"
+addr = 0x8fc9f0
+
+[header.args]

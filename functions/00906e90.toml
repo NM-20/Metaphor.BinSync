@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906e90
+size = 0x5
+name = "?SetHeroDefaultParam@@QEAIXXZ"
+
+[header]
+name = "?SetHeroDefaultParam@@QEAIXXZ"
+addr = 0x906e90
+
+[header.args]

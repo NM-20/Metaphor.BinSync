@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x906ee0
+size = 0x138
+name = "?SetPartyGameClear@@QEAIXXZ"
+
+[header]
+name = "?SetPartyGameClear@@QEAIXXZ"
+addr = 0x906ee0
+
+[header.args]

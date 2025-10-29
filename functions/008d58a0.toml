@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d58a0
+size = 0x41
+name = "?FldGmcGetResScrID@@QEAIXXZ"
+
+[header]
+name = "?FldGmcGetResScrID@@QEAIXXZ"
+addr = 0x8d58a0
+
+[header.args]

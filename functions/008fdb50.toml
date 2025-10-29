@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fdb50
+size = 0x5
+name = "?FldScriptFuncGetArg_Float@@QEAIXXZ"
+type = "__m128"
+
+[header]
+name = "?FldScriptFuncGetArg_Float@@QEAIXXZ"
+addr = 0x8fdb50
+type = "__m128"
+
+[header.args]

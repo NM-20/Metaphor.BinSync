@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d5c10
+size = 0x65
+name = "?FldGmcSetAnim@@QEAIXXZ"
+
+[header]
+name = "?FldGmcSetAnim@@QEAIXXZ"
+addr = 0x8d5c10
+
+[header.args]

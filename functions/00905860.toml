@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x905860
+size = 0x17
+name = "?SafeRoomMenuUI_IsClosed@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?SafeRoomMenuUI_IsClosed@@QEAIXXZ"
+addr = 0x905860
+type = "bool"
+
+[header.args]

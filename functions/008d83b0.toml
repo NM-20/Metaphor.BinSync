@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8d83b0
+size = 0x46
+name = "?FldMemberSetColActive_AdjustGround@@QEAIXXZ"
+
+[header]
+name = "?FldMemberSetColActive_AdjustGround@@QEAIXXZ"
+addr = 0x8d83b0
+
+[header.args]

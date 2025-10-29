@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8db1a0
+size = 0x49
+name = "?FldNpcStopIcon@@QEAIXXZ"
+
+[header]
+name = "?FldNpcStopIcon@@QEAIXXZ"
+addr = 0x8db1a0
+
+[header.args]

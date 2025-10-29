@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x8fd750
+size = 0x14
+name = "?FldGetSeason@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?FldGetSeason@@QEAIXXZ"
+addr = 0x8fd750
+type = "SQInteger"
+
+[header.args]

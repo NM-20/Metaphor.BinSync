@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9053b0
+size = 0x59
+name = "?ResrcSetAnimNext@@QEAIXXZ"
+
+[header]
+name = "?ResrcSetAnimNext@@QEAIXXZ"
+addr = 0x9053b0
+
+[header.args]

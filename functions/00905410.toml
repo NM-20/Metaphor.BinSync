@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x905410
+size = 0x36
+name = "?ResrcSetAnimSpeed@@QEAIXXZ"
+
+[header]
+name = "?ResrcSetAnimSpeed@@QEAIXXZ"
+addr = 0x905410
+
+[header.args]

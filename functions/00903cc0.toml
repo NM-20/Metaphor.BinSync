@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x903cc0
+size = 0x3b
+name = "?PostLoadAddColObject@@QEAIXXZ"
+
+[header]
+name = "?PostLoadAddColObject@@QEAIXXZ"
+addr = 0x903cc0
+
+[header.args]

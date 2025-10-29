@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8dfc90
+size = 0x5
+name = "?FldReturnItemGetPosID@@QEAIXXZ"
+
+[header]
+name = "?FldReturnItemGetPosID@@QEAIXXZ"
+addr = 0x8dfc90
+
+[header.args]

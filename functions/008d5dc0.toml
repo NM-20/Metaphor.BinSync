@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284897Z
+addr = 0x8d5dc0
+size = 0x46
+name = "?FldGmcSetAtkIgnoreWall@@QEAIXXZ"
+
+[header]
+name = "?FldGmcSetAtkIgnoreWall@@QEAIXXZ"
+addr = 0x8d5dc0
+
+[header.args]

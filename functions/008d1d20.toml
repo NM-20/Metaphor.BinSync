@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8d1d20
+size = 0x53
+name = "?FldEffectPlayByPreLoad@@QEAIXXZ"
+
+[header]
+name = "?FldEffectPlayByPreLoad@@QEAIXXZ"
+addr = 0x8d1d20
+
+[header.args]

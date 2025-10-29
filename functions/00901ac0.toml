@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x901ac0
+size = 0x48
+name = "?IsEndFaceScalptureMagUI@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?IsEndFaceScalptureMagUI@@QEAIXXZ"
+addr = 0x901ac0
+type = "bool"
+
+[header.args]

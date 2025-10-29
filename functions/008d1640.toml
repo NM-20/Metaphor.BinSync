@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8d1640
+size = 0x54
+name = "?FldDoorGetLinkFlag_ST@@QEAIXXZ"
+
+[header]
+name = "?FldDoorGetLinkFlag_ST@@QEAIXXZ"
+addr = 0x8d1640
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.287399Z
+addr = 0x9097b0
+size = 0x29
+name = "?WipeIsNeedToWaitOut@@QEAIXXZ"
+
+[header]
+name = "?WipeIsNeedToWaitOut@@QEAIXXZ"
+addr = 0x9097b0
+
+[header.args]

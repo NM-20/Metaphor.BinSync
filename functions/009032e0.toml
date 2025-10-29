@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x9032e0
+size = 0x3d
+name = "?MsgRequestSystemMessage@@QEAIXXZ"
+
+[header]
+name = "?MsgRequestSystemMessage@@QEAIXXZ"
+addr = 0x9032e0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.300910Z
+addr = 0x1419a50
+size = 0x4
+name = "?CMD_ADD@@QEAIXXZ"
+
+[header]
+name = "?CMD_ADD@@QEAIXXZ"
+addr = 0x1419a50
+
+[header.args]

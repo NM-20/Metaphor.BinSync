@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9046f0
+size = 0x1b
+name = "?Quest_SetState_Obtained@@QEAIXXZ"
+type = "void"
+
+[header]
+name = "?Quest_SetState_Obtained@@QEAIXXZ"
+addr = 0x9046f0
+type = "void"
+
+[header.args]

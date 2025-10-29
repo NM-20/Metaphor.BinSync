@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x905670
+size = 0xc7
+name = "?ResrcSetTranslateToResrc@@QEAIXXZ"
+
+[header]
+name = "?ResrcSetTranslateToResrc@@QEAIXXZ"
+addr = 0x905670
+
+[header.args]

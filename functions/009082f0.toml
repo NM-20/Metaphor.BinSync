@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9082f0
+size = 0x18
+name = "?SortieMapUI_GetRoutePathIndexMax@@QEAIXXZ"
+type = "SQInteger"
+
+[header]
+name = "?SortieMapUI_GetRoutePathIndexMax@@QEAIXXZ"
+addr = 0x9082f0
+type = "SQInteger"
+
+[header.args]

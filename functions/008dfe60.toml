@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8dfe60
+size = 0x60
+name = "?FldScriptEventAssistSetCharaParam_Talk@@QEAIXXZ"
+
+[header]
+name = "?FldScriptEventAssistSetCharaParam_Talk@@QEAIXXZ"
+addr = 0x8dfe60
+
+[header.args]

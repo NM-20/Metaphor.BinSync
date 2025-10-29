@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8f98b0
+size = 0xa
+name = "?AcademiaIsTopMenu@@QEAIXXZ"
+type = "unsigned char"
+
+[header]
+name = "?AcademiaIsTopMenu@@QEAIXXZ"
+addr = 0x8f98b0
+type = "unsigned char"
+
+[header.args]

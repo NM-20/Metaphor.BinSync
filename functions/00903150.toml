@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x903150
+size = 0x4b
+name = "?MsgRequestSelect_CancelExit@@QEAIXXZ"
+
+[header]
+name = "?MsgRequestSelect_CancelExit@@QEAIXXZ"
+addr = 0x903150
+
+[header.args]

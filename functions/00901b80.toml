@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x901b80
+size = 0x17
+name = "?IsInParty@@QEAIXXZ"
+type = "long long"
+
+[header]
+name = "?IsInParty@@QEAIXXZ"
+addr = 0x901b80
+type = "long long"
+
+[header.args]

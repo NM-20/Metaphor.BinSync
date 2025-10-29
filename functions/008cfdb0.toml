@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.284396Z
+addr = 0x8cfdb0
+size = 0x3b
+name = "?FldCameraSetToPath@@QEAIXXZ"
+
+[header]
+name = "?FldCameraSetToPath@@QEAIXXZ"
+addr = 0x8cfdb0
+
+[header.args]

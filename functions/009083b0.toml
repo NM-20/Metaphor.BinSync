@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x9083b0
+size = 0x5
+name = "?SortieMapUI_IsAllViewPointVisited@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?SortieMapUI_IsAllViewPointVisited@@QEAIXXZ"
+addr = 0x9083b0
+type = "bool"
+
+[header.args]

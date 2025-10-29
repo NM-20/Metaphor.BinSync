@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.286899Z
+addr = 0x908330
+size = 0x11
+name = "?SortieMapUI_GetRoutePointID@@QEAIXXZ"
+
+[header]
+name = "?SortieMapUI_GetRoutePointID@@QEAIXXZ"
+addr = 0x908330
+
+[header.args]

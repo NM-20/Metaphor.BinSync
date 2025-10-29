@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.286398Z
+addr = 0x903730
+size = 0x5
+name = "?NovelIsEnd@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?NovelIsEnd@@QEAIXXZ"
+addr = 0x903730
+type = "bool"
+
+[header.args]

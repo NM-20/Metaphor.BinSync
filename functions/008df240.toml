@@ -1,0 +1,10 @@
+last_change = 2025-10-29T02:14:22.285397Z
+addr = 0x8df240
+size = 0x13c
+name = "?FldPlayerSetToDoorCustom@@QEAIXXZ"
+
+[header]
+name = "?FldPlayerSetToDoorCustom@@QEAIXXZ"
+addr = 0x8df240
+
+[header.args]

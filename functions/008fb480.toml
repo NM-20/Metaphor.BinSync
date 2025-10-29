@@ -1,0 +1,12 @@
+last_change = 2025-10-29T02:14:22.285898Z
+addr = 0x8fb480
+size = 0x5
+name = "?DateProgressUI_IsClosed@@QEAIXXZ"
+type = "bool"
+
+[header]
+name = "?DateProgressUI_IsClosed@@QEAIXXZ"
+addr = 0x8fb480
+type = "bool"
+
+[header.args]

@@ -11,3 +11,10 @@ addr = 0xec917a
 func_addr = 0xeb8a90
 comment = "\n"
 decompiled = true
+
+[0x3614d]
+last_change = 2025-10-30T03:39:19.164641Z
+addr = 0x3614d
+func_addr = 0x36110
+comment = "\nSeems to be an index into `s_UnknownResourceFileInfos`."
+decompiled = true
